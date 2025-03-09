@@ -1,4 +1,4 @@
- name: Send random Pokemon to trmnl
+name: Send random Pokemon to trmnl
 
 on:
   schedule:
