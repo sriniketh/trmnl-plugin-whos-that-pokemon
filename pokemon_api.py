@@ -13,10 +13,21 @@ def fetch_random_pokemon() -> Dict[str, Any]:
     types = [t["type"]["name"] for t in pokemon_data["types"]]
     abilities = [a["ability"]["name"] for a in pokemon_data["abilities"]]
     
+    species_url = pokemon_data["species"]["url"]
+    species_response = requests.get(species_url)
+    species_data = species_response.json()
+    
+    for genus in species_data["genera"]:
+        if genus["language"]["name"] == "en":
+            species_name = genus["genus"]
+            break
+    else:
+        species_name = species_data["name"]
+    
     return {
         "name": pokemon_data["name"].title(),
         "types": ", ".join(types),
-        "species": pokemon_data["species"]["name"],
+        "species": species_name,
         "height": f"{pokemon_data["height"] / 10} m",  # Convert to meters
         "weight": f"{pokemon_data["weight"] / 10} kg",  # Convert to kilograms
         "abilities": ", ".join(abilities),
