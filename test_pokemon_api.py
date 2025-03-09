@@ -49,11 +49,11 @@ def test_fetch_random_pokemon_returns_correct_response(mock_pokemon_response, mo
         result = fetch_random_pokemon()
         
         assert result["name"] == "Pikachu"
-        assert result["types"] == "electric"
+        assert result["types"] == "Electric"
         assert result["species"] == "Mouse Pokémon"
         assert result["height"] == "0.4 m"
         assert result["weight"] == "6.0 kg"
-        assert result["abilities"] == "static, lightning-rod"
+        assert result["abilities"] == "Static, Lightning-Rod"
         assert result["artwork"] == "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
 
 def test_fetch_random_pokemon_no_english_genus(mock_pokemon_response):
@@ -74,7 +74,7 @@ def test_fetch_random_pokemon_no_english_genus(mock_pokemon_response):
         ]
         
         result = fetch_random_pokemon()
-        assert result["species"] == "pikachu"
+        assert result["species"] == "Pikachu"
 
 def test_fetch_random_pokemon_calls_correct_endpoints(mock_pokemon_response, mock_species_response):
     with patch('requests.get') as mock_get, \

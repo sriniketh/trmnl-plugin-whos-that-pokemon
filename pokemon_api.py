@@ -26,10 +26,10 @@ def fetch_random_pokemon() -> Dict[str, Any]:
     
     return {
         "name": pokemon_data["name"].title(),
-        "types": ", ".join(types),
-        "species": species_name,
+        "types": ", ".join(type.title() for type in types),
+        "species": species_name.title(),
         "height": f"{pokemon_data["height"] / 10} m",  # Convert to meters
         "weight": f"{pokemon_data["weight"] / 10} kg",  # Convert to kilograms
-        "abilities": ", ".join(abilities),
+        "abilities": ", ".join(ability.title() for ability in abilities),
         "artwork": pokemon_data["sprites"]["other"]["official-artwork"]["front_default"]
     }
