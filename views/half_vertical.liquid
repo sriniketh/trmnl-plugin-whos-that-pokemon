@@ -1,0 +1,58 @@
+<div class="layout layout--col layout--stretch">
+  <!-- First Row: Details -->
+  <div class="flex flex--col flex--center-x flex--center-y flex--stretch gap--medium">
+    <!-- Pokémon Details -->
+    <div class="item">
+      <div class="meta"></div>
+      <div class="content">
+        <span class="value value--xxsmall">{{ pokemon_type }}</span>
+        <span class="label label--small">Type</span>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="meta"></div>
+      <div class="content">
+        <span class="value value--xxsmall">{{ pokemon_species }}</span>
+        <span class="label label--small">Species</span>
+      </div>
+    </div>
+
+    <div class="flex flex--stretch gap--xsmall">
+      <div class="item">
+        <div class="meta"></div>
+        <div class="content">
+          <span class="value value--xxsmall">{{ pokemon_height }}</span>
+          <span class="label label--small">Height</span>
+        </div>
+      </div>
+      <div class="item">
+        <div class="meta"></div>
+        <div class="content">
+          <span class="value value--xxsmall">{{ pokemon_weight }}</span>
+          <span class="label label--small">Weight</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Second Row: Artwork -->
+  <div class="flex flex--col flex--stretch flex--center-x flex--center-y" style="max-height: 50%;">
+    <div class="flex flex--center-x" style="max-height: 80%; width: auto;">
+      <img 
+        src={{ pokemon_artwork }} 
+        alt="pokemon Artwork" 
+        class="image-dither" />
+    </div>
+
+    <!-- Pokémon Name -->
+    <div class="flex flex--center-x">
+      <span class="value value--xsmall" data-value-fit="true" style="font-weight: bold;">{{ pokemon_name }}</span>
+    </div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Pok%C3%A9_Ball.svg" />
+  <span class="title">Who's That Pokémon?</span>
+</div>
