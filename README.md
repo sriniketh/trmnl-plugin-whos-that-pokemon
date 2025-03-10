@@ -15,10 +15,13 @@ Create a [private plugin](https://usetrmnl.com/plugin_settings?keyname=private_p
 Set the strategy to `Webhook`.
 Copy the Webhook URL.
 
-## Step 2: Clone this repo
+## Step 2: Fork this repo
 Fork this repository and add the Webhook URL as TRMNL_WEBHOOK_URL to secrets.
 
-The Github Action will trigger once a day and POST to the Webhook URL that's been set.
+## Step 3: Setup templates
+Copy the full, half horizontal, half vertical and quadrant views from the `views/` directory and paste it as markup for the plugin on the dashboard.
+
+The Github Action workflow [Send random Pokemon to trmnl](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon/actions/workflows/send_pokemon_to_trmnl.yml) will trigger once a day and POST to the Webhook URL that's been set. The workflow can be triggered manually as well.
 
 # Attributions
 The data is obtained from [PokéAPI](https://pokeapi.co/).
