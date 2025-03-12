@@ -5,6 +5,9 @@ on:
     - cron: '0 12 * * *'  # Runs at 12:00 UTC daily
   workflow_dispatch:  # Allows manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   fetch-and-save-pokemon:
     runs-on: ubuntu-latest
