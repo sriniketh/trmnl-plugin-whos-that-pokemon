@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-12T02:31:47.644320",
+  "timestamp": "2025-03-12T12:44:36.062257",
   "pokemon_data": {
-    "name": "Piplup",
-    "types": "Water",
-    "species": "Penguin Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.2 kg",
-    "abilities": "Torrent, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png"
+    "name": "Manectric",
+    "types": "Electric",
+    "species": "Discharge Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "40.2 kg",
+    "abilities": "Static, Lightning-Rod, Minus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
   }
 }
