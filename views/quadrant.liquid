@@ -3,14 +3,14 @@
   <div class="flex flex--col flex--stretch flex--center-x flex--center-y h-full">
     <div class="flex flex--center-x" style="max-height: 80%; width: auto;">
       <img 
-        src={{ pokemon_artwork }} 
+        src={{ pokemon_data.artwork }} 
         alt="pokemon Artwork" 
         class="image-dither" />
     </div>
 
     <!-- Pokémon Name -->
     <div class="flex flex--center-x">
-      <span class="value value--xxsmall" data-value-fit="true" style="font-weight: bold;">{{ pokemon_name }}</span>
+      <span class="value value--xxsmall" data-value-fit="true" style="font-weight: bold;">{{ pokemon_data.name }}</span>
     </div>
   </div>
 </div>

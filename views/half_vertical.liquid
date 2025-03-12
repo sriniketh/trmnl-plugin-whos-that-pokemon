@@ -5,7 +5,7 @@
     <div class="item">
       <div class="meta"></div>
       <div class="content">
-        <span class="value value--xxsmall">{{ pokemon_type }}</span>
+        <span class="value value--xxsmall">{{ pokemon_data.types }}</span>
         <span class="label label--small">Type</span>
       </div>
     </div>
@@ -13,7 +13,7 @@
     <div class="item">
       <div class="meta"></div>
       <div class="content">
-        <span class="value value--xxsmall">{{ pokemon_species }}</span>
+        <span class="value value--xxsmall">{{ pokemon_data.species }}</span>
         <span class="label label--small">Species</span>
       </div>
     </div>
@@ -22,14 +22,14 @@
       <div class="item">
         <div class="meta"></div>
         <div class="content">
-          <span class="value value--xxsmall">{{ pokemon_height }}</span>
+          <span class="value value--xxsmall">{{ pokemon_data.height }}</span>
           <span class="label label--small">Height</span>
         </div>
       </div>
       <div class="item">
         <div class="meta"></div>
         <div class="content">
-          <span class="value value--xxsmall">{{ pokemon_weight }}</span>
+          <span class="value value--xxsmall">{{ pokemon_data.weight }}</span>
           <span class="label label--small">Weight</span>
         </div>
       </div>
@@ -40,14 +40,14 @@
   <div class="flex flex--col flex--stretch flex--center-x flex--center-y" style="max-height: 50%;">
     <div class="flex flex--center-x" style="max-height: 80%; width: auto;">
       <img 
-        src={{ pokemon_artwork }} 
+        src={{ pokemon_data.artwork }} 
         alt="pokemon Artwork" 
         class="image-dither" />
     </div>
 
     <!-- Pokémon Name -->
     <div class="flex flex--center-x">
-      <span class="value value--xsmall" data-value-fit="true" style="font-weight: bold;">{{ pokemon_name }}</span>
+      <span class="value value--xsmall" data-value-fit="true" style="font-weight: bold;">{{ pokemon_data.name }}</span>
     </div>
   </div>
 </div>
