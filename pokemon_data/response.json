@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-03-12T02:06:31.313437",
+  "pokemon_data": {
+    "name": "Fletchinder",
+    "types": "Fire, Flying",
+    "species": "Ember Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "16.0 kg",
+    "abilities": "Flame-Body, Gale-Wings",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png"
+  }
+}
