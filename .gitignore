@@ -40,4 +40,4 @@ htmlcov/
 
 # Project specific
 logs/
-*.json
+!daily_pokemon/*.json

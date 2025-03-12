@@ -1,4 +1,4 @@
-name: Send random Pokemon to trmnl
+name: Fetch and save random Pokemon
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  send-to-trmnl:
+  fetch-and-save-pokemon:
     runs-on: ubuntu-latest
     
     steps:
@@ -27,36 +27,46 @@ jobs:
     - name: Run tests
       run: pytest -v
 
-    - name: Create logs directory
-      run: mkdir -p logs
+    - name: Create directories
+      run: |
+        mkdir -p logs
+        mkdir -p daily_pokemon
     
-    - name: Fetch random Pokemon and send to webhook
-      env:
-        TRMNL_WEBHOOK_URL: ${{ secrets.TRMNL_WEBHOOK_URL }}
+    - name: Fetch random Pokemon and save response
       run: |
         python -c "
         import json
         from datetime import datetime
         from pokemon_api import fetch_random_pokemon
-        from post_to_webhook import send_pokemon_to_trmnl
         
         # Fetch Pokemon data
         pokemon_data = fetch_random_pokemon()
         
-        # Create log entry
-        log_entry = {
+        # Create data entry
+        data_entry = {
             'timestamp': datetime.now().isoformat(),
             'pokemon_data': pokemon_data
         }
+
+        # Save to latest.json for polling
+        with open('daily_pokemon/latest.json', 'w') as f:
+            json.dump(data_entry, f, indent=2)
         
          # Save to log file with today's date
         log_file = f'logs/pokemon_{datetime.now().strftime(\"%Y-%m-%d\")}.json'
         with open(log_file, 'w') as f:
-            json.dump(log_entry, f, indent=2)
-            
-        # Send to webhook
-        send_pokemon_to_trmnl(pokemon_data)
+            json.dump(data_entry, f, indent=2)
         "
+
+    - name: Commit and push latest Pokemon
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add daily_pokemon/latest.json
+        git commit -m "Update Pokemon of the day" || exit 0
+        git push
     
     - name: Upload log
       uses: actions/upload-artifact@v4
