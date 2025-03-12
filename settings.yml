@@ -1,10 +1,10 @@
 ---
-strategy: webhook
+strategy: polling
 no_screen_padding: 'no'
 dark_mode: 'no'
 static_data: ''
 polling_verb: get
-polling_url: ''
-polling_headers: ''
+polling_url: https://raw.githubusercontent.com/sriniketh/trmnl-plugin-whos-that-pokemon/refs/heads/main/pokemon_data/response.json
+polling_headers: content-type=application/json
 name: Who's That Pokémon?
 refresh_interval: 1440
