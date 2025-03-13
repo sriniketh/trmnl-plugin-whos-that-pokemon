@@ -23,9 +23,15 @@ def fetch_random_pokemon() -> Dict[str, Any]:
             break
     else:
         species_name = species_data["name"]
+
+    for name in species_data["names"]:
+        if name["language"]["name"] == "ja":
+            name_ja = name["name"]
+            break
     
     return {
         "name": pokemon_data["name"].title(),
+        "name_ja": name_ja.title(),
         "types": ", ".join(type.title() for type in types),
         "species": species_name.title(),
         "height": f"{pokemon_data["height"] / 10} m",  # Convert to meters

@@ -36,6 +36,15 @@ def mock_species_response():
                 "genus": "Mouse Pokémon",
                 "language": {"name": "en"}
             }
+        ],
+        "names": [
+            {
+                "language": { 
+                    "name":"ja",
+                    "url":"https://pokeapi.co/api/v2/language/11/"
+                },
+                "name":"ピカチュウ"
+            }
         ]
     }
 
@@ -49,6 +58,7 @@ def test_fetch_random_pokemon_returns_correct_response(mock_pokemon_response, mo
         result = fetch_random_pokemon()
         
         assert result["name"] == "Pikachu"
+        assert result["name_ja"] == "ピカチュウ"
         assert result["types"] == "Electric"
         assert result["species"] == "Mouse Pokémon"
         assert result["height"] == "0.4 m"
@@ -63,6 +73,15 @@ def test_fetch_random_pokemon_no_english_genus(mock_pokemon_response):
             {
                 "genus": "Souris Pokémon",
                 "language": {"name": "fr"}
+            }
+        ],
+        "names": [
+            {
+                "language": { 
+                    "name":"ja",
+                    "url":"https://pokeapi.co/api/v2/language/11/"
+                },
+                "name":"ピカチュウ"
             }
         ]
     }
