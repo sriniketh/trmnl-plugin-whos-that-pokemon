@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-12T12:44:36.062257",
+  "timestamp": "2025-03-13T12:45:26.620361",
   "pokemon_data": {
-    "name": "Manectric",
-    "types": "Electric",
-    "species": "Discharge Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
+    "name": "Cufant",
+    "types": "Steel",
+    "species": "Copperderm Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "100.0 kg",
+    "abilities": "Sheer-Force, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png"
   }
 }
