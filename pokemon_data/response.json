@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-15T12:39:36.705238",
+  "timestamp": "2025-03-16T12:39:38.457280",
   "pokemon_data": {
-    "name": "Heatran",
-    "types": "Fire, Steel",
-    "species": "Lava Dome Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "430.0 kg",
-    "abilities": "Flash-Fire, Flame-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png"
+    "name": "Spiritomb",
+    "types": "Ghost, Dark",
+    "species": "Forbidden Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "108.0 kg",
+    "abilities": "Pressure, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
   }
 }
