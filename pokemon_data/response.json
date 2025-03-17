@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-16T12:39:38.457280",
+  "timestamp": "2025-03-17T12:47:11.844471",
   "pokemon_data": {
-    "name": "Spiritomb",
-    "types": "Ghost, Dark",
-    "species": "Forbidden Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "108.0 kg",
-    "abilities": "Pressure, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
+    "name": "Solrock",
+    "types": "Rock, Psychic",
+    "species": "Meteorite Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "154.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png"
   }
 }
