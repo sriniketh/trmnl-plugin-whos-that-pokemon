@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-21T12:43:51.089919",
+  "timestamp": "2025-03-22T12:39:55.185262",
   "pokemon_data": {
-    "name": "Dragonair",
-    "types": "Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "4.0 m",
-    "weight": "16.5 kg",
-    "abilities": "Shed-Skin, Marvel-Scale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+    "name": "Cacnea",
+    "types": "Grass",
+    "species": "Cactus Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "51.3 kg",
+    "abilities": "Sand-Veil, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png"
   }
 }
