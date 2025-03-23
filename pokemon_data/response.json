@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-22T12:39:55.185262",
+  "timestamp": "2025-03-23T12:40:34.745456",
   "pokemon_data": {
-    "name": "Cacnea",
-    "types": "Grass",
-    "species": "Cactus Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "51.3 kg",
-    "abilities": "Sand-Veil, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png"
+    "name": "Flutter-Mane",
+    "types": "Ghost, Fairy",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "4.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png"
   }
 }
