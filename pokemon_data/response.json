@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-23T12:40:34.745456",
+  "timestamp": "2025-03-24T12:47:29.307285",
   "pokemon_data": {
-    "name": "Flutter-Mane",
-    "types": "Ghost, Fairy",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "4.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png"
+    "name": "Feraligatr",
+    "types": "Water",
+    "species": "Big Jaw Pok\u00e9mon",
+    "height": "2.3 m",
+    "weight": "88.8 kg",
+    "abilities": "Torrent, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
   }
 }
