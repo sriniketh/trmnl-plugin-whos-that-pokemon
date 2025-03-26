@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-25T12:45:52.902926",
+  "timestamp": "2025-03-26T12:46:53.488082",
   "pokemon_data": {
-    "name": "Dhelmise",
-    "types": "Ghost, Grass",
-    "species": "Sea Creeper Pok\u00e9mon",
-    "height": "3.9 m",
-    "weight": "210.0 kg",
-    "abilities": "Steelworker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
+    "name": "Hawlucha",
+    "types": "Fighting, Flying",
+    "species": "Wrestling Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "21.5 kg",
+    "abilities": "Limber, Unburden, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
   }
 }
