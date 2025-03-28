@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-27T12:46:39.026208",
+  "timestamp": "2025-03-28T12:45:12.238533",
   "pokemon_data": {
-    "name": "Manectric",
-    "types": "Electric",
-    "species": "Discharge Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
+    "name": "Greedent",
+    "types": "Normal",
+    "species": "Greedy Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "6.0 kg",
+    "abilities": "Cheek-Pouch, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png"
   }
 }
