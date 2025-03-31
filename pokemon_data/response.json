@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-30T12:41:03.461783",
+  "timestamp": "2025-03-31T12:48:10.557110",
   "pokemon_data": {
-    "name": "Mawile",
-    "types": "Steel, Fairy",
-    "species": "Deceiver Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.5 kg",
-    "abilities": "Hyper-Cutter, Intimidate, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png"
+    "name": "Cottonee",
+    "types": "Grass, Fairy",
+    "species": "Cotton Puff Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.6 kg",
+    "abilities": "Prankster, Infiltrator, Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
   }
 }
