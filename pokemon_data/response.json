@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-31T12:48:10.557110",
+  "timestamp": "2025-04-01T12:48:46.139736",
   "pokemon_data": {
-    "name": "Cottonee",
-    "types": "Grass, Fairy",
-    "species": "Cotton Puff Pok\u00e9mon",
+    "name": "Drilbur",
+    "types": "Ground",
+    "species": "Mole Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "0.6 kg",
-    "abilities": "Prankster, Infiltrator, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+    "weight": "8.5 kg",
+    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
   }
 }
