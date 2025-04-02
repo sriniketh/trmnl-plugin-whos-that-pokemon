@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-01T12:48:46.139736",
+  "timestamp": "2025-04-02T12:48:06.471582",
   "pokemon_data": {
-    "name": "Drilbur",
-    "types": "Ground",
-    "species": "Mole Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.5 kg",
-    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
+    "name": "Duraludon",
+    "types": "Steel, Dragon",
+    "species": "Alloy Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "40.0 kg",
+    "abilities": "Light-Metal, Heavy-Metal, Stalwart",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
   }
 }
