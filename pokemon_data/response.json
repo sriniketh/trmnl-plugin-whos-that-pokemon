@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-03T12:47:42.506214",
+  "timestamp": "2025-04-04T12:46:13.004049",
   "pokemon_data": {
-    "name": "Cinderace",
-    "types": "Fire",
-    "species": "Striker Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "33.0 kg",
-    "abilities": "Blaze, Libero",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png"
+    "name": "Bewear",
+    "types": "Normal, Fighting",
+    "species": "Strong Arm Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "135.0 kg",
+    "abilities": "Fluffy, Klutz, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
   }
 }
