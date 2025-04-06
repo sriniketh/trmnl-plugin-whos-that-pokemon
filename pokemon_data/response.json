@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-05T12:40:36.932961",
+  "timestamp": "2025-04-06T12:40:54.883541",
   "pokemon_data": {
-    "name": "Cherrim",
-    "types": "Grass",
-    "species": "Blossom Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.3 kg",
-    "abilities": "Flower-Gift",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png"
+    "name": "Magby",
+    "types": "Fire",
+    "species": "Live Coal Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "21.4 kg",
+    "abilities": "Flame-Body, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
   }
 }
