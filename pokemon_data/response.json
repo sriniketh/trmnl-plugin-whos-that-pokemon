@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-06T12:40:54.883541",
+  "timestamp": "2025-04-07T12:48:38.412666",
   "pokemon_data": {
-    "name": "Magby",
-    "types": "Fire",
-    "species": "Live Coal Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "21.4 kg",
-    "abilities": "Flame-Body, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
+    "name": "Marowak",
+    "types": "Ground",
+    "species": "Bone Keeper Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "45.0 kg",
+    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
   }
 }
