@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-14T12:48:20.196246",
+  "timestamp": "2025-04-15T12:48:11.160745",
   "pokemon_data": {
-    "name": "Melmetal",
-    "types": "Steel",
-    "species": "Hex Nut Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "800.0 kg",
-    "abilities": "Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
+    "name": "Mankey",
+    "types": "Fighting",
+    "species": "Pig Monkey Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "28.0 kg",
+    "abilities": "Vital-Spirit, Anger-Point, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
   }
 }
