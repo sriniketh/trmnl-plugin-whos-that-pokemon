@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-15T12:48:11.160745",
+  "timestamp": "2025-04-16T12:48:25.671483",
   "pokemon_data": {
-    "name": "Mankey",
-    "types": "Fighting",
-    "species": "Pig Monkey Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "28.0 kg",
-    "abilities": "Vital-Spirit, Anger-Point, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
+    "name": "Eelektross",
+    "types": "Electric",
+    "species": "Elefish Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "80.5 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png"
   }
 }
