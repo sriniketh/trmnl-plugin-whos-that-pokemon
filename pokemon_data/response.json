@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-18T12:45:09.917430",
+  "timestamp": "2025-04-19T12:41:01.728598",
   "pokemon_data": {
-    "name": "Bombirdier",
-    "types": "Flying, Dark",
-    "species": "Item Drop Pok\u00e9mon",
+    "name": "Togekiss",
+    "types": "Fairy, Flying",
+    "species": "Jubilee Pok\u00e9mon",
     "height": "1.5 m",
-    "weight": "42.9 kg",
-    "abilities": "Big-Pecks, Keen-Eye, Rocky-Payload",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+    "weight": "38.0 kg",
+    "abilities": "Hustle, Serene-Grace, Super-Luck",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
   }
 }
