@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-19T12:41:01.728598",
+  "timestamp": "2025-04-21T12:46:35.691854",
   "pokemon_data": {
-    "name": "Togekiss",
-    "types": "Fairy, Flying",
-    "species": "Jubilee Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "38.0 kg",
-    "abilities": "Hustle, Serene-Grace, Super-Luck",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
+    "name": "Quilava",
+    "types": "Fire",
+    "species": "Volcano Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "19.0 kg",
+    "abilities": "Blaze, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png"
   }
 }
