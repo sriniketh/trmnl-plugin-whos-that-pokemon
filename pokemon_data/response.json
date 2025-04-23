@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-22T12:48:03.538271",
+  "timestamp": "2025-04-23T12:49:16.740404",
   "pokemon_data": {
-    "name": "Gumshoos",
-    "types": "Normal",
-    "species": "Stakeout Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "14.2 kg",
-    "abilities": "Stakeout, Strong-Jaw, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
+    "name": "Aurorus",
+    "types": "Rock, Ice",
+    "species": "Tundra Pok\u00e9mon",
+    "height": "2.7 m",
+    "weight": "225.0 kg",
+    "abilities": "Refrigerate, Snow-Warning",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
   }
 }
