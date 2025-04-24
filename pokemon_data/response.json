@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-23T12:49:16.740404",
+  "timestamp": "2025-04-24T12:49:31.252962",
   "pokemon_data": {
-    "name": "Aurorus",
-    "types": "Rock, Ice",
-    "species": "Tundra Pok\u00e9mon",
-    "height": "2.7 m",
-    "weight": "225.0 kg",
-    "abilities": "Refrigerate, Snow-Warning",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
+    "name": "Porygon-Z",
+    "types": "Normal",
+    "species": "Virtual Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "34.0 kg",
+    "abilities": "Adaptability, Download, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png"
   }
 }
