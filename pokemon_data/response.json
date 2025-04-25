@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-24T12:49:31.252962",
+  "timestamp": "2025-04-25T12:48:26.913608",
   "pokemon_data": {
-    "name": "Porygon-Z",
-    "types": "Normal",
-    "species": "Virtual Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "34.0 kg",
-    "abilities": "Adaptability, Download, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png"
+    "name": "Marowak",
+    "types": "Ground",
+    "species": "Bone Keeper Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "45.0 kg",
+    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
   }
 }
