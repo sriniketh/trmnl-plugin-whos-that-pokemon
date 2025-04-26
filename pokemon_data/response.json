@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-25T12:48:26.913608",
+  "timestamp": "2025-04-26T12:41:30.283463",
   "pokemon_data": {
-    "name": "Marowak",
-    "types": "Ground",
-    "species": "Bone Keeper Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "45.0 kg",
-    "abilities": "Rock-Head, Lightning-Rod, Battle-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+    "name": "Oshawott",
+    "types": "Water",
+    "species": "Sea Otter Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.9 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
   }
 }
