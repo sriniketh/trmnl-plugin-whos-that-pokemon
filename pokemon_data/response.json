@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-26T12:41:30.283463",
+  "timestamp": "2025-04-27T12:41:48.736466",
   "pokemon_data": {
-    "name": "Oshawott",
-    "types": "Water",
-    "species": "Sea Otter Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.9 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+    "name": "Bunnelby",
+    "types": "Normal",
+    "species": "Digging Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "5.0 kg",
+    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
   }
 }
