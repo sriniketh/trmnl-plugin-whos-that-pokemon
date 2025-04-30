@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-29T12:51:30.495123",
+  "timestamp": "2025-04-30T12:47:42.189641",
   "pokemon_data": {
-    "name": "Tirtouga",
-    "types": "Water, Rock",
-    "species": "Prototurtle Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.5 kg",
-    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+    "name": "Tsareena",
+    "types": "Grass",
+    "species": "Fruit Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "21.4 kg",
+    "abilities": "Leaf-Guard, Queenly-Majesty, Sweet-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
   }
 }
