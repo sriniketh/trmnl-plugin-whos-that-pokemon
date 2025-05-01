@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-30T12:47:42.189641",
+  "timestamp": "2025-05-01T12:46:46.764186",
   "pokemon_data": {
-    "name": "Tsareena",
-    "types": "Grass",
-    "species": "Fruit Pok\u00e9mon",
+    "name": "Wiglett",
+    "types": "Water",
+    "species": "Garden Eel Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "21.4 kg",
-    "abilities": "Leaf-Guard, Queenly-Majesty, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
+    "weight": "1.8 kg",
+    "abilities": "Gooey, Rattled, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
   }
 }
