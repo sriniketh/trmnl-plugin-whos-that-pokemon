@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-01T12:46:46.764186",
+  "timestamp": "2025-05-02T12:47:21.111323",
   "pokemon_data": {
-    "name": "Wiglett",
-    "types": "Water",
-    "species": "Garden Eel Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "1.8 kg",
-    "abilities": "Gooey, Rattled, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
+    "name": "Beheeyem",
+    "types": "Psychic",
+    "species": "Cerebral Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "34.5 kg",
+    "abilities": "Telepathy, Synchronize, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png"
   }
 }
