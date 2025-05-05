@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-04T12:43:39.717562",
+  "timestamp": "2025-05-05T12:49:36.330202",
   "pokemon_data": {
-    "name": "Pumpkaboo-Average",
-    "types": "Ghost, Grass",
-    "species": "Pumpkin Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.0 kg",
-    "abilities": "Pickup, Frisk, Insomnia",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png"
+    "name": "Gurdurr",
+    "types": "Fighting",
+    "species": "Muscular Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "40.0 kg",
+    "abilities": "Guts, Sheer-Force, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
   }
 }
