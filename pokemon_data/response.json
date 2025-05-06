@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-05T12:49:36.330202",
+  "timestamp": "2025-05-06T12:50:46.345504",
   "pokemon_data": {
-    "name": "Gurdurr",
-    "types": "Fighting",
-    "species": "Muscular Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "40.0 kg",
-    "abilities": "Guts, Sheer-Force, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+    "name": "Purugly",
+    "types": "Normal",
+    "species": "Tiger Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "43.8 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
   }
 }
