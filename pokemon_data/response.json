@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-07T12:51:41.499596",
+  "timestamp": "2025-05-08T12:49:40.480823",
   "pokemon_data": {
-    "name": "Appletun",
-    "types": "Grass, Dragon",
-    "species": "Apple Nectar Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "13.0 kg",
-    "abilities": "Ripen, Gluttony, Thick-Fat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png"
+    "name": "Bouffalant",
+    "types": "Normal",
+    "species": "Bash Buffalo Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "94.6 kg",
+    "abilities": "Reckless, Sap-Sipper, Soundproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png"
   }
 }
