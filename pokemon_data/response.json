@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-08T12:49:40.480823",
+  "timestamp": "2025-05-09T12:48:08.649060",
   "pokemon_data": {
-    "name": "Bouffalant",
-    "types": "Normal",
-    "species": "Bash Buffalo Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "94.6 kg",
-    "abilities": "Reckless, Sap-Sipper, Soundproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png"
+    "name": "Diggersby",
+    "types": "Normal, Ground",
+    "species": "Digging Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "42.4 kg",
+    "abilities": "Pickup, Cheek-Pouch, Huge-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
   }
 }
