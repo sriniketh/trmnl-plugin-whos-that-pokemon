@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-12T12:51:09.216516",
+  "timestamp": "2025-05-13T12:51:32.754014",
   "pokemon_data": {
-    "name": "Fletchling",
-    "types": "Normal, Flying",
-    "species": "Tiny Robin Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.7 kg",
-    "abilities": "Big-Pecks, Gale-Wings",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
+    "name": "Banette",
+    "types": "Ghost",
+    "species": "Marionette Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "12.5 kg",
+    "abilities": "Insomnia, Frisk, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
   }
 }
