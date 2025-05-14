@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-13T12:51:32.754014",
+  "timestamp": "2025-05-14T12:49:56.610526",
   "pokemon_data": {
-    "name": "Banette",
-    "types": "Ghost",
-    "species": "Marionette Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "12.5 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+    "name": "Slurpuff",
+    "types": "Fairy",
+    "species": "Meringue Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "5.0 kg",
+    "abilities": "Sweet-Veil, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png"
   }
 }
