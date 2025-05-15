@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-14T12:49:56.610526",
+  "timestamp": "2025-05-15T12:49:54.677788",
   "pokemon_data": {
-    "name": "Slurpuff",
-    "types": "Fairy",
-    "species": "Meringue Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "5.0 kg",
-    "abilities": "Sweet-Veil, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png"
+    "name": "Hitmonlee",
+    "types": "Fighting",
+    "species": "Kicking Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "49.8 kg",
+    "abilities": "Limber, Reckless, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
   }
 }
