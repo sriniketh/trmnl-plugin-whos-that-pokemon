@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-15T12:49:54.677788",
+  "timestamp": "2025-05-16T12:49:34.728813",
   "pokemon_data": {
-    "name": "Hitmonlee",
-    "types": "Fighting",
-    "species": "Kicking Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "49.8 kg",
-    "abilities": "Limber, Reckless, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+    "name": "Ceruledge",
+    "types": "Fire, Ghost",
+    "species": "Fire Blades Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "62.0 kg",
+    "abilities": "Flash-Fire, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png"
   }
 }
