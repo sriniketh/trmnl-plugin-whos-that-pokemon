@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-17T12:43:36.683851",
+  "timestamp": "2025-05-18T12:44:35.886683",
   "pokemon_data": {
-    "name": "Druddigon",
-    "types": "Dragon",
-    "species": "Cave Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "139.0 kg",
-    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+    "name": "Nincada",
+    "types": "Bug, Ground",
+    "species": "Trainee Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "abilities": "Compound-Eyes, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
   }
 }
