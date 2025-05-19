@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-18T12:44:35.886683",
+  "timestamp": "2025-05-19T12:51:36.860507",
   "pokemon_data": {
-    "name": "Nincada",
-    "types": "Bug, Ground",
-    "species": "Trainee Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Compound-Eyes, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
+    "name": "Persian",
+    "types": "Normal",
+    "species": "Classy Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "abilities": "Limber, Technician, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
   }
 }
