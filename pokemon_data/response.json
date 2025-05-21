@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-20T12:51:30.387165",
+  "timestamp": "2025-05-21T12:50:58.664863",
   "pokemon_data": {
-    "name": "Pelipper",
-    "types": "Water, Flying",
-    "species": "Water Bird Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "28.0 kg",
-    "abilities": "Keen-Eye, Drizzle, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png"
+    "name": "Morgrem",
+    "types": "Dark, Fairy",
+    "species": "Devious Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "12.5 kg",
+    "abilities": "Prankster, Frisk, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png"
   }
 }
