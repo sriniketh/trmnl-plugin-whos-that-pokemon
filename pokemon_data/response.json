@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-21T12:50:58.664863",
+  "timestamp": "2025-05-22T12:50:59.914270",
   "pokemon_data": {
-    "name": "Morgrem",
-    "types": "Dark, Fairy",
-    "species": "Devious Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "12.5 kg",
-    "abilities": "Prankster, Frisk, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png"
+    "name": "Maractus",
+    "types": "Grass",
+    "species": "Cactus Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.0 kg",
+    "abilities": "Water-Absorb, Chlorophyll, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
   }
 }
