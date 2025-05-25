@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-24T12:43:51.789927",
+  "timestamp": "2025-05-25T12:44:40.193962",
   "pokemon_data": {
-    "name": "Stakataka",
-    "types": "Rock, Steel",
-    "species": "Rampart Pok\u00e9mon",
-    "height": "5.5 m",
-    "weight": "820.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png"
+    "name": "Slowbro",
+    "types": "Water, Psychic",
+    "species": "Hermit Crab Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "78.5 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
   }
 }
