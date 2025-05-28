@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-27T12:51:36.928288",
+  "timestamp": "2025-05-28T12:51:25.848876",
   "pokemon_data": {
-    "name": "Shedinja",
-    "types": "Bug, Ghost",
-    "species": "Shed Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "1.2 kg",
-    "abilities": "Wonder-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
+    "name": "Tangrowth",
+    "types": "Grass",
+    "species": "Vine Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "128.6 kg",
+    "abilities": "Chlorophyll, Leaf-Guard, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png"
   }
 }
