@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-31T12:45:04.468555",
+  "timestamp": "2025-06-01T12:46:46.193496",
   "pokemon_data": {
-    "name": "Glalie",
-    "types": "Ice",
-    "species": "Face Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "256.5 kg",
-    "abilities": "Inner-Focus, Ice-Body, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
+    "name": "Toxicroak",
+    "types": "Poison, Fighting",
+    "species": "Toxic Mouth Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "44.4 kg",
+    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
   }
 }
