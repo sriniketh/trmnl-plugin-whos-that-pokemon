@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-01T12:46:46.193496",
+  "timestamp": "2025-06-02T12:51:27.199552",
   "pokemon_data": {
-    "name": "Toxicroak",
-    "types": "Poison, Fighting",
-    "species": "Toxic Mouth Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "44.4 kg",
-    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
+    "name": "Krabby",
+    "types": "Water",
+    "species": "River Crab Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "6.5 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
   }
 }
