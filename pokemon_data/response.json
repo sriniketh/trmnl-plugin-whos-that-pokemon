@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-05T12:51:20.605438",
+  "timestamp": "2025-06-06T12:50:03.067270",
   "pokemon_data": {
-    "name": "Deoxys-Normal",
-    "types": "Psychic",
-    "species": "Dna Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "60.8 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
+    "name": "Grapploct",
+    "types": "Fighting",
+    "species": "Jujitsu Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "39.0 kg",
+    "abilities": "Limber, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png"
   }
 }
