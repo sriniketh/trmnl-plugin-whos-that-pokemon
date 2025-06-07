@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-06T12:50:03.067270",
+  "timestamp": "2025-06-07T12:45:52.693200",
   "pokemon_data": {
-    "name": "Grapploct",
-    "types": "Fighting",
-    "species": "Jujitsu Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "39.0 kg",
-    "abilities": "Limber, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png"
+    "name": "Greedent",
+    "types": "Normal",
+    "species": "Greedy Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "6.0 kg",
+    "abilities": "Cheek-Pouch, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png"
   }
 }
