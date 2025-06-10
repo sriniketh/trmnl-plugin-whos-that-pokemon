@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-09T12:51:30.782396",
+  "timestamp": "2025-06-10T12:52:11.367374",
   "pokemon_data": {
-    "name": "Voltorb",
-    "types": "Electric",
-    "species": "Ball Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.4 kg",
-    "abilities": "Soundproof, Static, Aftermath",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+    "name": "Serperior",
+    "types": "Grass",
+    "species": "Regal Pok\u00e9mon",
+    "height": "3.3 m",
+    "weight": "63.0 kg",
+    "abilities": "Overgrow, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
   }
 }
