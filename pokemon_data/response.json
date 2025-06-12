@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-11T12:51:56.300374",
+  "timestamp": "2025-06-12T12:51:12.835595",
   "pokemon_data": {
-    "name": "Magmar",
-    "types": "Fire",
-    "species": "Spitfire Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "44.5 kg",
-    "abilities": "Flame-Body, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+    "name": "Swadloon",
+    "types": "Bug, Grass",
+    "species": "Leaf-Wrapped Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "7.3 kg",
+    "abilities": "Leaf-Guard, Chlorophyll, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
   }
 }
