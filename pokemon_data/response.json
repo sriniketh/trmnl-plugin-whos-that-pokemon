@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-14T12:45:55.051691",
+  "timestamp": "2025-06-15T12:46:38.623107",
   "pokemon_data": {
-    "name": "Beheeyem",
-    "types": "Psychic",
-    "species": "Cerebral Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "34.5 kg",
-    "abilities": "Telepathy, Synchronize, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png"
+    "name": "Pinsir",
+    "types": "Bug",
+    "species": "Stag Beetle Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "55.0 kg",
+    "abilities": "Hyper-Cutter, Mold-Breaker, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
   }
 }
