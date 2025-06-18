@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-17T12:52:29.420055",
+  "timestamp": "2025-06-18T12:52:26.394630",
   "pokemon_data": {
-    "name": "Carracosta",
-    "types": "Water, Rock",
-    "species": "Prototurtle Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "81.0 kg",
-    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+    "name": "Cyclizar",
+    "types": "Dragon, Normal",
+    "species": "Mount Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "63.0 kg",
+    "abilities": "Shed-Skin, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png"
   }
 }
