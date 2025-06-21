@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-20T12:51:00.380409",
+  "timestamp": "2025-06-21T12:46:27.303644",
   "pokemon_data": {
-    "name": "Maractus",
-    "types": "Grass",
-    "species": "Cactus Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "28.0 kg",
-    "abilities": "Water-Absorb, Chlorophyll, Storm-Drain",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
+    "name": "Dartrix",
+    "types": "Grass, Flying",
+    "species": "Blade Quill Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "16.0 kg",
+    "abilities": "Overgrow, Long-Reach",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png"
   }
 }
