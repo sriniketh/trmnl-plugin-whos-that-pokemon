@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-21T12:46:27.303644",
+  "timestamp": "2025-06-22T12:46:14.224040",
   "pokemon_data": {
-    "name": "Dartrix",
-    "types": "Grass, Flying",
-    "species": "Blade Quill Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.0 kg",
-    "abilities": "Overgrow, Long-Reach",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png"
+    "name": "Ponyta",
+    "types": "Fire",
+    "species": "Fire Horse Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "30.0 kg",
+    "abilities": "Run-Away, Flash-Fire, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
   }
 }
