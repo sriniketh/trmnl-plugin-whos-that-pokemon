@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-24T12:52:30.052850",
+  "timestamp": "2025-06-25T12:53:11.965294",
   "pokemon_data": {
-    "name": "Duskull",
-    "types": "Ghost",
-    "species": "Requiem Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "15.0 kg",
-    "abilities": "Levitate, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
+    "name": "Gumshoos",
+    "types": "Normal",
+    "species": "Stakeout Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "14.2 kg",
+    "abilities": "Stakeout, Strong-Jaw, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
   }
 }
