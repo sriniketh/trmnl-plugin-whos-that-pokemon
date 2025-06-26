@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-25T12:53:11.965294",
+  "timestamp": "2025-06-26T12:52:37.209804",
   "pokemon_data": {
-    "name": "Gumshoos",
-    "types": "Normal",
-    "species": "Stakeout Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "14.2 kg",
-    "abilities": "Stakeout, Strong-Jaw, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
+    "name": "Infernape",
+    "types": "Fire, Fighting",
+    "species": "Flame Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "55.0 kg",
+    "abilities": "Blaze, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
   }
 }
