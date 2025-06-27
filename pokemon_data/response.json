@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-26T12:52:37.209804",
+  "timestamp": "2025-06-27T12:51:07.558724",
   "pokemon_data": {
-    "name": "Infernape",
-    "types": "Fire, Fighting",
-    "species": "Flame Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "55.0 kg",
-    "abilities": "Blaze, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
+    "name": "Porygon",
+    "types": "Normal",
+    "species": "Virtual Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "36.5 kg",
+    "abilities": "Trace, Download, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
   }
 }
