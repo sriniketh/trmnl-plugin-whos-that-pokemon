@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-01T12:52:34.703972",
+  "timestamp": "2025-07-02T12:51:52.379047",
   "pokemon_data": {
-    "name": "Mantine",
-    "types": "Water, Flying",
-    "species": "Kite Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "220.0 kg",
-    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png"
+    "name": "Aerodactyl",
+    "types": "Rock, Flying",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "59.0 kg",
+    "abilities": "Rock-Head, Pressure, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
   }
 }
