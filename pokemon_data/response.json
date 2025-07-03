@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-02T12:51:52.379047",
+  "timestamp": "2025-07-03T12:50:28.659693",
   "pokemon_data": {
-    "name": "Aerodactyl",
-    "types": "Rock, Flying",
-    "species": "Fossil Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "59.0 kg",
-    "abilities": "Rock-Head, Pressure, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
+    "name": "Musharna",
+    "types": "Psychic",
+    "species": "Drowsing Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "60.5 kg",
+    "abilities": "Forewarn, Synchronize, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png"
   }
 }
