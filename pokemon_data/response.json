@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-06T12:47:55.218217",
+  "timestamp": "2025-07-07T12:52:41.378289",
   "pokemon_data": {
-    "name": "Rockruff",
-    "types": "Rock",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.2 kg",
-    "abilities": "Keen-Eye, Vital-Spirit, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+    "name": "Barbaracle",
+    "types": "Rock, Water",
+    "species": "Collective Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "96.0 kg",
+    "abilities": "Tough-Claws, Sniper, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png"
   }
 }
