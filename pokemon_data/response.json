@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-09T12:52:43.737091",
+  "timestamp": "2025-07-10T12:53:22.175006",
   "pokemon_data": {
-    "name": "Farigiraf",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "160.0 kg",
-    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
+    "name": "Spearow",
+    "types": "Normal, Flying",
+    "species": "Tiny Bird Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "abilities": "Keen-Eye, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
   }
 }
