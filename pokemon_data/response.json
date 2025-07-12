@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-11T12:51:56.623933",
+  "timestamp": "2025-07-12T12:48:33.467343",
   "pokemon_data": {
-    "name": "Calyrex",
-    "types": "Psychic, Grass",
-    "species": "King Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "7.7 kg",
-    "abilities": "Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+    "name": "Magnemite",
+    "types": "Electric, Steel",
+    "species": "Magnet Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "6.0 kg",
+    "abilities": "Magnet-Pull, Sturdy, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
   }
 }
