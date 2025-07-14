@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-13T12:49:06.974571",
+  "timestamp": "2025-07-14T12:54:06.480868",
   "pokemon_data": {
-    "name": "Toxtricity-Amped",
-    "types": "Electric, Poison",
-    "species": "Punk Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "40.0 kg",
-    "abilities": "Punk-Rock, Plus, Technician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png"
+    "name": "Shellos",
+    "types": "Water",
+    "species": "Sea Slug Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "6.3 kg",
+    "abilities": "Sticky-Hold, Storm-Drain, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
   }
 }
