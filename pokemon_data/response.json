@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-14T12:54:06.480868",
+  "timestamp": "2025-07-15T12:54:41.643768",
   "pokemon_data": {
-    "name": "Shellos",
-    "types": "Water",
-    "species": "Sea Slug Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.3 kg",
-    "abilities": "Sticky-Hold, Storm-Drain, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
+    "name": "Poochyena",
+    "types": "Dark",
+    "species": "Bite Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "13.6 kg",
+    "abilities": "Run-Away, Quick-Feet, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png"
   }
 }
