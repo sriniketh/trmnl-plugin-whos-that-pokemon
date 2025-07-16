@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-15T12:54:41.643768",
+  "timestamp": "2025-07-16T12:55:10.777294",
   "pokemon_data": {
-    "name": "Poochyena",
-    "types": "Dark",
-    "species": "Bite Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "13.6 kg",
-    "abilities": "Run-Away, Quick-Feet, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png"
+    "name": "Gible",
+    "types": "Dragon, Ground",
+    "species": "Land Shark Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "20.5 kg",
+    "abilities": "Sand-Veil, Rough-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
   }
 }
