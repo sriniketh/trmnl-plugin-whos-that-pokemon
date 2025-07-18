@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-17T12:54:29.538206",
+  "timestamp": "2025-07-18T12:55:33.832534",
   "pokemon_data": {
-    "name": "Rowlet",
-    "types": "Grass, Flying",
-    "species": "Grass Quill Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.5 kg",
-    "abilities": "Overgrow, Long-Reach",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
+    "name": "Thwackey",
+    "types": "Grass",
+    "species": "Beat Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "14.0 kg",
+    "abilities": "Overgrow, Grassy-Surge",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png"
   }
 }
