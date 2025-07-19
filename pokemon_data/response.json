@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-18T12:55:33.832534",
+  "timestamp": "2025-07-19T12:49:55.877288",
   "pokemon_data": {
-    "name": "Thwackey",
-    "types": "Grass",
-    "species": "Beat Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "14.0 kg",
-    "abilities": "Overgrow, Grassy-Surge",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png"
+    "name": "Vikavolt",
+    "types": "Bug, Electric",
+    "species": "Stag Beetle Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "45.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png"
   }
 }
