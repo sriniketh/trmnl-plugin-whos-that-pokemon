@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-20T12:50:54.165596",
+  "timestamp": "2025-07-21T12:55:52.575642",
   "pokemon_data": {
-    "name": "Gastrodon",
-    "types": "Water, Ground",
-    "species": "Sea Slug Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "29.9 kg",
-    "abilities": "Sticky-Hold, Storm-Drain, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
+    "name": "Dracozolt",
+    "types": "Electric, Dragon",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "190.0 kg",
+    "abilities": "Volt-Absorb, Hustle, Sand-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png"
   }
 }
