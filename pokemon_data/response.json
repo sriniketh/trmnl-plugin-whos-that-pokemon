@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-22T12:55:55.050199",
+  "timestamp": "2025-07-23T12:56:16.423995",
   "pokemon_data": {
-    "name": "Finneon",
-    "types": "Water",
-    "species": "Wing Fish Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "7.0 kg",
-    "abilities": "Swift-Swim, Storm-Drain, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png"
+    "name": "Nickit",
+    "types": "Dark",
+    "species": "Fox Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "8.9 kg",
+    "abilities": "Run-Away, Unburden, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
   }
 }
