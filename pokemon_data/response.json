@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-23T12:56:16.423995",
+  "timestamp": "2025-07-24T12:55:38.149048",
   "pokemon_data": {
-    "name": "Nickit",
-    "types": "Dark",
-    "species": "Fox Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "8.9 kg",
-    "abilities": "Run-Away, Unburden, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
+    "name": "Gastrodon",
+    "types": "Water, Ground",
+    "species": "Sea Slug Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "29.9 kg",
+    "abilities": "Sticky-Hold, Storm-Drain, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
   }
 }
