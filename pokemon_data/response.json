@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-25T12:54:31.197299",
+  "timestamp": "2025-07-26T12:50:29.725231",
   "pokemon_data": {
-    "name": "Garchomp",
-    "types": "Dragon, Ground",
-    "species": "Mach Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "95.0 kg",
-    "abilities": "Sand-Veil, Rough-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
+    "name": "Falinks",
+    "types": "Fighting",
+    "species": "Formation Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "62.0 kg",
+    "abilities": "Battle-Armor, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
   }
 }
