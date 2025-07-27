@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-26T12:50:29.725231",
+  "timestamp": "2025-07-27T12:51:39.536253",
   "pokemon_data": {
-    "name": "Falinks",
-    "types": "Fighting",
-    "species": "Formation Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "62.0 kg",
-    "abilities": "Battle-Armor, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+    "name": "Steelix",
+    "types": "Steel, Ground",
+    "species": "Iron Snake Pok\u00e9mon",
+    "height": "9.2 m",
+    "weight": "400.0 kg",
+    "abilities": "Rock-Head, Sturdy, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
   }
 }
