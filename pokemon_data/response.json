@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-27T12:51:39.536253",
+  "timestamp": "2025-07-28T12:56:58.536691",
   "pokemon_data": {
-    "name": "Steelix",
-    "types": "Steel, Ground",
-    "species": "Iron Snake Pok\u00e9mon",
-    "height": "9.2 m",
-    "weight": "400.0 kg",
-    "abilities": "Rock-Head, Sturdy, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
