@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-28T12:56:58.536691",
+  "timestamp": "2025-07-29T12:57:26.641591",
   "pokemon_data": {
-    "name": "Tyrantrum",
-    "types": "Rock, Dragon",
-    "species": "Despot Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "270.0 kg",
-    "abilities": "Strong-Jaw, Rock-Head",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+    "name": "Darkrai",
+    "types": "Dark",
+    "species": "Pitch-Black Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "50.5 kg",
+    "abilities": "Bad-Dreams",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
   }
 }
