@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-29T12:57:26.641591",
+  "timestamp": "2025-07-30T12:57:03.146530",
   "pokemon_data": {
-    "name": "Darkrai",
-    "types": "Dark",
-    "species": "Pitch-Black Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "50.5 kg",
-    "abilities": "Bad-Dreams",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+    "name": "Dewgong",
+    "types": "Water, Ice",
+    "species": "Sea Lion Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "120.0 kg",
+    "abilities": "Thick-Fat, Hydration, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
   }
 }
