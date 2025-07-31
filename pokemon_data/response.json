@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-30T12:57:03.146530",
+  "timestamp": "2025-07-31T12:55:46.901648",
   "pokemon_data": {
-    "name": "Dewgong",
-    "types": "Water, Ice",
-    "species": "Sea Lion Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "120.0 kg",
-    "abilities": "Thick-Fat, Hydration, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+    "name": "Pikipek",
+    "types": "Normal, Flying",
+    "species": "Woodpecker Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.2 kg",
+    "abilities": "Keen-Eye, Skill-Link, Pickup",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
   }
 }
