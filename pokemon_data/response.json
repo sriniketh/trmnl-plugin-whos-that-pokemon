@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-31T12:55:46.901648",
+  "timestamp": "2025-08-01T12:56:13.830970",
   "pokemon_data": {
-    "name": "Pikipek",
-    "types": "Normal, Flying",
-    "species": "Woodpecker Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.2 kg",
-    "abilities": "Keen-Eye, Skill-Link, Pickup",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
+    "name": "Spiritomb",
+    "types": "Ghost, Dark",
+    "species": "Forbidden Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "108.0 kg",
+    "abilities": "Pressure, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
   }
 }
