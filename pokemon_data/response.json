@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-02T12:51:14.395877",
+  "timestamp": "2025-08-03T12:54:05.215547",
   "pokemon_data": {
-    "name": "Kingambit",
-    "types": "Dark, Steel",
-    "species": "Big Blade Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Defiant, Supreme-Overlord, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
+    "name": "Stoutland",
+    "types": "Normal",
+    "species": "Big-Hearted Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "61.0 kg",
+    "abilities": "Intimidate, Sand-Rush, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
   }
 }
