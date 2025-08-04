@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-03T12:54:05.215547",
+  "timestamp": "2025-08-04T12:58:17.910198",
   "pokemon_data": {
-    "name": "Stoutland",
-    "types": "Normal",
-    "species": "Big-Hearted Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "61.0 kg",
-    "abilities": "Intimidate, Sand-Rush, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
+    "name": "Pawniard",
+    "types": "Dark, Steel",
+    "species": "Sharp Blade Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.2 kg",
+    "abilities": "Defiant, Inner-Focus, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
   }
 }
