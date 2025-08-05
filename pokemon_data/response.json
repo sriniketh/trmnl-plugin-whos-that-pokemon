@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-04T12:58:17.910198",
+  "timestamp": "2025-08-05T12:58:19.315934",
   "pokemon_data": {
-    "name": "Pawniard",
-    "types": "Dark, Steel",
-    "species": "Sharp Blade Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.2 kg",
-    "abilities": "Defiant, Inner-Focus, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+    "name": "Terapagos",
+    "types": "Normal",
+    "species": "Tera Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "6.5 kg",
+    "abilities": "Tera-Shift",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
   }
 }
