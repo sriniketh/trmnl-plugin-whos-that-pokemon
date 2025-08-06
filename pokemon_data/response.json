@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-05T12:58:19.315934",
+  "timestamp": "2025-08-06T12:58:08.059263",
   "pokemon_data": {
-    "name": "Terapagos",
-    "types": "Normal",
-    "species": "Tera Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "6.5 kg",
-    "abilities": "Tera-Shift",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
+    "name": "Goldeen",
+    "types": "Water",
+    "species": "Goldfish Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "15.0 kg",
+    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
   }
 }
