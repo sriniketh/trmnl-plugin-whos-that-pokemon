@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-06T12:58:08.059263",
+  "timestamp": "2025-08-07T12:57:37.305769",
   "pokemon_data": {
-    "name": "Goldeen",
-    "types": "Water",
-    "species": "Goldfish Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.0 kg",
-    "abilities": "Swift-Swim, Water-Veil, Lightning-Rod",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+    "name": "Excadrill",
+    "types": "Ground, Steel",
+    "species": "Subterrene Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "40.4 kg",
+    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
   }
 }
