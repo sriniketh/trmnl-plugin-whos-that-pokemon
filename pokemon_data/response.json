@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-07T12:57:37.305769",
+  "timestamp": "2025-08-08T12:56:33.685596",
   "pokemon_data": {
-    "name": "Excadrill",
-    "types": "Ground, Steel",
-    "species": "Subterrene Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "40.4 kg",
-    "abilities": "Sand-Rush, Sand-Force, Mold-Breaker",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
+    "name": "Zygarde-50",
+    "types": "Dragon, Ground",
+    "species": "Order Pok\u00e9mon",
+    "height": "5.0 m",
+    "weight": "305.0 kg",
+    "abilities": "Aura-Break",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
   }
 }
