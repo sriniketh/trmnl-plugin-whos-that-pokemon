@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-10T12:50:53.855187",
+  "timestamp": "2025-08-11T12:55:59.391706",
   "pokemon_data": {
-    "name": "Dartrix",
-    "types": "Grass, Flying",
-    "species": "Blade Quill Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.0 kg",
-    "abilities": "Overgrow, Long-Reach",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png"
+    "name": "Rotom",
+    "types": "Electric, Ghost",
+    "species": "Plasma Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png"
   }
 }
