@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-11T12:55:59.391706",
+  "timestamp": "2025-08-12T12:53:06.075310",
   "pokemon_data": {
-    "name": "Rotom",
-    "types": "Electric, Ghost",
-    "species": "Plasma Pok\u00e9mon",
+    "name": "Pyukumuku",
+    "types": "Water",
+    "species": "Sea Cucumber Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png"
+    "weight": "1.2 kg",
+    "abilities": "Innards-Out, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png"
   }
 }
