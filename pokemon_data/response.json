@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-12T12:53:06.075310",
+  "timestamp": "2025-08-13T12:54:04.685391",
   "pokemon_data": {
-    "name": "Pyukumuku",
-    "types": "Water",
-    "species": "Sea Cucumber Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.2 kg",
-    "abilities": "Innards-Out, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png"
+    "name": "Kangaskhan",
+    "types": "Normal",
+    "species": "Parent Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "80.0 kg",
+    "abilities": "Early-Bird, Scrappy, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
   }
 }
