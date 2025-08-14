@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-13T12:54:04.685391",
+  "timestamp": "2025-08-14T12:54:51.970545",
   "pokemon_data": {
-    "name": "Kangaskhan",
-    "types": "Normal",
-    "species": "Parent Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "80.0 kg",
-    "abilities": "Early-Bird, Scrappy, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+    "name": "Sandslash",
+    "types": "Ground",
+    "species": "Mouse Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "abilities": "Sand-Veil, Sand-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
   }
 }
