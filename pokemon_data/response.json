@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-14T12:54:51.970545",
+  "timestamp": "2025-08-15T12:50:50.378450",
   "pokemon_data": {
-    "name": "Sandslash",
-    "types": "Ground",
-    "species": "Mouse Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "29.5 kg",
-    "abilities": "Sand-Veil, Sand-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+    "name": "Unown",
+    "types": "Psychic",
+    "species": "Symbol Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
   }
 }
