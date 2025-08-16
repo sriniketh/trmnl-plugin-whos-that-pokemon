@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-15T12:50:50.378450",
+  "timestamp": "2025-08-16T12:48:33.052627",
   "pokemon_data": {
-    "name": "Unown",
-    "types": "Psychic",
-    "species": "Symbol Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+    "name": "Lickilicky",
+    "types": "Normal",
+    "species": "Licking Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "140.0 kg",
+    "abilities": "Own-Tempo, Oblivious, Cloud-Nine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png"
   }
 }
