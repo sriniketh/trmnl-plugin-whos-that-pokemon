@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-18T12:55:09.877947",
+  "timestamp": "2025-08-19T12:49:01.843809",
   "pokemon_data": {
-    "name": "Pecharunt",
-    "types": "Poison, Ghost",
-    "species": "Subjugation Pok\u00e9mon",
+    "name": "Weedle",
+    "types": "Bug, Poison",
+    "species": "Hairy Bug Pok\u00e9mon",
     "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Poison-Puppeteer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png"
+    "weight": "3.2 kg",
+    "abilities": "Shield-Dust, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
   }
 }
