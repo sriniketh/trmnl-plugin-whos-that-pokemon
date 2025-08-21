@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-20T12:50:58.438321",
+  "timestamp": "2025-08-21T12:50:33.054017",
   "pokemon_data": {
-    "name": "Krookodile",
-    "types": "Ground, Dark",
-    "species": "Intimidation Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "96.3 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
+    "name": "Gumshoos",
+    "types": "Normal",
+    "species": "Stakeout Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "14.2 kg",
+    "abilities": "Stakeout, Strong-Jaw, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
   }
 }
