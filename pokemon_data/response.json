@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-22T12:49:18.542505",
+  "timestamp": "2025-08-23T12:45:03.730071",
   "pokemon_data": {
-    "name": "Gallade",
-    "types": "Psychic, Fighting",
-    "species": "Blade Pok\u00e9mon",
+    "name": "Druddigon",
+    "types": "Dragon",
+    "species": "Cave Pok\u00e9mon",
     "height": "1.6 m",
-    "weight": "52.0 kg",
-    "abilities": "Steadfast, Sharpness, Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
+    "weight": "139.0 kg",
+    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
   }
 }
