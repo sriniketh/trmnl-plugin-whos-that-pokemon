@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-24T12:45:59.223781",
+  "timestamp": "2025-08-25T12:51:47.840916",
   "pokemon_data": {
-    "name": "Lurantis",
-    "types": "Grass",
-    "species": "Bloom Sickle Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "18.5 kg",
-    "abilities": "Leaf-Guard, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
+    "name": "Sentret",
+    "types": "Normal",
+    "species": "Scout Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "6.0 kg",
+    "abilities": "Run-Away, Keen-Eye, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png"
   }
 }
