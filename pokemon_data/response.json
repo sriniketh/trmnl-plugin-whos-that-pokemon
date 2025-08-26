@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-25T12:51:47.840916",
+  "timestamp": "2025-08-26T12:53:01.269264",
   "pokemon_data": {
-    "name": "Sentret",
-    "types": "Normal",
-    "species": "Scout Pok\u00e9mon",
+    "name": "Flaaffy",
+    "types": "Electric",
+    "species": "Wool Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "6.0 kg",
-    "abilities": "Run-Away, Keen-Eye, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png"
+    "weight": "13.3 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
   }
 }
