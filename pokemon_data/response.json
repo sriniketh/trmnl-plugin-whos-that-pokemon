@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-26T12:53:01.269264",
+  "timestamp": "2025-08-27T12:49:23.750693",
   "pokemon_data": {
-    "name": "Flaaffy",
-    "types": "Electric",
-    "species": "Wool Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "13.3 kg",
-    "abilities": "Static, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    "name": "Shelmet",
+    "types": "Bug",
+    "species": "Snail Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "7.7 kg",
+    "abilities": "Hydration, Shell-Armor, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png"
   }
 }
