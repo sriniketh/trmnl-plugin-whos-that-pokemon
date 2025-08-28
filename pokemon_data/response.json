@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-27T12:49:23.750693",
+  "timestamp": "2025-08-28T12:49:20.689793",
   "pokemon_data": {
-    "name": "Shelmet",
-    "types": "Bug",
-    "species": "Snail Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "7.7 kg",
-    "abilities": "Hydration, Shell-Armor, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png"
+    "name": "Grumpig",
+    "types": "Psychic",
+    "species": "Manipulate Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "71.5 kg",
+    "abilities": "Thick-Fat, Own-Tempo, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
   }
 }
