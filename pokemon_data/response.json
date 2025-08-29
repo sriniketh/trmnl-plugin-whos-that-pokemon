@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-28T12:49:20.689793",
+  "timestamp": "2025-08-29T12:48:26.669502",
   "pokemon_data": {
-    "name": "Grumpig",
-    "types": "Psychic",
-    "species": "Manipulate Pok\u00e9mon",
+    "name": "Monferno",
+    "types": "Fire, Fighting",
+    "species": "Playful Pok\u00e9mon",
     "height": "0.9 m",
-    "weight": "71.5 kg",
-    "abilities": "Thick-Fat, Own-Tempo, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
+    "weight": "22.0 kg",
+    "abilities": "Blaze, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png"
   }
 }
