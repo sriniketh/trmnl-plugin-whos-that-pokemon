@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-03T12:48:03.677702",
+  "timestamp": "2025-09-04T12:46:12.010287",
   "pokemon_data": {
-    "name": "Venomoth",
-    "types": "Bug, Poison",
-    "species": "Poison Moth Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "12.5 kg",
-    "abilities": "Shield-Dust, Tinted-Lens, Wonder-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+    "name": "Shieldon",
+    "types": "Rock, Steel",
+    "species": "Shield Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "57.0 kg",
+    "abilities": "Sturdy, Soundproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
   }
 }
