@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-05T12:47:10.397753",
+  "timestamp": "2025-09-06T12:40:57.082854",
   "pokemon_data": {
-    "name": "Dubwool",
-    "types": "Normal",
-    "species": "Sheep Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "43.0 kg",
-    "abilities": "Fluffy, Steadfast, Bulletproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png"
+    "name": "Deino",
+    "types": "Dark, Dragon",
+    "species": "Irate Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "17.3 kg",
+    "abilities": "Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
   }
 }
