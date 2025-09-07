@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-06T12:40:57.082854",
+  "timestamp": "2025-09-07T12:41:54.464129",
   "pokemon_data": {
-    "name": "Deino",
-    "types": "Dark, Dragon",
-    "species": "Irate Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "17.3 kg",
-    "abilities": "Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
+    "name": "Blaziken",
+    "types": "Fire, Fighting",
+    "species": "Blaze Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "52.0 kg",
+    "abilities": "Blaze, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png"
   }
 }
