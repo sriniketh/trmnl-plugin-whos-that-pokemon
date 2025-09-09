@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-08T12:51:03.914923",
+  "timestamp": "2025-09-09T12:51:32.103258",
   "pokemon_data": {
-    "name": "Audino",
-    "types": "Normal",
-    "species": "Hearing Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "31.0 kg",
-    "abilities": "Healer, Regenerator, Klutz",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png"
+    "name": "Jirachi",
+    "types": "Steel, Psychic",
+    "species": "Wish Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.1 kg",
+    "abilities": "Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
   }
 }
