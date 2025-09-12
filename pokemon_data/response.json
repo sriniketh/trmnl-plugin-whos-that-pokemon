@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-11T12:47:04.376129",
+  "timestamp": "2025-09-12T12:46:06.097069",
   "pokemon_data": {
-    "name": "Sandshrew",
-    "types": "Ground",
-    "species": "Mouse Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "12.0 kg",
-    "abilities": "Sand-Veil, Sand-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+    "name": "Yamask",
+    "types": "Ghost",
+    "species": "Spirit Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.5 kg",
+    "abilities": "Mummy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
   }
 }
