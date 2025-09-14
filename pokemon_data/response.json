@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-13T12:41:12.037139",
+  "timestamp": "2025-09-14T12:41:04.386730",
   "pokemon_data": {
-    "name": "Runerigus",
-    "types": "Ground, Ghost",
-    "species": "Grudge Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "66.6 kg",
-    "abilities": "Wandering-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png"
+    "name": "Naganadel",
+    "types": "Poison, Dragon",
+    "species": "Poison Pin Pok\u00e9mon",
+    "height": "3.6 m",
+    "weight": "150.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
   }
 }
