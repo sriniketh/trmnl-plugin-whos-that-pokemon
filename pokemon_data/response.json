@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-15T12:50:04.635329",
+  "timestamp": "2025-09-16T12:49:23.999937",
   "pokemon_data": {
-    "name": "Squawkabilly-Green-Plumage",
-    "types": "Normal, Flying",
-    "species": "Parrot Pok\u00e9mon",
+    "name": "Dolliv",
+    "types": "Grass, Normal",
+    "species": "Olive Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "2.4 kg",
-    "abilities": "Intimidate, Hustle, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png"
+    "weight": "11.9 kg",
+    "abilities": "Early-Bird, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
   }
 }
