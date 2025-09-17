@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-16T12:49:23.999937",
+  "timestamp": "2025-09-17T12:49:46.542905",
   "pokemon_data": {
-    "name": "Dolliv",
-    "types": "Grass, Normal",
-    "species": "Olive Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.9 kg",
-    "abilities": "Early-Bird, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
+    "name": "Cranidos",
+    "types": "Rock",
+    "species": "Head Butt Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "31.5 kg",
+    "abilities": "Mold-Breaker, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
   }
 }
