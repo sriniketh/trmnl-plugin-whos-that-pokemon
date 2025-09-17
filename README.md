@@ -1,8 +1,8 @@
-# trmnl-plugin-whos-that-pokemon
-A trmnl plugin that displays a random Pokémon every day
-
 [![Run Tests](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon/actions/workflows/test.yml/badge.svg)](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon/actions/workflows/test.yml)
 [![Fetch and save random Pokemon](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon/actions/workflows/fetch_and_save_pokemon.yml/badge.svg)](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon/actions/workflows/fetch_and_save_pokemon.yml)
+
+# trmnl-plugin-whos-that-pokemon
+A trmnl plugin that displays a random Pokémon every day
 
 # What is it?
 This repo fetches data for a Pokémon at random every day at 12:00 UTC and saves it to the repo so that it can be polled from a private plugin on TRMNL.
