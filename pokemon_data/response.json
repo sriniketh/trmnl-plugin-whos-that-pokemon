@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-17T12:49:46.542905",
+  "timestamp": "2025-09-18T12:48:36.892979",
   "pokemon_data": {
-    "name": "Cranidos",
-    "types": "Rock",
-    "species": "Head Butt Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "31.5 kg",
-    "abilities": "Mold-Breaker, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
+    "name": "Magby",
+    "types": "Fire",
+    "species": "Live Coal Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "21.4 kg",
+    "abilities": "Flame-Body, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
   }
 }
