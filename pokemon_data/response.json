@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-21T12:42:44.725704",
+  "timestamp": "2025-09-22T12:50:31.496008",
   "pokemon_data": {
-    "name": "Luxray",
-    "types": "Electric",
-    "species": "Gleam Eyes Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "42.0 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+    "name": "Aggron",
+    "types": "Steel, Rock",
+    "species": "Iron Armor Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "360.0 kg",
+    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
   }
 }
