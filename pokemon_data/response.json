@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-22T12:50:31.496008",
+  "timestamp": "2025-09-23T12:49:00.322374",
   "pokemon_data": {
-    "name": "Aggron",
-    "types": "Steel, Rock",
-    "species": "Iron Armor Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "360.0 kg",
-    "abilities": "Sturdy, Rock-Head, Heavy-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
+    "name": "Gothorita",
+    "types": "Psychic",
+    "species": "Manipulate Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "18.0 kg",
+    "abilities": "Frisk, Competitive, Shadow-Tag",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
   }
 }
