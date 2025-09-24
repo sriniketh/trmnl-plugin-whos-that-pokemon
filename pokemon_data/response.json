@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-23T12:49:00.322374",
+  "timestamp": "2025-09-24T12:49:36.091955",
   "pokemon_data": {
-    "name": "Gothorita",
-    "types": "Psychic",
-    "species": "Manipulate Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "18.0 kg",
-    "abilities": "Frisk, Competitive, Shadow-Tag",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
+    "name": "Foongus",
+    "types": "Grass, Poison",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.0 kg",
+    "abilities": "Effect-Spore, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
   }
 }
