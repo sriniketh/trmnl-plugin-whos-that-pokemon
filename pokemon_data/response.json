@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-25T12:50:47.578826",
+  "timestamp": "2025-09-26T12:49:25.794650",
   "pokemon_data": {
-    "name": "Arboliva",
-    "types": "Grass, Normal",
-    "species": "Olive Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "48.2 kg",
-    "abilities": "Seed-Sower, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png"
+    "name": "Sandaconda",
+    "types": "Ground",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "3.8 m",
+    "weight": "65.5 kg",
+    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
   }
 }
