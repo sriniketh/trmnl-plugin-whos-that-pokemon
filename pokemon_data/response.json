@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-27T12:41:59.889729",
+  "timestamp": "2025-09-28T12:43:05.754329",
   "pokemon_data": {
-    "name": "Croagunk",
-    "types": "Poison, Fighting",
-    "species": "Toxic Mouth Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "23.0 kg",
-    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png"
+    "name": "Primarina",
+    "types": "Water, Fairy",
+    "species": "Soloist Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "44.0 kg",
+    "abilities": "Torrent, Liquid-Voice",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
   }
 }
