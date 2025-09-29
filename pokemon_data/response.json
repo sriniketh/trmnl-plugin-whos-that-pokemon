@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-28T12:43:05.754329",
+  "timestamp": "2025-09-29T12:51:42.393633",
   "pokemon_data": {
-    "name": "Primarina",
-    "types": "Water, Fairy",
-    "species": "Soloist Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "44.0 kg",
-    "abilities": "Torrent, Liquid-Voice",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
+    "name": "Furfrou",
+    "types": "Normal",
+    "species": "Poodle Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "28.0 kg",
+    "abilities": "Fur-Coat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
   }
 }
