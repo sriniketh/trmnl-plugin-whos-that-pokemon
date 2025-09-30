@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-29T12:51:42.393633",
+  "timestamp": "2025-09-30T12:51:34.931504",
   "pokemon_data": {
-    "name": "Furfrou",
-    "types": "Normal",
-    "species": "Poodle Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "28.0 kg",
-    "abilities": "Fur-Coat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
+    "name": "Corphish",
+    "types": "Water",
+    "species": "Ruffian Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.5 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
   }
 }
