@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-01T12:51:44.396962",
+  "timestamp": "2025-10-02T12:47:29.750283",
   "pokemon_data": {
-    "name": "Metagross",
-    "types": "Steel, Psychic",
-    "species": "Iron Leg Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "550.0 kg",
-    "abilities": "Clear-Body, Light-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
+    "name": "Lechonk",
+    "types": "Normal",
+    "species": "Hog Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.2 kg",
+    "abilities": "Aroma-Veil, Gluttony, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
   }
 }
