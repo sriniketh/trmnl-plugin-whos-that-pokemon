@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-03T12:47:23.988514",
+  "timestamp": "2025-10-04T12:41:52.358468",
   "pokemon_data": {
-    "name": "Scyther",
-    "types": "Bug, Flying",
-    "species": "Mantis Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "56.0 kg",
-    "abilities": "Swarm, Technician, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+    "name": "Magby",
+    "types": "Fire",
+    "species": "Live Coal Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "21.4 kg",
+    "abilities": "Flame-Body, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
   }
 }
