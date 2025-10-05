@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-04T12:41:52.358468",
+  "timestamp": "2025-10-05T12:42:54.014726",
   "pokemon_data": {
-    "name": "Magby",
-    "types": "Fire",
-    "species": "Live Coal Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "21.4 kg",
-    "abilities": "Flame-Body, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
+    "name": "Falinks",
+    "types": "Fighting",
+    "species": "Formation Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "62.0 kg",
+    "abilities": "Battle-Armor, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
   }
 }
