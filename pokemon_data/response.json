@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-05T12:42:54.014726",
+  "timestamp": "2025-10-06T12:50:54.062809",
   "pokemon_data": {
-    "name": "Falinks",
+    "name": "Primeape",
     "types": "Fighting",
-    "species": "Formation Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "62.0 kg",
-    "abilities": "Battle-Armor, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+    "species": "Pig Monkey Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "abilities": "Vital-Spirit, Anger-Point, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
   }
 }
