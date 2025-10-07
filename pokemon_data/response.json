@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-06T12:50:54.062809",
+  "timestamp": "2025-10-07T12:50:22.200103",
   "pokemon_data": {
-    "name": "Primeape",
+    "name": "Sirfetchd",
     "types": "Fighting",
-    "species": "Pig Monkey Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "32.0 kg",
-    "abilities": "Vital-Spirit, Anger-Point, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "117.0 kg",
+    "abilities": "Steadfast, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
   }
 }
