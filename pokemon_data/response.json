@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-07T12:50:22.200103",
+  "timestamp": "2025-10-08T12:50:40.729515",
   "pokemon_data": {
-    "name": "Sirfetchd",
-    "types": "Fighting",
-    "species": "Wild Duck Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "117.0 kg",
-    "abilities": "Steadfast, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
+    "name": "Centiskorch",
+    "types": "Fire, Bug",
+    "species": "Radiator Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "120.0 kg",
+    "abilities": "Flash-Fire, White-Smoke, Flame-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png"
   }
 }
