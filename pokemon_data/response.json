@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-08T12:50:40.729515",
+  "timestamp": "2025-10-09T12:50:43.583628",
   "pokemon_data": {
-    "name": "Centiskorch",
-    "types": "Fire, Bug",
-    "species": "Radiator Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Flash-Fire, White-Smoke, Flame-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png"
+    "name": "Zweilous",
+    "types": "Dark, Dragon",
+    "species": "Hostile Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "50.0 kg",
+    "abilities": "Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png"
   }
 }
