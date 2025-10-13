@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-12T12:42:55.234139",
+  "timestamp": "2025-10-13T12:50:45.249730",
   "pokemon_data": {
-    "name": "Swellow",
-    "types": "Normal, Flying",
-    "species": "Swallow Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "19.8 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
+    "name": "Uxie",
+    "types": "Psychic",
+    "species": "Knowledge Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
   }
 }
