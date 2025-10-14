@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-13T12:50:45.249730",
+  "timestamp": "2025-10-14T12:52:51.264297",
   "pokemon_data": {
-    "name": "Uxie",
-    "types": "Psychic",
-    "species": "Knowledge Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
+    "name": "Dewott",
+    "types": "Water",
+    "species": "Discipline Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "abilities": "Torrent, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
   }
 }
