@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-14T12:52:51.264297",
+  "timestamp": "2025-10-15T12:52:21.990485",
   "pokemon_data": {
-    "name": "Dewott",
-    "types": "Water",
-    "species": "Discipline Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+    "name": "Electabuzz",
+    "types": "Electric",
+    "species": "Electric Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
+    "abilities": "Static, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
   }
 }
