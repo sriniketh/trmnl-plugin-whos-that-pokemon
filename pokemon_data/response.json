@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-17T12:50:28.425231",
+  "timestamp": "2025-10-18T12:44:53.532570",
   "pokemon_data": {
-    "name": "Armaldo",
-    "types": "Rock, Bug",
-    "species": "Plate Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "68.2 kg",
-    "abilities": "Battle-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
+    "name": "Shellos",
+    "types": "Water",
+    "species": "Sea Slug Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "6.3 kg",
+    "abilities": "Sticky-Hold, Storm-Drain, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
   }
 }
