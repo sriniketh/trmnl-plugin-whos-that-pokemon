@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-22T12:53:57.543728",
+  "timestamp": "2025-10-23T12:53:01.194876",
   "pokemon_data": {
-    "name": "Aerodactyl",
-    "types": "Rock, Flying",
-    "species": "Fossil Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "59.0 kg",
-    "abilities": "Rock-Head, Pressure, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
+    "name": "Froslass",
+    "types": "Ice, Ghost",
+    "species": "Snow Land Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "26.6 kg",
+    "abilities": "Snow-Cloak, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
   }
 }
