@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-23T12:53:01.194876",
+  "timestamp": "2025-10-24T12:52:14.719361",
   "pokemon_data": {
-    "name": "Froslass",
-    "types": "Ice, Ghost",
-    "species": "Snow Land Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "26.6 kg",
-    "abilities": "Snow-Cloak, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
+    "name": "Carracosta",
+    "types": "Water, Rock",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "81.0 kg",
+    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
   }
 }
