@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-24T12:52:14.719361",
+  "timestamp": "2025-10-25T12:43:38.696449",
   "pokemon_data": {
-    "name": "Carracosta",
-    "types": "Water, Rock",
-    "species": "Prototurtle Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "81.0 kg",
-    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+    "name": "Baltoy",
+    "types": "Ground, Psychic",
+    "species": "Clay Doll Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "21.5 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
   }
 }
