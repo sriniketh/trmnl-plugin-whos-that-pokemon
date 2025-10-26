@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-25T12:43:38.696449",
+  "timestamp": "2025-10-26T12:45:34.036066",
   "pokemon_data": {
-    "name": "Baltoy",
-    "types": "Ground, Psychic",
-    "species": "Clay Doll Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "21.5 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
+    "name": "Tyrantrum",
+    "types": "Rock, Dragon",
+    "species": "Despot Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "270.0 kg",
+    "abilities": "Strong-Jaw, Rock-Head",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
   }
 }
