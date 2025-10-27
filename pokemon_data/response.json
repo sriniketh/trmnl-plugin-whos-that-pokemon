@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-26T12:45:34.036066",
+  "timestamp": "2025-10-27T12:52:53.262439",
   "pokemon_data": {
-    "name": "Tyrantrum",
-    "types": "Rock, Dragon",
-    "species": "Despot Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "270.0 kg",
-    "abilities": "Strong-Jaw, Rock-Head",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+    "name": "Dewpider",
+    "types": "Water, Bug",
+    "species": "Water Bubble Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "4.0 kg",
+    "abilities": "Water-Bubble, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
   }
 }
