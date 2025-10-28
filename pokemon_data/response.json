@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-27T12:52:53.262439",
+  "timestamp": "2025-10-28T12:51:29.100797",
   "pokemon_data": {
-    "name": "Dewpider",
-    "types": "Water, Bug",
-    "species": "Water Bubble Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "4.0 kg",
-    "abilities": "Water-Bubble, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
+    "name": "Skuntank",
+    "types": "Poison, Dark",
+    "species": "Skunk Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "38.0 kg",
+    "abilities": "Stench, Aftermath, Keen-Eye",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png"
   }
 }
