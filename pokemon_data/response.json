@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-29T12:53:24.070045",
+  "timestamp": "2025-10-30T12:51:46.781724",
   "pokemon_data": {
-    "name": "Electrike",
-    "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "15.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png"
+    "name": "Fletchling",
+    "types": "Normal, Flying",
+    "species": "Tiny Robin Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.7 kg",
+    "abilities": "Big-Pecks, Gale-Wings",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
   }
 }
