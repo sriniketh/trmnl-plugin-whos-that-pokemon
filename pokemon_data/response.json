@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-31T12:51:22.013987",
+  "timestamp": "2025-11-01T12:44:52.763282",
   "pokemon_data": {
-    "name": "Vespiquen",
-    "types": "Bug, Flying",
-    "species": "Beehive Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "38.5 kg",
-    "abilities": "Pressure, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png"
+    "name": "Nuzleaf",
+    "types": "Grass, Dark",
+    "species": "Wily Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.0 kg",
+    "abilities": "Chlorophyll, Early-Bird, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
   }
 }
