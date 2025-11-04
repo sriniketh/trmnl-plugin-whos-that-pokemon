@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-03T12:52:42.593938",
+  "timestamp": "2025-11-04T12:54:58.542350",
   "pokemon_data": {
-    "name": "Kecleon",
-    "types": "Normal",
-    "species": "Color Swap Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "22.0 kg",
-    "abilities": "Color-Change, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png"
+    "name": "Scorbunny",
+    "types": "Fire",
+    "species": "Rabbit Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "4.5 kg",
+    "abilities": "Blaze, Libero",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png"
   }
 }
