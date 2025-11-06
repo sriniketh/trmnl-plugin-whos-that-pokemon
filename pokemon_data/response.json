@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-05T12:52:24.092451",
+  "timestamp": "2025-11-06T12:52:23.087044",
   "pokemon_data": {
-    "name": "Unown",
-    "types": "Psychic",
-    "species": "Symbol Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.0 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+    "name": "Dolliv",
+    "types": "Grass, Normal",
+    "species": "Olive Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.9 kg",
+    "abilities": "Early-Bird, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
   }
 }
