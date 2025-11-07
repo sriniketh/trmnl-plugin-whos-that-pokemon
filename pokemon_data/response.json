@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-06T12:52:23.087044",
+  "timestamp": "2025-11-07T12:51:05.205629",
   "pokemon_data": {
-    "name": "Dolliv",
-    "types": "Grass, Normal",
-    "species": "Olive Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.9 kg",
-    "abilities": "Early-Bird, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
+    "name": "Toedscool",
+    "types": "Ground, Grass",
+    "species": "Woodear Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "33.0 kg",
+    "abilities": "Mycelium-Might, Mycelium-Might",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
   }
 }
