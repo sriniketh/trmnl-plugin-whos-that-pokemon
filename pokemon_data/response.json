@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-07T12:51:05.205629",
+  "timestamp": "2025-11-08T12:44:42.795899",
   "pokemon_data": {
-    "name": "Toedscool",
-    "types": "Ground, Grass",
-    "species": "Woodear Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "33.0 kg",
-    "abilities": "Mycelium-Might, Mycelium-Might",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
+    "name": "Binacle",
+    "types": "Rock, Water",
+    "species": "Two-Handed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "31.0 kg",
+    "abilities": "Tough-Claws, Sniper, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
   }
 }
