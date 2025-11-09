@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-08T12:44:42.795899",
+  "timestamp": "2025-11-09T12:44:58.347223",
   "pokemon_data": {
-    "name": "Binacle",
-    "types": "Rock, Water",
-    "species": "Two-Handed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "31.0 kg",
-    "abilities": "Tough-Claws, Sniper, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+    "name": "Sandy-Shocks",
+    "types": "Electric, Ground",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "2.3 m",
+    "weight": "60.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png"
   }
 }
