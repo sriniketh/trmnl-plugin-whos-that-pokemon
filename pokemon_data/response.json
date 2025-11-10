@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-09T12:44:58.347223",
+  "timestamp": "2025-11-10T12:53:22.982115",
   "pokemon_data": {
-    "name": "Sandy-Shocks",
-    "types": "Electric, Ground",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "60.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png"
+    "name": "Sudowoodo",
+    "types": "Rock",
+    "species": "Imitation Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "38.0 kg",
+    "abilities": "Sturdy, Rock-Head, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png"
   }
 }
