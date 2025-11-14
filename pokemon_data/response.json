@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-13T12:54:00.539447",
+  "timestamp": "2025-11-14T12:51:39.224544",
   "pokemon_data": {
-    "name": "Snorunt",
-    "types": "Ice",
-    "species": "Snow Hat Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.8 kg",
-    "abilities": "Inner-Focus, Ice-Body, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png"
+    "name": "Tadbulb",
+    "types": "Electric",
+    "species": "Eletadpole Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.4 kg",
+    "abilities": "Own-Tempo, Static, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png"
   }
 }
