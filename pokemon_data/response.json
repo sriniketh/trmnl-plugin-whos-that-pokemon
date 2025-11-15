@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-14T12:51:39.224544",
+  "timestamp": "2025-11-15T12:45:59.368539",
   "pokemon_data": {
-    "name": "Tadbulb",
-    "types": "Electric",
-    "species": "Eletadpole Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.4 kg",
-    "abilities": "Own-Tempo, Static, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png"
+    "name": "Sawsbuck",
+    "types": "Normal, Grass",
+    "species": "Season Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "92.5 kg",
+    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
   }
 }
