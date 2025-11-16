@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-15T12:45:59.368539",
+  "timestamp": "2025-11-16T12:45:40.295538",
   "pokemon_data": {
-    "name": "Sawsbuck",
-    "types": "Normal, Grass",
-    "species": "Season Pok\u00e9mon",
+    "name": "Inteleon",
+    "types": "Water",
+    "species": "Secret Agent Pok\u00e9mon",
     "height": "1.9 m",
-    "weight": "92.5 kg",
-    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+    "weight": "45.2 kg",
+    "abilities": "Torrent, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png"
   }
 }
