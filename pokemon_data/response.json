@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-19T12:53:02.654919",
+  "timestamp": "2025-11-20T12:52:03.524933",
   "pokemon_data": {
-    "name": "Togedemaru",
-    "types": "Electric, Steel",
-    "species": "Roly-Poly Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.3 kg",
-    "abilities": "Iron-Barbs, Lightning-Rod, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png"
+    "name": "Porygon",
+    "types": "Normal",
+    "species": "Virtual Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "36.5 kg",
+    "abilities": "Trace, Download, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
   }
 }
