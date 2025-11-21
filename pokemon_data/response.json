@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-20T12:52:03.524933",
+  "timestamp": "2025-11-21T12:51:13.478287",
   "pokemon_data": {
-    "name": "Porygon",
-    "types": "Normal",
-    "species": "Virtual Pok\u00e9mon",
+    "name": "Azumarill",
+    "types": "Water, Fairy",
+    "species": "Aqua Rabbit Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "36.5 kg",
-    "abilities": "Trace, Download, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
+    "weight": "28.5 kg",
+    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
   }
 }
