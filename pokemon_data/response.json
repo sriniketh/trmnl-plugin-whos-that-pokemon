@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-21T12:51:13.478287",
+  "timestamp": "2025-11-22T12:44:42.751462",
   "pokemon_data": {
-    "name": "Azumarill",
-    "types": "Water, Fairy",
-    "species": "Aqua Rabbit Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "28.5 kg",
-    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
+    "name": "Shiftry",
+    "types": "Grass, Dark",
+    "species": "Wicked Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "59.6 kg",
+    "abilities": "Chlorophyll, Wind-Rider, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png"
   }
 }
