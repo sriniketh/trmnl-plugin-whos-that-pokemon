@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-22T12:44:42.751462",
+  "timestamp": "2025-11-23T12:44:01.494126",
   "pokemon_data": {
-    "name": "Shiftry",
-    "types": "Grass, Dark",
-    "species": "Wicked Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "59.6 kg",
-    "abilities": "Chlorophyll, Wind-Rider, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png"
+    "name": "Cosmoem",
+    "types": "Psychic",
+    "species": "Protostar Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "999.9 kg",
+    "abilities": "Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png"
   }
 }
