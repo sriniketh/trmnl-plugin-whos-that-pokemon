@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-23T12:44:01.494126",
+  "timestamp": "2025-11-24T12:54:11.254632",
   "pokemon_data": {
-    "name": "Cosmoem",
-    "types": "Psychic",
-    "species": "Protostar Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "999.9 kg",
-    "abilities": "Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png"
+    "name": "Overqwil",
+    "types": "Dark, Poison",
+    "species": "Pin Cluster Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "60.5 kg",
+    "abilities": "Poison-Point, Swift-Swim, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png"
   }
 }
