@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-24T12:54:11.254632",
+  "timestamp": "2025-11-25T12:53:44.444555",
   "pokemon_data": {
-    "name": "Overqwil",
-    "types": "Dark, Poison",
-    "species": "Pin Cluster Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "60.5 kg",
-    "abilities": "Poison-Point, Swift-Swim, Intimidate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png"
+    "name": "Drowzee",
+    "types": "Psychic",
+    "species": "Hypnosis Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.4 kg",
+    "abilities": "Insomnia, Forewarn, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
   }
 }
