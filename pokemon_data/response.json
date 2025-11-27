@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-26T12:54:58.473808",
+  "timestamp": "2025-11-27T12:53:48.310519",
   "pokemon_data": {
-    "name": "Tatsugiri-Curly",
-    "types": "Dragon, Water",
-    "species": "Mimicry Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.0 kg",
-    "abilities": "Commander, Storm-Drain",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
+    "name": "Mewtwo",
+    "types": "Psychic",
+    "species": "Genetic Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "122.0 kg",
+    "abilities": "Pressure, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
   }
 }
