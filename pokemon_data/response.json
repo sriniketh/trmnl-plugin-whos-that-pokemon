@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-27T12:53:48.310519",
+  "timestamp": "2025-11-28T12:52:14.406946",
   "pokemon_data": {
-    "name": "Mewtwo",
-    "types": "Psychic",
-    "species": "Genetic Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "122.0 kg",
-    "abilities": "Pressure, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+    "name": "Honchkrow",
+    "types": "Dark, Flying",
+    "species": "Big Boss Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "27.3 kg",
+    "abilities": "Insomnia, Super-Luck, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png"
   }
 }
