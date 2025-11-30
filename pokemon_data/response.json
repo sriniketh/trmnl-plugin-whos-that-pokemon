@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-29T12:48:56.413069",
+  "timestamp": "2025-11-30T12:48:22.682533",
   "pokemon_data": {
-    "name": "Budew",
-    "types": "Grass, Poison",
-    "species": "Bud Pok\u00e9mon",
+    "name": "Burmy",
+    "types": "Bug",
+    "species": "Bagworm Pok\u00e9mon",
     "height": "0.2 m",
-    "weight": "1.2 kg",
-    "abilities": "Natural-Cure, Poison-Point, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png"
+    "weight": "3.4 kg",
+    "abilities": "Shed-Skin, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png"
   }
 }
