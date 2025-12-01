@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-30T12:48:22.682533",
+  "timestamp": "2025-12-01T12:55:19.120635",
   "pokemon_data": {
-    "name": "Burmy",
-    "types": "Bug",
-    "species": "Bagworm Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "3.4 kg",
-    "abilities": "Shed-Skin, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png"
+    "name": "Palafin-Zero",
+    "types": "Water",
+    "species": "Dolphin Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "60.2 kg",
+    "abilities": "Zero-To-Hero, Zero-To-Hero",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
   }
 }
