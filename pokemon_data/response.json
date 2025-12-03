@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-02T12:55:47.897751",
+  "timestamp": "2025-12-03T12:56:32.024968",
   "pokemon_data": {
-    "name": "Noibat",
-    "types": "Flying, Dragon",
-    "species": "Sound Wave Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.0 kg",
-    "abilities": "Frisk, Infiltrator, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
+    "name": "Iron-Moth",
+    "types": "Fire, Poison",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "36.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
   }
 }
