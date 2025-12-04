@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-03T12:56:32.024968",
+  "timestamp": "2025-12-04T12:56:29.237710",
   "pokemon_data": {
-    "name": "Iron-Moth",
-    "types": "Fire, Poison",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "36.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
+    "name": "Ekans",
+    "types": "Poison",
+    "species": "Snake Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "6.9 kg",
+    "abilities": "Intimidate, Shed-Skin, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
   }
 }
