@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-04T12:56:29.237710",
+  "timestamp": "2025-12-05T12:53:22.299665",
   "pokemon_data": {
-    "name": "Ekans",
-    "types": "Poison",
-    "species": "Snake Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "6.9 kg",
-    "abilities": "Intimidate, Shed-Skin, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+    "name": "Pawmot",
+    "types": "Electric, Fighting",
+    "species": "Hands-On Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "41.0 kg",
+    "abilities": "Volt-Absorb, Natural-Cure, Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
   }
 }
