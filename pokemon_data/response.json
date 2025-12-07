@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-06T12:49:19.394469",
+  "timestamp": "2025-12-07T12:47:42.152001",
   "pokemon_data": {
-    "name": "Geodude",
-    "types": "Rock, Ground",
-    "species": "Rock Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "20.0 kg",
-    "abilities": "Rock-Head, Sturdy, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
+    "name": "Clobbopus",
+    "types": "Fighting",
+    "species": "Tantrum Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "4.0 kg",
+    "abilities": "Limber, Technician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png"
   }
 }
