@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-10T12:56:53.681475",
+  "timestamp": "2025-12-11T12:58:14.021986",
   "pokemon_data": {
-    "name": "Scolipede",
-    "types": "Bug, Poison",
-    "species": "Megapede Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "200.5 kg",
-    "abilities": "Poison-Point, Swarm, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+    "name": "Mewtwo",
+    "types": "Psychic",
+    "species": "Genetic Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "122.0 kg",
+    "abilities": "Pressure, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
   }
 }
