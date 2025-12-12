@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-11T12:58:14.021986",
+  "timestamp": "2025-12-12T12:55:23.170785",
   "pokemon_data": {
-    "name": "Mewtwo",
-    "types": "Psychic",
-    "species": "Genetic Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "122.0 kg",
-    "abilities": "Pressure, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+    "name": "Arcanine",
+    "types": "Fire",
+    "species": "Legendary Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "155.0 kg",
+    "abilities": "Intimidate, Flash-Fire, Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
   }
 }
