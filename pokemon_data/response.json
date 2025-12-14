@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-13T12:49:58.084221",
+  "timestamp": "2025-12-14T12:49:53.441095",
   "pokemon_data": {
-    "name": "Watchog",
-    "types": "Normal",
-    "species": "Lookout Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "27.0 kg",
-    "abilities": "Illuminate, Keen-Eye, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+    "name": "Makuhita",
+    "types": "Fighting",
+    "species": "Guts Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "86.4 kg",
+    "abilities": "Thick-Fat, Guts, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
   }
 }
