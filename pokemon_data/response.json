@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-16T12:57:14.756359",
+  "timestamp": "2025-12-17T12:57:01.150316",
   "pokemon_data": {
-    "name": "Espeon",
-    "types": "Psychic",
-    "species": "Sun Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "26.5 kg",
-    "abilities": "Synchronize, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png"
+    "name": "Pawniard",
+    "types": "Dark, Steel",
+    "species": "Sharp Blade Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.2 kg",
+    "abilities": "Defiant, Inner-Focus, Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
   }
 }
