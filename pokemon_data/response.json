@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-18T12:55:26.030839",
+  "timestamp": "2025-12-19T12:53:31.420880",
   "pokemon_data": {
-    "name": "Poipole",
-    "types": "Poison",
-    "species": "Poison Pin Pok\u00e9mon",
+    "name": "Deerling",
+    "types": "Normal, Grass",
+    "species": "Season Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "1.8 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png"
+    "weight": "19.5 kg",
+    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
   }
 }
