@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-19T12:53:31.420880",
+  "timestamp": "2025-12-20T12:49:44.513159",
   "pokemon_data": {
-    "name": "Deerling",
-    "types": "Normal, Grass",
-    "species": "Season Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "19.5 kg",
-    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
+    "name": "Lotad",
+    "types": "Water, Grass",
+    "species": "Water Weed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "2.6 kg",
+    "abilities": "Swift-Swim, Rain-Dish, Own-Tempo",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png"
   }
 }
