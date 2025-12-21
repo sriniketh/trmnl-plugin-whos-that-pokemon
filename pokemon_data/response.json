@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-20T12:49:44.513159",
+  "timestamp": "2025-12-21T12:50:27.953649",
   "pokemon_data": {
-    "name": "Lotad",
-    "types": "Water, Grass",
-    "species": "Water Weed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "2.6 kg",
-    "abilities": "Swift-Swim, Rain-Dish, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png"
+    "name": "Miraidon",
+    "types": "Electric, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "240.0 kg",
+    "abilities": "Hadron-Engine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
   }
 }
