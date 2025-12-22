@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-21T12:50:27.953649",
+  "timestamp": "2025-12-22T12:54:40.856152",
   "pokemon_data": {
-    "name": "Miraidon",
-    "types": "Electric, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "240.0 kg",
-    "abilities": "Hadron-Engine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
+    "name": "Guzzlord",
+    "types": "Dark, Dragon",
+    "species": "Junkivore Pok\u00e9mon",
+    "height": "5.5 m",
+    "weight": "888.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png"
   }
 }
