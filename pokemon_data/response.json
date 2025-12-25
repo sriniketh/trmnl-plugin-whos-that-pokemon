@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-24T12:54:15.489889",
+  "timestamp": "2025-12-25T12:53:48.459604",
   "pokemon_data": {
-    "name": "Terapagos",
-    "types": "Normal",
-    "species": "Tera Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "6.5 kg",
-    "abilities": "Tera-Shift",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
+    "name": "Torracat",
+    "types": "Fire",
+    "species": "Fire Cat Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "25.0 kg",
+    "abilities": "Blaze, Intimidate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png"
   }
 }
