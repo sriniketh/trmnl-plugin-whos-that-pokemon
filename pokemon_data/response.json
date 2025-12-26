@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-25T12:53:48.459604",
+  "timestamp": "2025-12-26T12:53:55.037453",
   "pokemon_data": {
-    "name": "Torracat",
-    "types": "Fire",
-    "species": "Fire Cat Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "25.0 kg",
-    "abilities": "Blaze, Intimidate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png"
+    "name": "Xurkitree",
+    "types": "Electric",
+    "species": "Glowing Pok\u00e9mon",
+    "height": "3.8 m",
+    "weight": "100.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
   }
 }
