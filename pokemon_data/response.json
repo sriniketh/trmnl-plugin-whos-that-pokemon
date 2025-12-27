@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-26T12:53:55.037453",
+  "timestamp": "2025-12-27T12:51:18.023404",
   "pokemon_data": {
-    "name": "Xurkitree",
-    "types": "Electric",
-    "species": "Glowing Pok\u00e9mon",
-    "height": "3.8 m",
-    "weight": "100.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
+    "name": "Tapu-Koko",
+    "types": "Electric, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "20.5 kg",
+    "abilities": "Electric-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
   }
 }
