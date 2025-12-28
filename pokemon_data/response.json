@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-27T12:51:18.023404",
+  "timestamp": "2025-12-28T12:52:04.400609",
   "pokemon_data": {
-    "name": "Tapu-Koko",
-    "types": "Electric, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "20.5 kg",
-    "abilities": "Electric-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png"
+    "name": "Swadloon",
+    "types": "Bug, Grass",
+    "species": "Leaf-Wrapped Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "7.3 kg",
+    "abilities": "Leaf-Guard, Chlorophyll, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
   }
 }
