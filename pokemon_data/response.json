@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-28T12:52:04.400609",
+  "timestamp": "2025-12-29T12:57:05.255120",
   "pokemon_data": {
-    "name": "Swadloon",
-    "types": "Bug, Grass",
-    "species": "Leaf-Wrapped Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "7.3 kg",
-    "abilities": "Leaf-Guard, Chlorophyll, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
+    "name": "Volcarona",
+    "types": "Bug, Fire",
+    "species": "Sun Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "46.0 kg",
+    "abilities": "Flame-Body, Swarm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png"
   }
 }
