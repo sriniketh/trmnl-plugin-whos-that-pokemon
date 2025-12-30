@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-29T12:57:05.255120",
+  "timestamp": "2025-12-30T12:56:02.984387",
   "pokemon_data": {
-    "name": "Volcarona",
-    "types": "Bug, Fire",
-    "species": "Sun Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "46.0 kg",
-    "abilities": "Flame-Body, Swarm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png"
+    "name": "Mr-Rime",
+    "types": "Ice, Psychic",
+    "species": "Comedian Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "58.2 kg",
+    "abilities": "Tangled-Feet, Screen-Cleaner, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png"
   }
 }
