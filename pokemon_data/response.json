@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-30T12:56:02.984387",
+  "timestamp": "2025-12-31T12:54:40.417130",
   "pokemon_data": {
-    "name": "Mr-Rime",
-    "types": "Ice, Psychic",
-    "species": "Comedian Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "58.2 kg",
-    "abilities": "Tangled-Feet, Screen-Cleaner, Ice-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png"
+    "name": "Squirtle",
+    "types": "Water",
+    "species": "Tiny Turtle Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "abilities": "Torrent, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
   }
 }
