@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-31T12:54:40.417130",
+  "timestamp": "2026-01-01T12:54:39.276664",
   "pokemon_data": {
-    "name": "Squirtle",
-    "types": "Water",
-    "species": "Tiny Turtle Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Torrent, Rain-Dish",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+    "name": "Lurantis",
+    "types": "Grass",
+    "species": "Bloom Sickle Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "18.5 kg",
+    "abilities": "Leaf-Guard, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
   }
 }
