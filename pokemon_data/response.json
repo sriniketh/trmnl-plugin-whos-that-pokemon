@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-02T12:53:25.231262",
+  "timestamp": "2026-01-03T12:51:44.465203",
   "pokemon_data": {
-    "name": "Spoink",
-    "types": "Psychic",
-    "species": "Bounce Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "30.6 kg",
-    "abilities": "Thick-Fat, Own-Tempo, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png"
+    "name": "Durant",
+    "types": "Bug, Steel",
+    "species": "Iron Ant Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "33.0 kg",
+    "abilities": "Swarm, Hustle, Truant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png"
   }
 }
