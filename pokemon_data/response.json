@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-03T12:51:44.465203",
+  "timestamp": "2026-01-04T12:52:26.389113",
   "pokemon_data": {
-    "name": "Durant",
-    "types": "Bug, Steel",
-    "species": "Iron Ant Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "33.0 kg",
-    "abilities": "Swarm, Hustle, Truant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png"
+    "name": "Torkoal",
+    "types": "Fire",
+    "species": "Coal Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "80.4 kg",
+    "abilities": "White-Smoke, Drought, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
   }
 }
