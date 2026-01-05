@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-04T12:52:26.389113",
+  "timestamp": "2026-01-05T12:59:12.022161",
   "pokemon_data": {
-    "name": "Torkoal",
-    "types": "Fire",
-    "species": "Coal Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "80.4 kg",
-    "abilities": "White-Smoke, Drought, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
+    "name": "Gossifleur",
+    "types": "Grass",
+    "species": "Flowering Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "2.2 kg",
+    "abilities": "Cotton-Down, Regenerator, Effect-Spore",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png"
   }
 }
