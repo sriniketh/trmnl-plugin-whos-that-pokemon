@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-06T12:56:42.701793",
+  "timestamp": "2026-01-07T12:58:11.969306",
   "pokemon_data": {
-    "name": "Marshtomp",
-    "types": "Water, Ground",
-    "species": "Mud Fish Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "28.0 kg",
-    "abilities": "Torrent, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png"
+    "name": "Falinks",
+    "types": "Fighting",
+    "species": "Formation Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "62.0 kg",
+    "abilities": "Battle-Armor, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
   }
 }
