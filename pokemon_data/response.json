@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-07T12:58:11.969306",
+  "timestamp": "2026-01-08T12:58:19.184684",
   "pokemon_data": {
-    "name": "Falinks",
-    "types": "Fighting",
-    "species": "Formation Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "62.0 kg",
-    "abilities": "Battle-Armor, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+    "name": "Floatzel",
+    "types": "Water",
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
   }
 }
