@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-08T12:58:19.184684",
+  "timestamp": "2026-01-09T12:57:18.586046",
   "pokemon_data": {
-    "name": "Floatzel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+    "name": "Druddigon",
+    "types": "Dragon",
+    "species": "Cave Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "139.0 kg",
+    "abilities": "Rough-Skin, Sheer-Force, Mold-Breaker",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
   }
 }
