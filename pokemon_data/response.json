@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-11T12:52:50.240207",
+  "timestamp": "2026-01-12T12:59:59.942679",
   "pokemon_data": {
-    "name": "Drednaw",
-    "types": "Water, Rock",
-    "species": "Bite Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "115.5 kg",
-    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
+    "name": "Drakloak",
+    "types": "Dragon, Ghost",
+    "species": "Caretaker Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "11.0 kg",
+    "abilities": "Clear-Body, Infiltrator, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png"
   }
 }
