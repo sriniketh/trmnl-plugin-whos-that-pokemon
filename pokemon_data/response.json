@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-14T12:59:46.061246",
+  "timestamp": "2026-01-15T12:58:22.812989",
   "pokemon_data": {
-    "name": "Magnemite",
-    "types": "Electric, Steel",
-    "species": "Magnet Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "6.0 kg",
-    "abilities": "Magnet-Pull, Sturdy, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+    "name": "Garbodor",
+    "types": "Poison",
+    "species": "Trash Heap Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "107.3 kg",
+    "abilities": "Stench, Weak-Armor, Aftermath",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
   }
 }
