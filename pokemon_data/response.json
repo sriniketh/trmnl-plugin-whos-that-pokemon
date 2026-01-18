@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-17T12:51:34.911749",
+  "timestamp": "2026-01-18T12:51:55.216500",
   "pokemon_data": {
-    "name": "Salamence",
-    "types": "Dragon, Flying",
-    "species": "Dragon Pok\u00e9mon",
+    "name": "Iron-Leaves",
+    "types": "Grass, Psychic",
+    "species": "Paradox Pok\u00e9mon",
     "height": "1.5 m",
-    "weight": "102.6 kg",
-    "abilities": "Intimidate, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
+    "weight": "125.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png"
   }
 }
