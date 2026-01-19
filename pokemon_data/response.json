@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-18T12:51:55.216500",
+  "timestamp": "2026-01-19T13:02:58.502863",
   "pokemon_data": {
-    "name": "Iron-Leaves",
-    "types": "Grass, Psychic",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "125.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png"
+    "name": "Cutiefly",
+    "types": "Bug, Fairy",
+    "species": "Bee Fly Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "0.2 kg",
+    "abilities": "Honey-Gather, Shield-Dust, Sweet-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
   }
 }
