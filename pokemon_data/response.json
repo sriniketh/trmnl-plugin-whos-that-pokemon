@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-19T13:02:58.502863",
+  "timestamp": "2026-01-20T13:03:36.264662",
   "pokemon_data": {
-    "name": "Cutiefly",
-    "types": "Bug, Fairy",
-    "species": "Bee Fly Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "0.2 kg",
-    "abilities": "Honey-Gather, Shield-Dust, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+    "name": "Delibird",
+    "types": "Ice, Flying",
+    "species": "Delivery Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "16.0 kg",
+    "abilities": "Vital-Spirit, Hustle, Insomnia",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
   }
 }
