@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-20T13:03:36.264662",
+  "timestamp": "2026-01-21T13:02:46.640905",
   "pokemon_data": {
-    "name": "Delibird",
-    "types": "Ice, Flying",
-    "species": "Delivery Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "16.0 kg",
-    "abilities": "Vital-Spirit, Hustle, Insomnia",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+    "name": "Palkia",
+    "types": "Water, Dragon",
+    "species": "Spatial Pok\u00e9mon",
+    "height": "4.2 m",
+    "weight": "336.0 kg",
+    "abilities": "Pressure, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
   }
 }
