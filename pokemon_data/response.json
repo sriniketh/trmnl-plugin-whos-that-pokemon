@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-21T13:02:46.640905",
+  "timestamp": "2026-01-22T13:03:31.004034",
   "pokemon_data": {
-    "name": "Palkia",
-    "types": "Water, Dragon",
-    "species": "Spatial Pok\u00e9mon",
-    "height": "4.2 m",
-    "weight": "336.0 kg",
-    "abilities": "Pressure, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+    "name": "Metagross",
+    "types": "Steel, Psychic",
+    "species": "Iron Leg Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "550.0 kg",
+    "abilities": "Clear-Body, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
   }
 }
