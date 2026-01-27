@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-26T13:01:27.394383",
+  "timestamp": "2026-01-27T13:03:38.404976",
   "pokemon_data": {
-    "name": "Mantine",
-    "types": "Water, Flying",
-    "species": "Kite Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "220.0 kg",
-    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png"
+    "name": "Chewtle",
+    "types": "Water",
+    "species": "Snapping Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.5 kg",
+    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
   }
 }
