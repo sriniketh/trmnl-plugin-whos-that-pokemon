@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-27T13:03:38.404976",
+  "timestamp": "2026-01-28T13:03:45.357396",
   "pokemon_data": {
-    "name": "Chewtle",
-    "types": "Water",
-    "species": "Snapping Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.5 kg",
-    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
+    "name": "Flareon",
+    "types": "Fire",
+    "species": "Flame Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "25.0 kg",
+    "abilities": "Flash-Fire, Guts",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
   }
 }
