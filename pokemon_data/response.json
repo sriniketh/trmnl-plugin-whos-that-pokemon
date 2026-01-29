@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-28T13:03:45.357396",
+  "timestamp": "2026-01-29T13:10:56.454401",
   "pokemon_data": {
-    "name": "Flareon",
-    "types": "Fire",
-    "species": "Flame Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "25.0 kg",
-    "abilities": "Flash-Fire, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+    "name": "Petilil",
+    "types": "Grass",
+    "species": "Bulb Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.6 kg",
+    "abilities": "Chlorophyll, Own-Tempo, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
   }
 }
