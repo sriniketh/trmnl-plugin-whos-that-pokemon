@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-29T13:10:56.454401",
+  "timestamp": "2026-01-30T13:08:58.976150",
   "pokemon_data": {
-    "name": "Petilil",
-    "types": "Grass",
-    "species": "Bulb Pok\u00e9mon",
+    "name": "Maschiff",
+    "types": "Dark",
+    "species": "Rascal Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "6.6 kg",
-    "abilities": "Chlorophyll, Own-Tempo, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+    "weight": "16.0 kg",
+    "abilities": "Intimidate, Run-Away, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
   }
 }
