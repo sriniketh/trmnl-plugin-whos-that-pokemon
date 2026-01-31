@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-30T13:08:58.976150",
+  "timestamp": "2026-01-31T13:00:38.323131",
   "pokemon_data": {
-    "name": "Maschiff",
-    "types": "Dark",
-    "species": "Rascal Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "16.0 kg",
-    "abilities": "Intimidate, Run-Away, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
+    "name": "Coalossal",
+    "types": "Rock, Fire",
+    "species": "Coal Pok\u00e9mon",
+    "height": "2.8 m",
+    "weight": "310.5 kg",
+    "abilities": "Steam-Engine, Flame-Body, Flash-Fire",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png"
   }
 }
