@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-31T13:00:38.323131",
+  "timestamp": "2026-02-01T13:03:05.123982",
   "pokemon_data": {
-    "name": "Coalossal",
-    "types": "Rock, Fire",
-    "species": "Coal Pok\u00e9mon",
-    "height": "2.8 m",
-    "weight": "310.5 kg",
-    "abilities": "Steam-Engine, Flame-Body, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png"
+    "name": "Shedinja",
+    "types": "Bug, Ghost",
+    "species": "Shed Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "1.2 kg",
+    "abilities": "Wonder-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
   }
 }
