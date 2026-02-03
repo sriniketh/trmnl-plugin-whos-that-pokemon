@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-02T13:13:47.347291",
+  "timestamp": "2026-02-03T13:14:47.872836",
   "pokemon_data": {
-    "name": "Magikarp",
-    "types": "Water",
-    "species": "Fish Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "10.0 kg",
-    "abilities": "Swift-Swim, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+    "name": "Frigibax",
+    "types": "Dragon, Ice",
+    "species": "Ice Fin Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "17.0 kg",
+    "abilities": "Thermal-Exchange, Ice-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png"
   }
 }
