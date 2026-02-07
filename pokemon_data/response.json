@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-06T13:13:33.965790",
+  "timestamp": "2026-02-07T13:02:22.995786",
   "pokemon_data": {
-    "name": "Cyndaquil",
-    "types": "Fire",
-    "species": "Fire Mouse Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "7.9 kg",
-    "abilities": "Blaze, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png"
+    "name": "Quilladin",
+    "types": "Grass",
+    "species": "Spiny Armor Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "29.0 kg",
+    "abilities": "Overgrow, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
   }
 }
