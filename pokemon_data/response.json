@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-07T13:02:22.995786",
+  "timestamp": "2026-02-08T13:03:16.909854",
   "pokemon_data": {
-    "name": "Quilladin",
-    "types": "Grass",
-    "species": "Spiny Armor Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "29.0 kg",
-    "abilities": "Overgrow, Bulletproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
+    "name": "Wimpod",
+    "types": "Bug, Water",
+    "species": "Turn Tail Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "12.0 kg",
+    "abilities": "Wimp-Out",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png"
   }
 }
