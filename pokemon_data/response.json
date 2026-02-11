@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-10T13:27:25.021936",
+  "timestamp": "2026-02-11T13:24:14.335805",
   "pokemon_data": {
-    "name": "Eiscue-Ice",
-    "types": "Ice",
-    "species": "Penguin Pok\u00e9mon",
+    "name": "Stantler",
+    "types": "Normal",
+    "species": "Big Horn Pok\u00e9mon",
     "height": "1.4 m",
-    "weight": "89.0 kg",
-    "abilities": "Ice-Face",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png"
+    "weight": "71.2 kg",
+    "abilities": "Intimidate, Frisk, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png"
   }
 }
