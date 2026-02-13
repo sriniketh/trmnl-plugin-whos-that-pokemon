@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-12T13:22:30.046630",
+  "timestamp": "2026-02-13T13:14:21.982733",
   "pokemon_data": {
-    "name": "Prinplup",
-    "types": "Water",
-    "species": "Penguin Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "23.0 kg",
-    "abilities": "Torrent, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png"
+    "name": "Malamar",
+    "types": "Dark, Psychic",
+    "species": "Overturning Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "47.0 kg",
+    "abilities": "Contrary, Suction-Cups, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
   }
 }
