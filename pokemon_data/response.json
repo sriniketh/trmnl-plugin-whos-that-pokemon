@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-14T13:02:34.291988",
+  "timestamp": "2026-02-15T13:04:20.722735",
   "pokemon_data": {
-    "name": "Zamazenta",
-    "types": "Fighting",
-    "species": "Warrior Pok\u00e9mon",
-    "height": "2.9 m",
-    "weight": "210.0 kg",
-    "abilities": "Dauntless-Shield",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png"
+    "name": "Poliwrath",
+    "types": "Water, Fighting",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "54.0 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
   }
 }
