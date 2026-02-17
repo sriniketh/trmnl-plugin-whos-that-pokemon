@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-16T13:17:32.516790",
+  "timestamp": "2026-02-17T13:17:36.223392",
   "pokemon_data": {
-    "name": "Typhlosion",
-    "types": "Fire",
-    "species": "Volcano Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "79.5 kg",
-    "abilities": "Blaze, Flash-Fire",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
+    "name": "Dunsparce",
+    "types": "Normal",
+    "species": "Land Snake Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "14.0 kg",
+    "abilities": "Serene-Grace, Run-Away, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
   }
 }
