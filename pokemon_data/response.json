@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-17T13:17:36.223392",
+  "timestamp": "2026-02-18T13:19:16.798353",
   "pokemon_data": {
-    "name": "Dunsparce",
-    "types": "Normal",
-    "species": "Land Snake Pok\u00e9mon",
+    "name": "Glimmora",
+    "types": "Rock, Poison",
+    "species": "Ore Pok\u00e9mon",
     "height": "1.5 m",
-    "weight": "14.0 kg",
-    "abilities": "Serene-Grace, Run-Away, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
+    "weight": "45.0 kg",
+    "abilities": "Toxic-Debris, Corrosion",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
   }
 }
