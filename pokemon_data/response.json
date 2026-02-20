@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-19T13:20:28.074957",
+  "timestamp": "2026-02-20T13:12:01.788045",
   "pokemon_data": {
-    "name": "Kabutops",
-    "types": "Rock, Water",
-    "species": "Shellfish Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "40.5 kg",
-    "abilities": "Swift-Swim, Battle-Armor, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png"
+    "name": "Skeledirge",
+    "types": "Fire, Ghost",
+    "species": "Singer Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "326.5 kg",
+    "abilities": "Blaze, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png"
   }
 }
