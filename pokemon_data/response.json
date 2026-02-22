@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-21T13:01:22.029863",
+  "timestamp": "2026-02-22T13:03:12.833785",
   "pokemon_data": {
-    "name": "Garganacl",
-    "types": "Rock",
-    "species": "Rock Salt Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "240.0 kg",
-    "abilities": "Purifying-Salt, Sturdy, Clear-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png"
+    "name": "Salamence",
+    "types": "Dragon, Flying",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "102.6 kg",
+    "abilities": "Intimidate, Moxie",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
   }
 }
