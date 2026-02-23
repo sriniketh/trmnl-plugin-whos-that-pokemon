@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-22T13:03:12.833785",
+  "timestamp": "2026-02-23T13:19:11.408010",
   "pokemon_data": {
-    "name": "Salamence",
-    "types": "Dragon, Flying",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "102.6 kg",
-    "abilities": "Intimidate, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
+    "name": "Bouffalant",
+    "types": "Normal",
+    "species": "Bash Buffalo Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "94.6 kg",
+    "abilities": "Reckless, Sap-Sipper, Soundproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png"
   }
 }
