@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-26T13:20:41.165349",
+  "timestamp": "2026-02-27T13:11:59.330453",
   "pokemon_data": {
-    "name": "Buzzwole",
-    "types": "Bug, Fighting",
-    "species": "Swollen Pok\u00e9mon",
-    "height": "2.4 m",
-    "weight": "333.6 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png"
+    "name": "Huntail",
+    "types": "Water",
+    "species": "Deep Sea Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "27.0 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
   }
 }
