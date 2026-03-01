@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-28T12:57:48.837240",
+  "timestamp": "2026-03-01T13:01:26.784847",
   "pokemon_data": {
-    "name": "Luxio",
-    "types": "Electric",
-    "species": "Spark Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "30.5 kg",
-    "abilities": "Rivalry, Intimidate, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png"
+    "name": "Stufful",
+    "types": "Normal, Fighting",
+    "species": "Flailing Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.8 kg",
+    "abilities": "Fluffy, Klutz, Cute-Charm",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png"
   }
 }
