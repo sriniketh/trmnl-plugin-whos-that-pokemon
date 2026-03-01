@@ -1,7 +1,6 @@
 <div class="layout layout--col layout--stretch">
   <!-- First Row: Details -->
-  <div class="flex flex--col flex--center-x flex--center-y flex--stretch gap--medium">
-    <!-- Pokémon Details -->
+  <div class="flex flex--col flex--center-x flex--center-y gap--medium" style="flex-shrink: 0;">
     <div class="item">
       <div class="meta"></div>
       <div class="content">
@@ -18,18 +17,18 @@
       </div>
     </div>
 
-    <div class="flex flex--stretch gap--xsmall">
-      <div class="item">
+    <div class="flex gap--xsmall" style="width: 100%;">
+      <div class="item" style="flex: 1; min-width: 0;">
         <div class="meta"></div>
         <div class="content">
-          <span class="value value--xxsmall">{{ pokemon_data.height }}</span>
+          <span class="value value--xxsmall" style="white-space: nowrap;">{{ pokemon_data.height }}</span>
           <span class="label label--small">Height</span>
         </div>
       </div>
-      <div class="item">
+      <div class="item" style="flex: 1; min-width: 0;">
         <div class="meta"></div>
         <div class="content">
-          <span class="value value--xxsmall">{{ pokemon_data.weight }}</span>
+          <span class="value value--xxsmall" style="white-space: nowrap;">{{ pokemon_data.weight }}</span>
           <span class="label label--small">Weight</span>
         </div>
       </div>
@@ -37,17 +36,19 @@
   </div>
 
   <!-- Second Row: Artwork -->
-  <div class="flex flex--col flex--stretch flex--center-x flex--center-y" style="max-height: 50%;">
-    <div class="flex flex--center-x" style="max-height: 80%; width: auto;">
-      <img 
-        src={{ pokemon_data.artwork }} 
-        alt="pokemon Artwork" 
-        class="image-dither" />
-    </div>
+  <div class="flex flex--col flex--center-x flex--center-y" style="flex: 1 1 auto; min-height: 0; overflow: hidden;">
+    <div class="flex flex--col flex--center-x h--max-[65cqh] lg:h--max-[50cqh] w--max-[50cqw]">
+      <div style="flex: 1 1 auto; display: flex; align-items: center; justify-content: center; min-height: 0; overflow: hidden;">
+        <img
+          src={{ pokemon_data.artwork }}
+          alt="pokemon Artwork"
+          class="image-dither"
+          style="max-height: 100%; max-width: 100%; object-fit: contain;" />
+      </div>
 
-    <!-- Pokémon Name -->
-    <div class="flex flex--center-x">
-      <span class="value value--xsmall" data-value-fit="true" style="font-weight: bold;">{{ pokemon_data.name }}</span>
+      <div class="flex flex--center-x" style="flex-shrink: 0;">
+        <span class="value value--xsmall" data-value-fit="true" style="font-weight: bold; text-align: center;">{{ pokemon_data.name }}</span>
+      </div>
     </div>
   </div>
 </div>
