@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-01T13:01:26.784847",
+  "timestamp": "2026-03-02T13:12:59.368221",
   "pokemon_data": {
-    "name": "Stufful",
-    "types": "Normal, Fighting",
-    "species": "Flailing Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "6.8 kg",
-    "abilities": "Fluffy, Klutz, Cute-Charm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png"
+    "name": "Politoed",
+    "types": "Water",
+    "species": "Frog Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.9 kg",
+    "abilities": "Water-Absorb, Damp, Drizzle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
   }
 }
