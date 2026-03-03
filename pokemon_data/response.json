@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-02T13:12:59.368221",
+  "timestamp": "2026-03-03T13:11:17.091146",
   "pokemon_data": {
-    "name": "Politoed",
-    "types": "Water",
-    "species": "Frog Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.9 kg",
-    "abilities": "Water-Absorb, Damp, Drizzle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
+    "name": "Cascoon",
+    "types": "Bug",
+    "species": "Cocoon Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "11.5 kg",
+    "abilities": "Shed-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png"
   }
 }
