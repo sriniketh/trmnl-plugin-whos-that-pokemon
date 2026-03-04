@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-03T13:11:17.091146",
+  "timestamp": "2026-03-04T13:10:04.253820",
   "pokemon_data": {
-    "name": "Cascoon",
-    "types": "Bug",
-    "species": "Cocoon Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "11.5 kg",
-    "abilities": "Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png"
+    "name": "Gigalith",
+    "types": "Rock",
+    "species": "Compressed Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "260.0 kg",
+    "abilities": "Sturdy, Sand-Stream, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png"
   }
 }
