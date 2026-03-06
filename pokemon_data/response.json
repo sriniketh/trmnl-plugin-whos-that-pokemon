@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-05T13:14:06.793317",
+  "timestamp": "2026-03-06T13:09:33.636209",
   "pokemon_data": {
-    "name": "Dragalge",
-    "types": "Poison, Dragon",
-    "species": "Mock Kelp Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "81.5 kg",
-    "abilities": "Poison-Point, Poison-Touch, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
+    "name": "Melmetal",
+    "types": "Steel",
+    "species": "Hex Nut Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "800.0 kg",
+    "abilities": "Iron-Fist",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
   }
 }
