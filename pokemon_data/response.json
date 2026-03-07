@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-06T13:09:33.636209",
+  "timestamp": "2026-03-07T13:00:04.296909",
   "pokemon_data": {
-    "name": "Melmetal",
-    "types": "Steel",
-    "species": "Hex Nut Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "800.0 kg",
-    "abilities": "Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
+    "name": "Polteageist",
+    "types": "Ghost",
+    "species": "Black Tea Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.4 kg",
+    "abilities": "Weak-Armor, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png"
   }
 }
