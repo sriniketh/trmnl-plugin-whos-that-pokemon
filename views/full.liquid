@@ -1,7 +1,7 @@
-<div class="layout layout--row layout--stretch">
+<div class="layout layout--row layout--stretch" style="height: 100%; width: 100%;">
   <!-- Left Column: Artwork -->
-  <div class="flex flex--col flex--center-x flex--center-y h-full">
-    <div class="flex flex--col flex--center-x h--max-[85cqh] lg:h--max-[60cqh] w--max-[50cqw]">
+  <div class="flex flex--col flex--center-x flex--center-y h-full" style="flex: 1; min-width: 0; min-height: 0;">
+    <div class="flex flex--col flex--center-x" style="flex: 1; min-height: 0; min-width: 0;">
       <div style="flex: 1 1 auto; display: flex; align-items: center; justify-content: center; min-height: 0; overflow: hidden;">
         <img
           src={{ pokemon_data.artwork }}
@@ -17,7 +17,7 @@
   </div>
 
   <!-- Right Column: Details -->
-  <div class="flex flex--col flex--left gap--xlarge h-full">
+  <div class="flex flex--col flex--left gap--xlarge h-full" style="flex: 1; min-width: 0; min-height: 0;">
     <div class="item">
       <div class="meta"></div>
       <div class="content">
