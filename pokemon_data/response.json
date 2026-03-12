@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-11T13:14:56.238119",
+  "timestamp": "2026-03-12T13:15:21.684143",
   "pokemon_data": {
-    "name": "Mawile",
-    "types": "Steel, Fairy",
-    "species": "Deceiver Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "11.5 kg",
-    "abilities": "Hyper-Cutter, Intimidate, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png"
+    "name": "Whirlipede",
+    "types": "Bug, Poison",
+    "species": "Curlipede Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "58.5 kg",
+    "abilities": "Poison-Point, Swarm, Speed-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png"
   }
 }
