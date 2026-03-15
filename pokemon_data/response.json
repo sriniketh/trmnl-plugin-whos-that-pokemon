@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-14T13:05:32.630681",
+  "timestamp": "2026-03-15T13:05:58.669846",
   "pokemon_data": {
-    "name": "Braviary",
-    "types": "Normal, Flying",
-    "species": "Valiant Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "41.0 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
+    "name": "Cacturne",
+    "types": "Grass, Dark",
+    "species": "Scarecrow Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "77.4 kg",
+    "abilities": "Sand-Veil, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
   }
 }
