@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-17T13:25:03.484092",
+  "timestamp": "2026-03-18T13:26:44.816439",
   "pokemon_data": {
-    "name": "Amoonguss",
-    "types": "Grass, Poison",
-    "species": "Mushroom Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.5 kg",
-    "abilities": "Effect-Spore, Regenerator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
+    "name": "Iron-Thorns",
+    "types": "Rock, Electric",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "303.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png"
   }
 }
