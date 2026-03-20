@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-19T13:19:48.216304",
+  "timestamp": "2026-03-20T13:13:00.087486",
   "pokemon_data": {
-    "name": "Hattrem",
-    "types": "Psychic",
-    "species": "Serene Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "4.8 kg",
-    "abilities": "Healer, Anticipation, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+    "name": "Sprigatito",
+    "types": "Grass",
+    "species": "Grass Cat Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.1 kg",
+    "abilities": "Overgrow, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png"
   }
 }
