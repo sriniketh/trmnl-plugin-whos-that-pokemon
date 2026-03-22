@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-21T13:02:28.653710",
+  "timestamp": "2026-03-22T13:04:44.629380",
   "pokemon_data": {
-    "name": "Magikarp",
-    "types": "Water",
-    "species": "Fish Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "10.0 kg",
-    "abilities": "Swift-Swim, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+    "name": "Loudred",
+    "types": "Normal",
+    "species": "Big Voice Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "40.5 kg",
+    "abilities": "Soundproof, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png"
   }
 }
