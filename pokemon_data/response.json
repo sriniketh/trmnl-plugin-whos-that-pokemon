@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-22T13:04:44.629380",
+  "timestamp": "2026-03-23T13:21:41.918925",
   "pokemon_data": {
-    "name": "Loudred",
-    "types": "Normal",
-    "species": "Big Voice Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "40.5 kg",
-    "abilities": "Soundproof, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png"
+    "name": "Buizel",
+    "types": "Water",
+    "species": "Sea Weasel Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "29.5 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
   }
 }
