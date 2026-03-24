@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-23T13:21:41.918925",
+  "timestamp": "2026-03-24T13:25:30.571223",
   "pokemon_data": {
-    "name": "Buizel",
-    "types": "Water",
-    "species": "Sea Weasel Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "29.5 kg",
-    "abilities": "Swift-Swim, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
+    "name": "Sirfetchd",
+    "types": "Fighting",
+    "species": "Wild Duck Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "117.0 kg",
+    "abilities": "Steadfast, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
   }
 }
