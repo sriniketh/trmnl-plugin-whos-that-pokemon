@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-25T13:24:34.432168",
+  "timestamp": "2026-03-26T13:42:17.824236",
   "pokemon_data": {
-    "name": "Meganium",
-    "types": "Grass",
-    "species": "Herb Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "100.5 kg",
-    "abilities": "Overgrow, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png"
+    "name": "Tapu-Fini",
+    "types": "Water, Fairy",
+    "species": "Land Spirit Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "21.2 kg",
+    "abilities": "Misty-Surge, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
   }
 }
