@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-26T13:42:17.824236",
+  "timestamp": "2026-03-27T13:19:49.369496",
   "pokemon_data": {
-    "name": "Tapu-Fini",
-    "types": "Water, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "21.2 kg",
-    "abilities": "Misty-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
+    "name": "Nuzleaf",
+    "types": "Grass, Dark",
+    "species": "Wily Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.0 kg",
+    "abilities": "Chlorophyll, Early-Bird, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
   }
 }
