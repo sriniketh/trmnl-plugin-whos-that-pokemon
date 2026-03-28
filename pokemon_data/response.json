@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-27T13:19:49.369496",
+  "timestamp": "2026-03-28T13:07:49.335904",
   "pokemon_data": {
-    "name": "Nuzleaf",
-    "types": "Grass, Dark",
-    "species": "Wily Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "28.0 kg",
-    "abilities": "Chlorophyll, Early-Bird, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png"
+    "name": "Ariados",
+    "types": "Bug, Poison",
+    "species": "Long Leg Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "33.5 kg",
+    "abilities": "Swarm, Insomnia, Sniper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
   }
 }
