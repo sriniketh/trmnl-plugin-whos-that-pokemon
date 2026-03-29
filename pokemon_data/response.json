@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-28T13:07:49.335904",
+  "timestamp": "2026-03-29T13:08:59.507748",
   "pokemon_data": {
-    "name": "Ariados",
-    "types": "Bug, Poison",
-    "species": "Long Leg Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "33.5 kg",
-    "abilities": "Swarm, Insomnia, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png"
+    "name": "Fennekin",
+    "types": "Fire",
+    "species": "Fox Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "9.4 kg",
+    "abilities": "Blaze, Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png"
   }
 }
