@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-30T13:48:04.543984",
+  "timestamp": "2026-03-31T13:46:58.085288",
   "pokemon_data": {
-    "name": "Cranidos",
-    "types": "Rock",
-    "species": "Head Butt Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "31.5 kg",
-    "abilities": "Mold-Breaker, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
+    "name": "Enamorus-Incarnate",
+    "types": "Fairy, Flying",
+    "species": "Love-Hate Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "48.0 kg",
+    "abilities": "Cute-Charm, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png"
   }
 }
