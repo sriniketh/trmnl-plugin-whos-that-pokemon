@@ -23,8 +23,9 @@ def fetch_random_pokemon() -> Dict[str, Any]:
             break
     else:
         species_name = species_data["name"]
-    
+   
     return {
+        "id": str(pokemon_data["id"]).zfill(4),
         "name": pokemon_data["name"].title(),
         "types": ", ".join(type.title() for type in types),
         "species": species_name.title(),
