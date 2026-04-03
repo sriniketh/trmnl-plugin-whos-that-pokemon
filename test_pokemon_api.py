@@ -5,6 +5,7 @@ from pokemon_api import fetch_random_pokemon
 @pytest.fixture
 def mock_pokemon_response():
     return {
+        "id" : 25,
         "name": "pikachu",
         "types": [{"type": {"name": "electric"}}],
         "species": {"name": "pikachu", "url": "https://pokeapi.co/api/v2/pokemon-species/25"},
@@ -48,6 +49,7 @@ def test_fetch_random_pokemon_returns_correct_response(mock_pokemon_response, mo
         
         result = fetch_random_pokemon()
         
+        assert result["id"] == "0025"
         assert result["name"] == "Pikachu"
         assert result["types"] == "Electric"
         assert result["species"] == "Mouse Pokémon"
