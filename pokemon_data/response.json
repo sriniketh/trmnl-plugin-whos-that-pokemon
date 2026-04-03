@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-04-02T13:40:30.457290",
+  "timestamp": "2026-04-03T01:57:48.279436",
   "pokemon_data": {
-    "name": "Sneasler",
-    "types": "Fighting, Poison",
-    "species": "Free Climb Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "43.0 kg",
-    "abilities": "Pressure, Unburden, Poison-Touch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png"
+    "id": "0372",
+    "name": "Shelgon",
+    "types": "Dragon",
+    "species": "Endurance Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "110.5 kg",
+    "abilities": "Rock-Head, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
   }
 }
