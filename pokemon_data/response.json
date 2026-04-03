@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-04-02T12:41:51.498248",
+  "timestamp": "2026-04-02T13:40:30.457290",
   "pokemon_data": {
-    "id": "0524",
-    "name": "Roggenrola",
-    "types": "Rock",
-    "species": "Mantle Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "18.0 kg",
-    "abilities": "Sturdy, Weak-Armor, Sand-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png"
+    "name": "Sneasler",
+    "types": "Fighting, Poison",
+    "species": "Free Climb Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "43.0 kg",
+    "abilities": "Pressure, Unburden, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png"
   }
 }
