@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-03T01:57:48.279436",
+  "timestamp": "2026-04-03T13:16:44.132622",
   "pokemon_data": {
-    "id": "0372",
-    "name": "Shelgon",
-    "types": "Dragon",
-    "species": "Endurance Pok\u00e9mon",
+    "id": "0012",
+    "name": "Butterfree",
+    "types": "Bug, Flying",
+    "species": "Butterfly Pok\u00e9mon",
     "height": "1.1 m",
-    "weight": "110.5 kg",
-    "abilities": "Rock-Head, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
+    "weight": "32.0 kg",
+    "abilities": "Compound-Eyes, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
   }
 }
