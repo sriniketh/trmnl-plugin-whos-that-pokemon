@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-04T13:08:48.767465",
+  "timestamp": "2026-04-05T13:10:45.790459",
   "pokemon_data": {
-    "id": "0814",
-    "name": "Raboot",
-    "types": "Fire",
-    "species": "Rabbit Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.0 kg",
-    "abilities": "Blaze, Libero",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
+    "id": "0604",
+    "name": "Eelektross",
+    "types": "Electric",
+    "species": "Elefish Pok\u00e9mon",
+    "height": "2.1 m",
+    "weight": "80.5 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png"
   }
 }
