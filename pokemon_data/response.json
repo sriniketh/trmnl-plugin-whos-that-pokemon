@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-05T13:10:45.790459",
+  "timestamp": "2026-04-06T13:23:29.127973",
   "pokemon_data": {
-    "id": "0604",
-    "name": "Eelektross",
-    "types": "Electric",
-    "species": "Elefish Pok\u00e9mon",
-    "height": "2.1 m",
-    "weight": "80.5 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png"
+    "id": "0139",
+    "name": "Omastar",
+    "types": "Rock, Water",
+    "species": "Spiral Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "35.0 kg",
+    "abilities": "Swift-Swim, Shell-Armor, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
   }
 }
