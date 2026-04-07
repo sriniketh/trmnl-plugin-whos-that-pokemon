@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-06T13:23:29.127973",
+  "timestamp": "2026-04-07T13:43:49.373646",
   "pokemon_data": {
-    "id": "0139",
-    "name": "Omastar",
-    "types": "Rock, Water",
-    "species": "Spiral Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "35.0 kg",
-    "abilities": "Swift-Swim, Shell-Armor, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+    "id": "0898",
+    "name": "Calyrex",
+    "types": "Psychic, Grass",
+    "species": "King Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "7.7 kg",
+    "abilities": "Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
   }
 }
