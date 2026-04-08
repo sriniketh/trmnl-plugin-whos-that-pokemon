@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-07T13:43:49.373646",
+  "timestamp": "2026-04-08T13:46:44.389765",
   "pokemon_data": {
-    "id": "0898",
-    "name": "Calyrex",
-    "types": "Psychic, Grass",
-    "species": "King Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "7.7 kg",
-    "abilities": "Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+    "id": "0379",
+    "name": "Registeel",
+    "types": "Steel",
+    "species": "Iron Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "205.0 kg",
+    "abilities": "Clear-Body, Light-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png"
   }
 }
