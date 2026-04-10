@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-09T13:56:52.208514",
+  "timestamp": "2026-04-10T13:24:06.727313",
   "pokemon_data": {
-    "id": "0506",
-    "name": "Lillipup",
-    "types": "Normal",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.1 kg",
-    "abilities": "Vital-Spirit, Pickup, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png"
+    "id": "0310",
+    "name": "Manectric",
+    "types": "Electric",
+    "species": "Discharge Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "40.2 kg",
+    "abilities": "Static, Lightning-Rod, Minus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
   }
 }
