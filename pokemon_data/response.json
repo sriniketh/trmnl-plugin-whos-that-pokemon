@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-10T13:24:06.727313",
+  "timestamp": "2026-04-11T13:11:50.783816",
   "pokemon_data": {
-    "id": "0310",
-    "name": "Manectric",
-    "types": "Electric",
-    "species": "Discharge Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.2 kg",
-    "abilities": "Static, Lightning-Rod, Minus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
+    "id": "0569",
+    "name": "Garbodor",
+    "types": "Poison",
+    "species": "Trash Heap Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "107.3 kg",
+    "abilities": "Stench, Weak-Armor, Aftermath",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
   }
 }
