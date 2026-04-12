@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-11T13:11:50.783816",
+  "timestamp": "2026-04-12T13:14:06.076089",
   "pokemon_data": {
-    "id": "0569",
-    "name": "Garbodor",
-    "types": "Poison",
-    "species": "Trash Heap Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "107.3 kg",
-    "abilities": "Stench, Weak-Armor, Aftermath",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
+    "id": "0174",
+    "name": "Igglybuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.0 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
   }
 }
