@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-13T13:54:40.773681",
+  "timestamp": "2026-04-14T13:59:08.480799",
   "pokemon_data": {
-    "id": "0969",
-    "name": "Glimmet",
-    "types": "Rock, Poison",
-    "species": "Ore Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "8.0 kg",
-    "abilities": "Toxic-Debris, Corrosion",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png"
+    "id": "0798",
+    "name": "Kartana",
+    "types": "Grass, Steel",
+    "species": "Drawn Sword Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.1 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png"
   }
 }
