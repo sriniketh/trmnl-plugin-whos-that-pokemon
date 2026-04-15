@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-14T13:59:08.480799",
+  "timestamp": "2026-04-15T13:52:28.306877",
   "pokemon_data": {
-    "id": "0798",
-    "name": "Kartana",
-    "types": "Grass, Steel",
-    "species": "Drawn Sword Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.1 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png"
+    "id": "0836",
+    "name": "Boltund",
+    "types": "Electric",
+    "species": "Dog Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "34.0 kg",
+    "abilities": "Strong-Jaw, Competitive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png"
   }
 }
