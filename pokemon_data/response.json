@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-15T13:52:28.306877",
+  "timestamp": "2026-04-16T14:01:10.181257",
   "pokemon_data": {
-    "id": "0836",
-    "name": "Boltund",
-    "types": "Electric",
-    "species": "Dog Pok\u00e9mon",
+    "id": "0369",
+    "name": "Relicanth",
+    "types": "Water, Rock",
+    "species": "Longevity Pok\u00e9mon",
     "height": "1.0 m",
-    "weight": "34.0 kg",
-    "abilities": "Strong-Jaw, Competitive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png"
+    "weight": "23.4 kg",
+    "abilities": "Swift-Swim, Rock-Head, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png"
   }
 }
