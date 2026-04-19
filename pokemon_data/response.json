@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-18T13:14:43.713381",
+  "timestamp": "2026-04-19T13:15:01.881419",
   "pokemon_data": {
-    "id": "0777",
-    "name": "Togedemaru",
-    "types": "Electric, Steel",
-    "species": "Roly-Poly Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.3 kg",
-    "abilities": "Iron-Barbs, Lightning-Rod, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png"
+    "id": "0881",
+    "name": "Arctozolt",
+    "types": "Electric, Ice",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "2.3 m",
+    "weight": "150.0 kg",
+    "abilities": "Volt-Absorb, Static, Slush-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png"
   }
 }
