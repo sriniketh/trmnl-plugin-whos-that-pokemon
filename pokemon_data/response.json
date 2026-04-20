@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-19T13:15:01.881419",
+  "timestamp": "2026-04-20T13:57:08.167260",
   "pokemon_data": {
-    "id": "0881",
-    "name": "Arctozolt",
-    "types": "Electric, Ice",
-    "species": "Fossil Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "150.0 kg",
-    "abilities": "Volt-Absorb, Static, Slush-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png"
+    "id": "0349",
+    "name": "Feebas",
+    "types": "Water",
+    "species": "Fish Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "7.4 kg",
+    "abilities": "Swift-Swim, Oblivious, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png"
   }
 }
