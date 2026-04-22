@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-21T13:57:13.866654",
+  "timestamp": "2026-04-22T13:57:08.333244",
   "pokemon_data": {
-    "id": "0588",
-    "name": "Karrablast",
-    "types": "Bug",
-    "species": "Clamping Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.9 kg",
-    "abilities": "Swarm, Shed-Skin, No-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
+    "id": "0795",
+    "name": "Pheromosa",
+    "types": "Bug, Fighting",
+    "species": "Lissome Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "25.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png"
   }
 }
