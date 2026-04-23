@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-22T13:57:08.333244",
+  "timestamp": "2026-04-23T13:58:59.481847",
   "pokemon_data": {
-    "id": "0795",
-    "name": "Pheromosa",
-    "types": "Bug, Fighting",
-    "species": "Lissome Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "25.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png"
+    "id": "0824",
+    "name": "Blipbug",
+    "types": "Bug",
+    "species": "Larva Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "8.0 kg",
+    "abilities": "Swarm, Compound-Eyes, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png"
   }
 }
