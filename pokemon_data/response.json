@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-23T13:58:59.481847",
+  "timestamp": "2026-04-24T13:51:06.239116",
   "pokemon_data": {
-    "id": "0824",
-    "name": "Blipbug",
-    "types": "Bug",
-    "species": "Larva Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "8.0 kg",
-    "abilities": "Swarm, Compound-Eyes, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png"
+    "id": "0337",
+    "name": "Lunatone",
+    "types": "Rock, Psychic",
+    "species": "Meteorite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "168.0 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png"
   }
 }
