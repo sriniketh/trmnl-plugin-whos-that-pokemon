@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-25T13:18:10.791851",
+  "timestamp": "2026-04-26T13:19:17.366594",
   "pokemon_data": {
-    "id": "0832",
-    "name": "Dubwool",
-    "types": "Normal",
-    "species": "Sheep Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "43.0 kg",
-    "abilities": "Fluffy, Steadfast, Bulletproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png"
+    "id": "0191",
+    "name": "Sunkern",
+    "types": "Grass",
+    "species": "Seed Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "abilities": "Chlorophyll, Solar-Power, Early-Bird",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png"
   }
 }
