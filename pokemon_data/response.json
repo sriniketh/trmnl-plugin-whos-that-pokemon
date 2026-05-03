@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-02T13:24:44.082449",
+  "timestamp": "2026-05-03T13:24:14.624753",
   "pokemon_data": {
-    "id": "0543",
-    "name": "Venipede",
-    "types": "Bug, Poison",
-    "species": "Centipede Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "5.3 kg",
-    "abilities": "Poison-Point, Swarm, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png"
+    "id": "0688",
+    "name": "Binacle",
+    "types": "Rock, Water",
+    "species": "Two-Handed Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "31.0 kg",
+    "abilities": "Tough-Claws, Sniper, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
   }
 }
