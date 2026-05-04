@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-03T13:24:14.624753",
+  "timestamp": "2026-05-04T14:17:14.367779",
   "pokemon_data": {
-    "id": "0688",
-    "name": "Binacle",
-    "types": "Rock, Water",
-    "species": "Two-Handed Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "31.0 kg",
-    "abilities": "Tough-Claws, Sniper, Pickpocket",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+    "id": "0315",
+    "name": "Roselia",
+    "types": "Grass, Poison",
+    "species": "Thorn Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.0 kg",
+    "abilities": "Natural-Cure, Poison-Point, Leaf-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png"
   }
 }
