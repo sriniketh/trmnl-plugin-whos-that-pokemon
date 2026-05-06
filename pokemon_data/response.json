@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-04T14:17:14.367779",
+  "timestamp": "2026-05-06T14:28:56.950228",
   "pokemon_data": {
-    "id": "0315",
-    "name": "Roselia",
-    "types": "Grass, Poison",
-    "species": "Thorn Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.0 kg",
-    "abilities": "Natural-Cure, Poison-Point, Leaf-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png"
+    "id": "0586",
+    "name": "Sawsbuck",
+    "types": "Normal, Grass",
+    "species": "Season Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "92.5 kg",
+    "abilities": "Chlorophyll, Sap-Sipper, Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
   }
 }
