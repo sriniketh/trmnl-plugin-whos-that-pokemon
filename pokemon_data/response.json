@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-07T14:29:52.689564",
+  "timestamp": "2026-05-08T14:03:10.821878",
   "pokemon_data": {
-    "id": "0135",
-    "name": "Jolteon",
+    "id": "0466",
+    "name": "Electivire",
     "types": "Electric",
-    "species": "Lightning Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.5 kg",
-    "abilities": "Volt-Absorb, Quick-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    "species": "Thunderbolt Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "138.6 kg",
+    "abilities": "Motor-Drive, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
   }
 }
