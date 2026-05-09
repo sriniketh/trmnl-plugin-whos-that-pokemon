@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-08T14:03:10.821878",
+  "timestamp": "2026-05-09T13:38:45.469997",
   "pokemon_data": {
-    "id": "0466",
-    "name": "Electivire",
-    "types": "Electric",
-    "species": "Thunderbolt Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "138.6 kg",
-    "abilities": "Motor-Drive, Vital-Spirit",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
+    "id": "0627",
+    "name": "Rufflet",
+    "types": "Normal, Flying",
+    "species": "Eaglet Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.5 kg",
+    "abilities": "Keen-Eye, Sheer-Force, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
   }
 }
