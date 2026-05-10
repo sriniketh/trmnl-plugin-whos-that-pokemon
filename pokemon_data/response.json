@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-09T13:38:45.469997",
+  "timestamp": "2026-05-10T13:41:29.797016",
   "pokemon_data": {
-    "id": "0627",
-    "name": "Rufflet",
-    "types": "Normal, Flying",
-    "species": "Eaglet Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.5 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+    "id": "0437",
+    "name": "Bronzong",
+    "types": "Steel, Psychic",
+    "species": "Bronze Bell Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "187.0 kg",
+    "abilities": "Levitate, Heatproof, Heavy-Metal",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png"
   }
 }
