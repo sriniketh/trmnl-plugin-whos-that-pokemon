@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-12T14:36:34.252546",
+  "timestamp": "2026-05-13T14:47:42.008924",
   "pokemon_data": {
-    "id": "0817",
-    "name": "Drizzile",
-    "types": "Water",
-    "species": "Water Lizard Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "11.5 kg",
-    "abilities": "Torrent, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png"
+    "id": "0915",
+    "name": "Lechonk",
+    "types": "Normal",
+    "species": "Hog Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.2 kg",
+    "abilities": "Aroma-Veil, Gluttony, Thick-Fat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
   }
 }
