@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-15T14:20:53.614956",
+  "timestamp": "2026-05-16T13:44:45.847986",
   "pokemon_data": {
-    "id": "0536",
-    "name": "Palpitoad",
-    "types": "Water, Ground",
-    "species": "Vibration Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "17.0 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+    "id": "0348",
+    "name": "Armaldo",
+    "types": "Rock, Bug",
+    "species": "Plate Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "68.2 kg",
+    "abilities": "Battle-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
   }
 }
