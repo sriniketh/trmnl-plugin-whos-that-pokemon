@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-16T13:44:45.847986",
+  "timestamp": "2026-05-17T13:43:52.591925",
   "pokemon_data": {
-    "id": "0348",
-    "name": "Armaldo",
-    "types": "Rock, Bug",
-    "species": "Plate Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "68.2 kg",
-    "abilities": "Battle-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
+    "id": "0704",
+    "name": "Goomy",
+    "types": "Dragon",
+    "species": "Soft Tissue Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.8 kg",
+    "abilities": "Sap-Sipper, Hydration, Gooey",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png"
   }
 }
