@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-17T13:43:52.591925",
+  "timestamp": "2026-05-18T15:45:17.111388",
   "pokemon_data": {
-    "id": "0704",
-    "name": "Goomy",
-    "types": "Dragon",
-    "species": "Soft Tissue Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.8 kg",
-    "abilities": "Sap-Sipper, Hydration, Gooey",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png"
+    "id": "0287",
+    "name": "Slakoth",
+    "types": "Normal",
+    "species": "Slacker Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.0 kg",
+    "abilities": "Truant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png"
   }
 }
