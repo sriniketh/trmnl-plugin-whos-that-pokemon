@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-18T15:45:17.111388",
+  "timestamp": "2026-05-19T15:37:05.022497",
   "pokemon_data": {
-    "id": "0287",
-    "name": "Slakoth",
-    "types": "Normal",
-    "species": "Slacker Pok\u00e9mon",
+    "id": "0180",
+    "name": "Flaaffy",
+    "types": "Electric",
+    "species": "Wool Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "24.0 kg",
-    "abilities": "Truant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png"
+    "weight": "13.3 kg",
+    "abilities": "Static, Plus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
   }
 }
