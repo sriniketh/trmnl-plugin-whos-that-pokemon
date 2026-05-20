@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-19T15:37:05.022497",
+  "timestamp": "2026-05-20T15:37:41.120637",
   "pokemon_data": {
-    "id": "0180",
-    "name": "Flaaffy",
-    "types": "Electric",
-    "species": "Wool Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "13.3 kg",
-    "abilities": "Static, Plus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+    "id": "0741",
+    "name": "Oricorio-Baile",
+    "types": "Fire, Flying",
+    "species": "Dancing Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "3.4 kg",
+    "abilities": "Dancer",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
   }
 }
