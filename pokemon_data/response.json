@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-23T13:49:22.588345",
+  "timestamp": "2026-05-24T13:47:25.862990",
   "pokemon_data": {
-    "id": "0049",
-    "name": "Venomoth",
-    "types": "Bug, Poison",
-    "species": "Poison Moth Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "12.5 kg",
-    "abilities": "Shield-Dust, Tinted-Lens, Wonder-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+    "id": "0387",
+    "name": "Turtwig",
+    "types": "Grass",
+    "species": "Tiny Leaf Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "10.2 kg",
+    "abilities": "Overgrow, Shell-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png"
   }
 }
