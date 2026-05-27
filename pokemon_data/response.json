@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-26T15:53:59.555872",
+  "timestamp": "2026-05-27T15:58:26.889857",
   "pokemon_data": {
-    "id": "0706",
-    "name": "Goodra",
-    "types": "Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "150.5 kg",
-    "abilities": "Sap-Sipper, Hydration, Gooey",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
+    "id": "0945",
+    "name": "Grafaiai",
+    "types": "Poison, Normal",
+    "species": "Toxic Monkey Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "27.2 kg",
+    "abilities": "Unburden, Poison-Touch, Prankster",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
   }
 }
