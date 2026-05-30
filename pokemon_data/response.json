@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-29T15:54:53.087721",
+  "timestamp": "2026-05-30T13:52:34.012749",
   "pokemon_data": {
-    "id": "0691",
-    "name": "Dragalge",
-    "types": "Poison, Dragon",
-    "species": "Mock Kelp Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "81.5 kg",
-    "abilities": "Poison-Point, Poison-Touch, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
+    "id": "1021",
+    "name": "Raging-Bolt",
+    "types": "Electric, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "5.2 m",
+    "weight": "480.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png"
   }
 }
