@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-31T13:57:40.740475",
+  "timestamp": "2026-06-01T17:52:16.423581",
   "pokemon_data": {
-    "id": "0459",
-    "name": "Snover",
-    "types": "Grass, Ice",
-    "species": "Frost Tree Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "50.5 kg",
-    "abilities": "Snow-Warning, Soundproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png"
+    "id": "0981",
+    "name": "Farigiraf",
+    "types": "Normal, Psychic",
+    "species": "Long Neck Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "160.0 kg",
+    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
   }
 }
