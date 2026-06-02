@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-01T17:52:16.423581",
+  "timestamp": "2026-06-02T16:44:13.376825",
   "pokemon_data": {
-    "id": "0981",
-    "name": "Farigiraf",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "160.0 kg",
-    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
+    "id": "0843",
+    "name": "Silicobra",
+    "types": "Ground",
+    "species": "Sand Snake Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "7.6 kg",
+    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png"
   }
 }
