@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-02T16:44:13.376825",
+  "timestamp": "2026-06-03T17:00:39.330938",
   "pokemon_data": {
-    "id": "0843",
-    "name": "Silicobra",
-    "types": "Ground",
-    "species": "Sand Snake Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "7.6 kg",
-    "abilities": "Sand-Spit, Shed-Skin, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png"
+    "id": "0121",
+    "name": "Starmie",
+    "types": "Water, Psychic",
+    "species": "Mysterious Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "80.0 kg",
+    "abilities": "Illuminate, Natural-Cure, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
   }
 }
