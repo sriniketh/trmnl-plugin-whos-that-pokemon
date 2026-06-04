@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-03T17:00:39.330938",
+  "timestamp": "2026-06-04T15:29:13.630703",
   "pokemon_data": {
-    "id": "0121",
-    "name": "Starmie",
-    "types": "Water, Psychic",
-    "species": "Mysterious Pok\u00e9mon",
+    "id": "0372",
+    "name": "Shelgon",
+    "types": "Dragon",
+    "species": "Endurance Pok\u00e9mon",
     "height": "1.1 m",
-    "weight": "80.0 kg",
-    "abilities": "Illuminate, Natural-Cure, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+    "weight": "110.5 kg",
+    "abilities": "Rock-Head, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
   }
 }
