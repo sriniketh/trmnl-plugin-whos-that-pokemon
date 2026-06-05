@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-04T15:29:13.630703",
+  "timestamp": "2026-06-05T15:16:16.438944",
   "pokemon_data": {
-    "id": "0372",
-    "name": "Shelgon",
-    "types": "Dragon",
-    "species": "Endurance Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "110.5 kg",
-    "abilities": "Rock-Head, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
+    "id": "0339",
+    "name": "Barboach",
+    "types": "Water, Ground",
+    "species": "Whiskers Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "1.9 kg",
+    "abilities": "Oblivious, Anticipation, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png"
   }
 }
