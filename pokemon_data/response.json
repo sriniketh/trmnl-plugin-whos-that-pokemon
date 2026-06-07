@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-06T13:56:19.117921",
+  "timestamp": "2026-06-07T14:06:32.241295",
   "pokemon_data": {
-    "id": "0314",
-    "name": "Illumise",
-    "types": "Bug",
-    "species": "Firefly Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "17.7 kg",
-    "abilities": "Oblivious, Tinted-Lens, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+    "id": "0355",
+    "name": "Duskull",
+    "types": "Ghost",
+    "species": "Requiem Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "15.0 kg",
+    "abilities": "Levitate, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
   }
 }
