@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-07T14:06:32.241295",
+  "timestamp": "2026-06-08T16:04:44.622921",
   "pokemon_data": {
-    "id": "0355",
-    "name": "Duskull",
-    "types": "Ghost",
-    "species": "Requiem Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "15.0 kg",
-    "abilities": "Levitate, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
+    "id": "0076",
+    "name": "Golem",
+    "types": "Rock, Ground",
+    "species": "Megaton Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "300.0 kg",
+    "abilities": "Rock-Head, Sturdy, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
   }
 }
