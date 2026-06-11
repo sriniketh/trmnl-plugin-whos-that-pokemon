@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-10T15:50:52.018358",
+  "timestamp": "2026-06-11T16:12:22.782259",
   "pokemon_data": {
-    "id": "0442",
-    "name": "Spiritomb",
-    "types": "Ghost, Dark",
-    "species": "Forbidden Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "108.0 kg",
-    "abilities": "Pressure, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
+    "id": "0368",
+    "name": "Gorebyss",
+    "types": "Water",
+    "species": "South Sea Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "22.6 kg",
+    "abilities": "Swift-Swim, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png"
   }
 }
