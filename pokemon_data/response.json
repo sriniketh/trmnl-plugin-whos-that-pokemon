@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-11T16:12:22.782259",
+  "timestamp": "2026-06-12T15:28:17.152181",
   "pokemon_data": {
-    "id": "0368",
-    "name": "Gorebyss",
-    "types": "Water",
-    "species": "South Sea Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "22.6 kg",
-    "abilities": "Swift-Swim, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png"
+    "id": "0342",
+    "name": "Crawdaunt",
+    "types": "Water, Dark",
+    "species": "Rogue Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.8 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
   }
 }
