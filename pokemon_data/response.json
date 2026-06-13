@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-12T15:28:17.152181",
+  "timestamp": "2026-06-13T14:12:14.284190",
   "pokemon_data": {
-    "id": "0342",
-    "name": "Crawdaunt",
-    "types": "Water, Dark",
-    "species": "Rogue Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.8 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
+    "id": "0242",
+    "name": "Blissey",
+    "types": "Normal",
+    "species": "Happiness Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "46.8 kg",
+    "abilities": "Natural-Cure, Serene-Grace, Healer",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
   }
 }
