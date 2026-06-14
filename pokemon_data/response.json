@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-13T14:12:14.284190",
+  "timestamp": "2026-06-14T14:17:18.179424",
   "pokemon_data": {
-    "id": "0242",
-    "name": "Blissey",
-    "types": "Normal",
-    "species": "Happiness Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "46.8 kg",
-    "abilities": "Natural-Cure, Serene-Grace, Healer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
+    "id": "0441",
+    "name": "Chatot",
+    "types": "Normal, Flying",
+    "species": "Music Note Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "1.9 kg",
+    "abilities": "Keen-Eye, Tangled-Feet, Big-Pecks",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
   }
 }
