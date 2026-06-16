@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-15T17:21:57.704075",
+  "timestamp": "2026-06-16T17:06:11.877377",
   "pokemon_data": {
-    "id": "0319",
-    "name": "Sharpedo",
-    "types": "Water, Dark",
-    "species": "Brutal Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "88.8 kg",
-    "abilities": "Rough-Skin, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png"
+    "id": "0564",
+    "name": "Tirtouga",
+    "types": "Water, Rock",
+    "species": "Prototurtle Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "16.5 kg",
+    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
   }
 }
