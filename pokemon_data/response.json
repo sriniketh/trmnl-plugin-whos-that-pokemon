@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-16T17:06:11.877377",
+  "timestamp": "2026-06-17T15:50:27.336037",
   "pokemon_data": {
-    "id": "0564",
-    "name": "Tirtouga",
-    "types": "Water, Rock",
-    "species": "Prototurtle Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "16.5 kg",
-    "abilities": "Solid-Rock, Sturdy, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+    "id": "0314",
+    "name": "Illumise",
+    "types": "Bug",
+    "species": "Firefly Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "17.7 kg",
+    "abilities": "Oblivious, Tinted-Lens, Prankster",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
   }
 }
