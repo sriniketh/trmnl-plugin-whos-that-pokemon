@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-17T15:50:27.336037",
+  "timestamp": "2026-06-18T15:38:40.373228",
   "pokemon_data": {
-    "id": "0314",
-    "name": "Illumise",
+    "id": "0919",
+    "name": "Nymble",
     "types": "Bug",
-    "species": "Firefly Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "17.7 kg",
-    "abilities": "Oblivious, Tinted-Lens, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+    "species": "Grasshopper Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.0 kg",
+    "abilities": "Swarm, Tinted-Lens",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png"
   }
 }
