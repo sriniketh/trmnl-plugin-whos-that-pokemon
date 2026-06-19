@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-18T15:38:40.373228",
+  "timestamp": "2026-06-19T15:32:06.141591",
   "pokemon_data": {
-    "id": "0919",
-    "name": "Nymble",
-    "types": "Bug",
-    "species": "Grasshopper Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.0 kg",
-    "abilities": "Swarm, Tinted-Lens",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png"
+    "id": "0147",
+    "name": "Dratini",
+    "types": "Dragon",
+    "species": "Dragon Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "3.3 kg",
+    "abilities": "Shed-Skin, Marvel-Scale",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
   }
 }
