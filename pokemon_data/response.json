@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-19T15:32:06.141591",
+  "timestamp": "2026-06-20T14:16:08.157604",
   "pokemon_data": {
-    "id": "0147",
-    "name": "Dratini",
-    "types": "Dragon",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "3.3 kg",
-    "abilities": "Shed-Skin, Marvel-Scale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+    "id": "0314",
+    "name": "Illumise",
+    "types": "Bug",
+    "species": "Firefly Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "17.7 kg",
+    "abilities": "Oblivious, Tinted-Lens, Prankster",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
   }
 }
