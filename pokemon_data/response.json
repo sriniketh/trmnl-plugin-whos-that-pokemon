@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-21T14:23:26.575647",
+  "timestamp": "2026-06-22T17:05:40.520574",
   "pokemon_data": {
-    "id": "0392",
-    "name": "Infernape",
-    "types": "Fire, Fighting",
-    "species": "Flame Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "55.0 kg",
-    "abilities": "Blaze, Iron-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
+    "id": "0652",
+    "name": "Chesnaught",
+    "types": "Grass, Fighting",
+    "species": "Spiny Armor Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "90.0 kg",
+    "abilities": "Overgrow, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png"
   }
 }
