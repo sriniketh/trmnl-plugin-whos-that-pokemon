@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-23T15:13:05.256151",
+  "timestamp": "2026-06-24T14:43:42.160347",
   "pokemon_data": {
-    "id": "0730",
-    "name": "Primarina",
-    "types": "Water, Fairy",
-    "species": "Soloist Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "44.0 kg",
-    "abilities": "Torrent, Liquid-Voice",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
+    "id": "0841",
+    "name": "Flapple",
+    "types": "Grass, Dragon",
+    "species": "Apple Wing Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.0 kg",
+    "abilities": "Ripen, Gluttony, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
   }
 }
