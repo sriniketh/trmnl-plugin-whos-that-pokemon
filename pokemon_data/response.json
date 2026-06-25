@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-24T14:43:42.160347",
+  "timestamp": "2026-06-25T14:43:04.296267",
   "pokemon_data": {
-    "id": "0841",
-    "name": "Flapple",
-    "types": "Grass, Dragon",
-    "species": "Apple Wing Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.0 kg",
-    "abilities": "Ripen, Gluttony, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
+    "id": "0458",
+    "name": "Mantyke",
+    "types": "Water, Flying",
+    "species": "Kite Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "65.0 kg",
+    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png"
   }
 }
