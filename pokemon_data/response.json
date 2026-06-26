@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-25T14:43:04.296267",
+  "timestamp": "2026-06-26T14:36:14.558886",
   "pokemon_data": {
-    "id": "0458",
-    "name": "Mantyke",
-    "types": "Water, Flying",
-    "species": "Kite Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "65.0 kg",
-    "abilities": "Swift-Swim, Water-Absorb, Water-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png"
+    "id": "0228",
+    "name": "Houndour",
+    "types": "Dark, Fire",
+    "species": "Dark Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "10.8 kg",
+    "abilities": "Early-Bird, Flash-Fire, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png"
   }
 }
