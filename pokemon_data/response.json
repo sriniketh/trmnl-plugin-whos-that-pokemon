@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-26T14:36:14.558886",
+  "timestamp": "2026-06-27T13:55:13.267318",
   "pokemon_data": {
-    "id": "0228",
-    "name": "Houndour",
-    "types": "Dark, Fire",
-    "species": "Dark Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "10.8 kg",
-    "abilities": "Early-Bird, Flash-Fire, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png"
+    "id": "0481",
+    "name": "Mesprit",
+    "types": "Psychic",
+    "species": "Emotion Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png"
   }
 }
