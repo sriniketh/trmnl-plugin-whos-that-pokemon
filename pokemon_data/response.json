@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-27T13:55:13.267318",
+  "timestamp": "2026-06-28T14:01:02.315654",
   "pokemon_data": {
-    "id": "0481",
-    "name": "Mesprit",
-    "types": "Psychic",
-    "species": "Emotion Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png"
+    "id": "0354",
+    "name": "Banette",
+    "types": "Ghost",
+    "species": "Marionette Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "12.5 kg",
+    "abilities": "Insomnia, Frisk, Cursed-Body",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
   }
 }
