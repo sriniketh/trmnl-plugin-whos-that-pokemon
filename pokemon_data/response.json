@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-28T14:01:02.315654",
+  "timestamp": "2026-06-29T15:56:23.463856",
   "pokemon_data": {
-    "id": "0354",
-    "name": "Banette",
+    "id": "0429",
+    "name": "Mismagius",
     "types": "Ghost",
-    "species": "Marionette Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "12.5 kg",
-    "abilities": "Insomnia, Frisk, Cursed-Body",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+    "species": "Magical Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "4.4 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png"
   }
 }
