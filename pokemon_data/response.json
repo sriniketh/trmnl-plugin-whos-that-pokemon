@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-29T15:56:23.463856",
+  "timestamp": "2026-06-30T14:31:10.939893",
   "pokemon_data": {
-    "id": "0429",
-    "name": "Mismagius",
-    "types": "Ghost",
-    "species": "Magical Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "4.4 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png"
+    "id": "0658",
+    "name": "Greninja",
+    "types": "Water, Dark",
+    "species": "Ninja Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "40.0 kg",
+    "abilities": "Torrent, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
   }
 }
