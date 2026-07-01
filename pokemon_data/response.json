@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-30T14:31:10.939893",
+  "timestamp": "2026-07-01T14:47:57.344929",
   "pokemon_data": {
-    "id": "0658",
-    "name": "Greninja",
-    "types": "Water, Dark",
-    "species": "Ninja Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.0 kg",
-    "abilities": "Torrent, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+    "id": "0165",
+    "name": "Ledyba",
+    "types": "Bug, Flying",
+    "species": "Five Star Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "10.8 kg",
+    "abilities": "Swarm, Early-Bird, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png"
   }
 }
