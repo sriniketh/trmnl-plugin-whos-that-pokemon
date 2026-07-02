@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-01T14:47:57.344929",
+  "timestamp": "2026-07-02T14:16:24.314800",
   "pokemon_data": {
-    "id": "0165",
-    "name": "Ledyba",
-    "types": "Bug, Flying",
-    "species": "Five Star Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "10.8 kg",
-    "abilities": "Swarm, Early-Bird, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png"
+    "id": "0493",
+    "name": "Arceus",
+    "types": "Normal",
+    "species": "Alpha Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "320.0 kg",
+    "abilities": "Multitype",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
   }
 }
