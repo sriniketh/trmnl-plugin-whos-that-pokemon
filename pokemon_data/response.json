@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-04T13:46:22.021665",
+  "timestamp": "2026-07-05T13:51:58.595410",
   "pokemon_data": {
-    "id": "0868",
-    "name": "Milcery",
-    "types": "Fairy",
-    "species": "Cream Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "0.3 kg",
-    "abilities": "Sweet-Veil, Aroma-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+    "id": "0113",
+    "name": "Chansey",
+    "types": "Normal",
+    "species": "Egg Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "34.6 kg",
+    "abilities": "Natural-Cure, Serene-Grace, Healer",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
   }
 }
