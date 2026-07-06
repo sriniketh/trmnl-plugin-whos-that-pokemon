@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-05T13:51:58.595410",
+  "timestamp": "2026-07-06T15:45:43.514979",
   "pokemon_data": {
-    "id": "0113",
-    "name": "Chansey",
-    "types": "Normal",
-    "species": "Egg Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "34.6 kg",
-    "abilities": "Natural-Cure, Serene-Grace, Healer",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+    "id": "0780",
+    "name": "Drampa",
+    "types": "Normal, Dragon",
+    "species": "Placid Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "185.0 kg",
+    "abilities": "Berserk, Sap-Sipper, Cloud-Nine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png"
   }
 }
