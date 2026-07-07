@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-06T15:45:43.514979",
+  "timestamp": "2026-07-07T14:49:47.952177",
   "pokemon_data": {
-    "id": "0780",
-    "name": "Drampa",
-    "types": "Normal, Dragon",
-    "species": "Placid Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "185.0 kg",
-    "abilities": "Berserk, Sap-Sipper, Cloud-Nine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png"
+    "id": "0930",
+    "name": "Arboliva",
+    "types": "Grass, Normal",
+    "species": "Olive Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "48.2 kg",
+    "abilities": "Seed-Sower, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png"
   }
 }
