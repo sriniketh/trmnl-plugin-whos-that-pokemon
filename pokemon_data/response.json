@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-08T14:27:44.313905",
+  "timestamp": "2026-07-09T15:22:16.520280",
   "pokemon_data": {
-    "id": "0401",
-    "name": "Kricketot",
-    "types": "Bug",
-    "species": "Cricket Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.2 kg",
-    "abilities": "Shed-Skin, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png"
+    "id": "0746",
+    "name": "Wishiwashi-Solo",
+    "types": "Water",
+    "species": "Small Fry Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "0.3 kg",
+    "abilities": "Schooling",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png"
   }
 }
