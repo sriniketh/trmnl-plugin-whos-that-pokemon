@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-11T13:39:11.761282",
+  "timestamp": "2026-07-12T13:39:23.210593",
   "pokemon_data": {
-    "id": "0640",
-    "name": "Virizion",
-    "types": "Grass, Fighting",
-    "species": "Grassland Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "200.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png"
+    "id": "0057",
+    "name": "Primeape",
+    "types": "Fighting",
+    "species": "Pig Monkey Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "abilities": "Vital-Spirit, Anger-Point, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
   }
 }
