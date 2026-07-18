@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-17T13:49:51.812765",
+  "timestamp": "2026-07-18T13:34:07.941698",
   "pokemon_data": {
-    "id": "0503",
-    "name": "Samurott",
-    "types": "Water",
-    "species": "Formidable Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "94.6 kg",
-    "abilities": "Torrent, Shell-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+    "id": "0593",
+    "name": "Jellicent-Male",
+    "types": "Water, Ghost",
+    "species": "Floating Pok\u00e9mon",
+    "height": "2.2 m",
+    "weight": "135.0 kg",
+    "abilities": "Water-Absorb, Cursed-Body, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
   }
 }
