@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-19T13:36:26.330748",
+  "timestamp": "2026-07-20T14:19:27.885860",
   "pokemon_data": {
-    "id": "0059",
-    "name": "Arcanine",
-    "types": "Fire",
-    "species": "Legendary Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "155.0 kg",
-    "abilities": "Intimidate, Flash-Fire, Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+    "id": "0576",
+    "name": "Gothitelle",
+    "types": "Psychic",
+    "species": "Astral Body Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "44.0 kg",
+    "abilities": "Frisk, Competitive, Shadow-Tag",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
   }
 }
