@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-20T14:19:27.885860",
+  "timestamp": "2026-07-21T14:05:48.420879",
   "pokemon_data": {
-    "id": "0576",
-    "name": "Gothitelle",
-    "types": "Psychic",
-    "species": "Astral Body Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "44.0 kg",
-    "abilities": "Frisk, Competitive, Shadow-Tag",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+    "id": "0954",
+    "name": "Rabsca",
+    "types": "Bug, Psychic",
+    "species": "Rolling Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.5 kg",
+    "abilities": "Synchronize, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png"
   }
 }
