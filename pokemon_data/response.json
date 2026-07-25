@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-24T13:56:31.823892",
+  "timestamp": "2026-07-25T13:47:03.542112",
   "pokemon_data": {
-    "id": "0106",
-    "name": "Hitmonlee",
-    "types": "Fighting",
-    "species": "Kicking Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "49.8 kg",
-    "abilities": "Limber, Reckless, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+    "id": "0714",
+    "name": "Noibat",
+    "types": "Flying, Dragon",
+    "species": "Sound Wave Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.0 kg",
+    "abilities": "Frisk, Infiltrator, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
   }
 }
