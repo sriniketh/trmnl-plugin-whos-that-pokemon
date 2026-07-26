@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-25T13:47:03.542112",
+  "timestamp": "2026-07-26T13:40:36.438383",
   "pokemon_data": {
-    "id": "0714",
-    "name": "Noibat",
-    "types": "Flying, Dragon",
-    "species": "Sound Wave Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "8.0 kg",
-    "abilities": "Frisk, Infiltrator, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
+    "id": "0285",
+    "name": "Shroomish",
+    "types": "Grass",
+    "species": "Mushroom Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "4.5 kg",
+    "abilities": "Effect-Spore, Poison-Heal, Quick-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png"
   }
 }
