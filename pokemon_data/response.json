@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-31T14:21:04.107529",
+  "timestamp": "2026-08-01T13:39:52.099019",
   "pokemon_data": {
-    "id": "0774",
-    "name": "Minior-Red-Meteor",
-    "types": "Rock, Flying",
-    "species": "Meteor Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "40.0 kg",
-    "abilities": "Shields-Down",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png"
+    "id": "1017",
+    "name": "Ogerpon",
+    "types": "Grass",
+    "species": "Mask Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "39.8 kg",
+    "abilities": "Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png"
   }
 }
