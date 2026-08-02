@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-01T13:39:52.099019",
+  "timestamp": "2026-08-02T13:39:46.864240",
   "pokemon_data": {
-    "id": "1017",
-    "name": "Ogerpon",
-    "types": "Grass",
-    "species": "Mask Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "39.8 kg",
-    "abilities": "Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png"
+    "id": "0962",
+    "name": "Bombirdier",
+    "types": "Flying, Dark",
+    "species": "Item Drop Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "42.9 kg",
+    "abilities": "Big-Pecks, Keen-Eye, Rocky-Payload",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
   }
 }
