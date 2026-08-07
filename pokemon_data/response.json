@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-06T14:24:46.539282",
+  "timestamp": "2026-08-07T13:15:34.506708",
   "pokemon_data": {
-    "id": "0750",
-    "name": "Mudsdale",
-    "types": "Ground",
-    "species": "Draft Horse Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "920.0 kg",
-    "abilities": "Own-Tempo, Stamina, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png"
+    "id": "0573",
+    "name": "Cinccino",
+    "types": "Normal",
+    "species": "Scarf Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "7.5 kg",
+    "abilities": "Cute-Charm, Technician, Skill-Link",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png"
   }
 }
