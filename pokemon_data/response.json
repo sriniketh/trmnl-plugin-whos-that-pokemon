@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-08T12:58:51.868444",
+  "timestamp": "2026-08-09T13:02:03.890979",
   "pokemon_data": {
-    "id": "0705",
-    "name": "Sliggoo",
-    "types": "Dragon",
-    "species": "Soft Tissue Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "17.5 kg",
-    "abilities": "Sap-Sipper, Hydration, Gooey",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png"
+    "id": "0622",
+    "name": "Golett",
+    "types": "Ground, Ghost",
+    "species": "Automaton Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "92.0 kg",
+    "abilities": "Iron-Fist, Klutz, No-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
   }
 }
