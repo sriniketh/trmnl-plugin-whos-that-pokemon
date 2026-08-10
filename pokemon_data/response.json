@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-09T13:02:03.890979",
+  "timestamp": "2026-08-10T13:20:22.850930",
   "pokemon_data": {
-    "id": "0622",
-    "name": "Golett",
-    "types": "Ground, Ghost",
-    "species": "Automaton Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "92.0 kg",
-    "abilities": "Iron-Fist, Klutz, No-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
+    "id": "0487",
+    "name": "Giratina-Altered",
+    "types": "Ghost, Dragon",
+    "species": "Renegade Pok\u00e9mon",
+    "height": "4.5 m",
+    "weight": "750.0 kg",
+    "abilities": "Pressure, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
   }
 }
