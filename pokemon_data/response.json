@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-10T13:20:22.850930",
+  "timestamp": "2026-08-11T13:17:34.191431",
   "pokemon_data": {
-    "id": "0487",
-    "name": "Giratina-Altered",
-    "types": "Ghost, Dragon",
-    "species": "Renegade Pok\u00e9mon",
-    "height": "4.5 m",
-    "weight": "750.0 kg",
-    "abilities": "Pressure, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+    "id": "0536",
+    "name": "Palpitoad",
+    "types": "Water, Ground",
+    "species": "Vibration Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "17.0 kg",
+    "abilities": "Swift-Swim, Hydration, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
   }
 }
