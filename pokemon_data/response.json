@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-11T13:17:34.191431",
+  "timestamp": "2026-08-12T13:21:11.329221",
   "pokemon_data": {
-    "id": "0536",
-    "name": "Palpitoad",
-    "types": "Water, Ground",
-    "species": "Vibration Pok\u00e9mon",
+    "id": "0054",
+    "name": "Psyduck",
+    "types": "Water",
+    "species": "Duck Pok\u00e9mon",
     "height": "0.8 m",
-    "weight": "17.0 kg",
-    "abilities": "Swift-Swim, Hydration, Water-Absorb",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+    "weight": "19.6 kg",
+    "abilities": "Damp, Cloud-Nine, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
   }
 }
