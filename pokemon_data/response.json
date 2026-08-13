@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-12T13:21:11.329221",
+  "timestamp": "2026-08-13T13:23:10.764323",
   "pokemon_data": {
-    "id": "0054",
-    "name": "Psyduck",
-    "types": "Water",
-    "species": "Duck Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "19.6 kg",
-    "abilities": "Damp, Cloud-Nine, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+    "id": "0898",
+    "name": "Calyrex",
+    "types": "Psychic, Grass",
+    "species": "King Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "7.7 kg",
+    "abilities": "Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
   }
 }
