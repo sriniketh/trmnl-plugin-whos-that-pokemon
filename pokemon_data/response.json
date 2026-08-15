@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-14T13:17:27.411839",
+  "timestamp": "2026-08-15T12:47:43.492936",
   "pokemon_data": {
-    "id": "0003",
-    "name": "Venusaur",
-    "types": "Grass, Poison",
-    "species": "Seed Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "100.0 kg",
-    "abilities": "Overgrow, Chlorophyll",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+    "id": "0120",
+    "name": "Staryu",
+    "types": "Water",
+    "species": "Star Shape Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "34.5 kg",
+    "abilities": "Illuminate, Natural-Cure, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
   }
 }
