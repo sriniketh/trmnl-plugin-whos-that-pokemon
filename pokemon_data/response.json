@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-16T12:49:18.690603",
+  "timestamp": "2026-08-17T12:53:43.113983",
   "pokemon_data": {
-    "id": "0214",
-    "name": "Heracross",
-    "types": "Bug, Fighting",
-    "species": "Single Horn Pok\u00e9mon",
+    "id": "0203",
+    "name": "Girafarig",
+    "types": "Normal, Psychic",
+    "species": "Long Neck Pok\u00e9mon",
     "height": "1.5 m",
-    "weight": "54.0 kg",
-    "abilities": "Swarm, Guts, Moxie",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+    "weight": "41.5 kg",
+    "abilities": "Inner-Focus, Early-Bird, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
   }
 }
