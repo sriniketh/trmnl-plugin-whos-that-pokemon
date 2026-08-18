@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-17T12:53:43.113983",
+  "timestamp": "2026-08-18T12:55:11.040828",
   "pokemon_data": {
-    "id": "0203",
-    "name": "Girafarig",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "41.5 kg",
-    "abilities": "Inner-Focus, Early-Bird, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+    "id": "0518",
+    "name": "Musharna",
+    "types": "Psychic",
+    "species": "Drowsing Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "60.5 kg",
+    "abilities": "Forewarn, Synchronize, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png"
   }
 }
