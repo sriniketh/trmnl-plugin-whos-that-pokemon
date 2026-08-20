@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-19T12:56:24.664933",
+  "timestamp": "2026-08-20T12:58:26.529491",
   "pokemon_data": {
-    "id": "0280",
-    "name": "Ralts",
-    "types": "Psychic, Fairy",
-    "species": "Feeling Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.6 kg",
-    "abilities": "Synchronize, Trace, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png"
+    "id": "0340",
+    "name": "Whiscash",
+    "types": "Water, Ground",
+    "species": "Whiskers Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "23.6 kg",
+    "abilities": "Oblivious, Anticipation, Hydration",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
   }
 }
