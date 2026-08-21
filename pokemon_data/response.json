@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-20T12:58:26.529491",
+  "timestamp": "2026-08-21T12:57:36.436938",
   "pokemon_data": {
-    "id": "0340",
-    "name": "Whiscash",
-    "types": "Water, Ground",
-    "species": "Whiskers Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "23.6 kg",
-    "abilities": "Oblivious, Anticipation, Hydration",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
+    "id": "0010",
+    "name": "Caterpie",
+    "types": "Bug",
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.9 kg",
+    "abilities": "Shield-Dust, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
   }
 }
