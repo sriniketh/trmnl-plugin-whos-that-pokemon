@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-22T12:49:13.015585",
+  "timestamp": "2026-08-23T12:50:18.203267",
   "pokemon_data": {
-    "id": "0316",
-    "name": "Gulpin",
-    "types": "Poison",
-    "species": "Stomach Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "10.3 kg",
-    "abilities": "Sticky-Hold, Liquid-Ooze, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png"
+    "id": "1023",
+    "name": "Iron-Crown",
+    "types": "Steel, Psychic",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "156.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
   }
 }
