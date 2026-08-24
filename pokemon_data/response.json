@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-23T12:50:18.203267",
+  "timestamp": "2026-08-24T12:59:59.242138",
   "pokemon_data": {
-    "id": "1023",
-    "name": "Iron-Crown",
-    "types": "Steel, Psychic",
-    "species": "Paradox Pok\u00e9mon",
+    "id": "0905",
+    "name": "Enamorus-Incarnate",
+    "types": "Fairy, Flying",
+    "species": "Love-Hate Pok\u00e9mon",
     "height": "1.6 m",
-    "weight": "156.0 kg",
-    "abilities": "Quark-Drive",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
+    "weight": "48.0 kg",
+    "abilities": "Cute-Charm, Contrary",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png"
   }
 }
