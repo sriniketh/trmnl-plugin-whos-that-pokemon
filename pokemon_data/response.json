@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-24T12:59:59.242138",
+  "timestamp": "2026-08-25T12:56:06.286953",
   "pokemon_data": {
-    "id": "0905",
-    "name": "Enamorus-Incarnate",
-    "types": "Fairy, Flying",
-    "species": "Love-Hate Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "48.0 kg",
-    "abilities": "Cute-Charm, Contrary",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png"
+    "id": "0103",
+    "name": "Exeggutor",
+    "types": "Grass, Psychic",
+    "species": "Coconut Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "120.0 kg",
+    "abilities": "Chlorophyll, Harvest",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
   }
 }
