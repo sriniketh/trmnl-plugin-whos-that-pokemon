@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-25T12:56:06.286953",
+  "timestamp": "2026-08-26T13:02:25.620074",
   "pokemon_data": {
-    "id": "0103",
-    "name": "Exeggutor",
-    "types": "Grass, Psychic",
-    "species": "Coconut Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Chlorophyll, Harvest",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+    "id": "0367",
+    "name": "Huntail",
+    "types": "Water",
+    "species": "Deep Sea Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "27.0 kg",
+    "abilities": "Swift-Swim, Water-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
   }
 }
