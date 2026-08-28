@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-27T22:05:38.832548",
+  "timestamp": "2026-08-28T22:03:48.212531",
   "pokemon_data": {
-    "id": "0083",
-    "name": "Farfetchd",
-    "types": "Normal, Flying",
-    "species": "Wild Duck Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "15.0 kg",
-    "abilities": "Keen-Eye, Inner-Focus, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+    "id": "0124",
+    "name": "Jynx",
+    "types": "Ice, Psychic",
+    "species": "Human Shape Pok\u00e9mon",
+    "height": "1.4 m",
+    "weight": "40.6 kg",
+    "abilities": "Oblivious, Forewarn, Dry-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
   }
 }
