@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-28T22:03:48.212531",
+  "timestamp": "2026-08-29T16:32:29.090503",
   "pokemon_data": {
-    "id": "0124",
-    "name": "Jynx",
-    "types": "Ice, Psychic",
-    "species": "Human Shape Pok\u00e9mon",
-    "height": "1.4 m",
-    "weight": "40.6 kg",
-    "abilities": "Oblivious, Forewarn, Dry-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+    "id": "0067",
+    "name": "Machoke",
+    "types": "Fighting",
+    "species": "Superpower Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "70.5 kg",
+    "abilities": "Guts, No-Guard, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
   }
 }
