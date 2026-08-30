@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-29T16:32:29.090503",
+  "timestamp": "2026-08-30T16:27:23.233669",
   "pokemon_data": {
-    "id": "0067",
-    "name": "Machoke",
-    "types": "Fighting",
-    "species": "Superpower Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "70.5 kg",
-    "abilities": "Guts, No-Guard, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+    "id": "1008",
+    "name": "Miraidon",
+    "types": "Electric, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "240.0 kg",
+    "abilities": "Hadron-Engine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
   }
 }
