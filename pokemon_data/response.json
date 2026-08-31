@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-30T16:27:23.233669",
+  "timestamp": "2026-08-31T19:00:09.208401",
   "pokemon_data": {
-    "id": "1008",
-    "name": "Miraidon",
-    "types": "Electric, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "240.0 kg",
-    "abilities": "Hadron-Engine",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
+    "id": "0796",
+    "name": "Xurkitree",
+    "types": "Electric",
+    "species": "Glowing Pok\u00e9mon",
+    "height": "3.8 m",
+    "weight": "100.0 kg",
+    "abilities": "Beast-Boost",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
   }
 }
