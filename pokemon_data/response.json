@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-31T19:00:09.208401",
+  "timestamp": "2026-09-01T16:23:36.171431",
   "pokemon_data": {
-    "id": "0796",
-    "name": "Xurkitree",
-    "types": "Electric",
-    "species": "Glowing Pok\u00e9mon",
-    "height": "3.8 m",
-    "weight": "100.0 kg",
-    "abilities": "Beast-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
+    "id": "0857",
+    "name": "Hattrem",
+    "types": "Psychic",
+    "species": "Serene Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "4.8 kg",
+    "abilities": "Healer, Anticipation, Magic-Bounce",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
   }
 }
