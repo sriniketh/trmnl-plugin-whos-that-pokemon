@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-01T16:23:36.171431",
+  "timestamp": "2026-09-02T16:21:11.566528",
   "pokemon_data": {
-    "id": "0857",
-    "name": "Hattrem",
-    "types": "Psychic",
-    "species": "Serene Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "4.8 kg",
-    "abilities": "Healer, Anticipation, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+    "id": "0870",
+    "name": "Falinks",
+    "types": "Fighting",
+    "species": "Formation Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "62.0 kg",
+    "abilities": "Battle-Armor, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
   }
 }
