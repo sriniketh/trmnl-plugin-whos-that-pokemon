@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-02T16:21:11.566528",
+  "timestamp": "2026-09-03T16:11:50.648061",
   "pokemon_data": {
-    "id": "0870",
-    "name": "Falinks",
-    "types": "Fighting",
-    "species": "Formation Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "62.0 kg",
-    "abilities": "Battle-Armor, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+    "id": "0980",
+    "name": "Clodsire",
+    "types": "Poison, Ground",
+    "species": "Spiny Fish Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "223.0 kg",
+    "abilities": "Poison-Point, Water-Absorb, Unaware",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
   }
 }
