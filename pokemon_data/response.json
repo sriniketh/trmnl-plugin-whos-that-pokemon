@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T16:11:50.648061",
+  "timestamp": "2026-09-04T16:06:42.467487",
   "pokemon_data": {
-    "id": "0980",
-    "name": "Clodsire",
-    "types": "Poison, Ground",
-    "species": "Spiny Fish Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "223.0 kg",
-    "abilities": "Poison-Point, Water-Absorb, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
+    "id": "0480",
+    "name": "Uxie",
+    "types": "Psychic",
+    "species": "Knowledge Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "0.3 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
   }
 }
