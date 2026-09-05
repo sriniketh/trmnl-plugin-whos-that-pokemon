@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-04T16:06:42.467487",
+  "timestamp": "2026-09-05T14:56:12.366074",
   "pokemon_data": {
-    "id": "0480",
-    "name": "Uxie",
-    "types": "Psychic",
-    "species": "Knowledge Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "0.3 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png"
+    "id": "0317",
+    "name": "Swalot",
+    "types": "Poison",
+    "species": "Poison Bag Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "80.0 kg",
+    "abilities": "Liquid-Ooze, Sticky-Hold, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png"
   }
 }
