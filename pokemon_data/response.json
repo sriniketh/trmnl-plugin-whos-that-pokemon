@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T17:37:16.649319",
+  "timestamp": "2026-09-08T16:24:32.071823",
   "pokemon_data": {
-    "id": "0099",
-    "name": "Kingler",
-    "types": "Water",
-    "species": "Pincer Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "60.0 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+    "id": "0081",
+    "name": "Magnemite",
+    "types": "Electric, Steel",
+    "species": "Magnet Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "6.0 kg",
+    "abilities": "Magnet-Pull, Sturdy, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
   }
 }
