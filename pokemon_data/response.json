@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T16:14:10.033112",
+  "timestamp": "2026-09-12T15:20:53.709931",
   "pokemon_data": {
-    "id": "0545",
-    "name": "Scolipede",
-    "types": "Bug, Poison",
-    "species": "Megapede Pok\u00e9mon",
-    "height": "2.5 m",
-    "weight": "200.5 kg",
-    "abilities": "Poison-Point, Swarm, Speed-Boost",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+    "id": "0386",
+    "name": "Deoxys-Normal",
+    "types": "Psychic",
+    "species": "Dna Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "60.8 kg",
+    "abilities": "Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
   }
 }
