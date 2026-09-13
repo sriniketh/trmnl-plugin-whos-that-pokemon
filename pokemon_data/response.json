@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T15:20:53.709931",
+  "timestamp": "2026-09-13T15:58:17.489376",
   "pokemon_data": {
-    "id": "0386",
-    "name": "Deoxys-Normal",
-    "types": "Psychic",
-    "species": "Dna Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "60.8 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
+    "id": "0820",
+    "name": "Greedent",
+    "types": "Normal",
+    "species": "Greedy Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "6.0 kg",
+    "abilities": "Cheek-Pouch, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png"
   }
 }
