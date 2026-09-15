@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-14T17:58:14.063010",
+  "timestamp": "2026-09-15T16:41:30.176045",
   "pokemon_data": {
-    "id": "0178",
-    "name": "Xatu",
-    "types": "Psychic, Flying",
-    "species": "Mystic Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "15.0 kg",
-    "abilities": "Synchronize, Early-Bird, Magic-Bounce",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+    "id": "0239",
+    "name": "Elekid",
+    "types": "Electric",
+    "species": "Electric Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "23.5 kg",
+    "abilities": "Static, Vital-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
   }
 }
