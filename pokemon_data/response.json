@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T16:34:44.454564",
+  "timestamp": "2026-09-17T16:40:30.999480",
   "pokemon_data": {
-    "id": "0183",
-    "name": "Marill",
-    "types": "Water, Fairy",
-    "species": "Aqua Mouse Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "8.5 kg",
-    "abilities": "Thick-Fat, Huge-Power, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png"
+    "id": "0059",
+    "name": "Arcanine",
+    "types": "Fire",
+    "species": "Legendary Pok\u00e9mon",
+    "height": "1.9 m",
+    "weight": "155.0 kg",
+    "abilities": "Intimidate, Flash-Fire, Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
   }
 }
