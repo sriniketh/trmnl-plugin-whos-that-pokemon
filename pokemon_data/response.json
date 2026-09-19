@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T16:10:56.954064",
+  "timestamp": "2026-09-19T15:42:39.762128",
   "pokemon_data": {
-    "id": "0369",
-    "name": "Relicanth",
-    "types": "Water, Rock",
-    "species": "Longevity Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "23.4 kg",
-    "abilities": "Swift-Swim, Rock-Head, Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png"
+    "id": "0833",
+    "name": "Chewtle",
+    "types": "Water",
+    "species": "Snapping Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.5 kg",
+    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
   }
 }
