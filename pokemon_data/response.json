@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T15:42:39.762128",
+  "timestamp": "2026-09-20T15:49:08.031787",
   "pokemon_data": {
-    "id": "0833",
-    "name": "Chewtle",
-    "types": "Water",
-    "species": "Snapping Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "8.5 kg",
-    "abilities": "Strong-Jaw, Shell-Armor, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
+    "id": "0071",
+    "name": "Victreebel",
+    "types": "Grass, Poison",
+    "species": "Flycatcher Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "15.5 kg",
+    "abilities": "Chlorophyll, Gluttony",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
   }
 }
