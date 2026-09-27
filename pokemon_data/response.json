@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T16:09:04.357853",
+  "timestamp": "2026-09-27T16:45:20.304874",
   "pokemon_data": {
-    "id": "0364",
-    "name": "Sealeo",
-    "types": "Ice, Water",
-    "species": "Ball Roll Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "87.6 kg",
-    "abilities": "Thick-Fat, Ice-Body, Oblivious",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png"
+    "id": "0106",
+    "name": "Hitmonlee",
+    "types": "Fighting",
+    "species": "Kicking Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "49.8 kg",
+    "abilities": "Limber, Reckless, Unburden",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
   }
 }
