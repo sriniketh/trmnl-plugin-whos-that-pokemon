@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T16:45:20.304874",
+  "timestamp": "2026-09-28T19:29:42.415894",
   "pokemon_data": {
-    "id": "0106",
-    "name": "Hitmonlee",
-    "types": "Fighting",
-    "species": "Kicking Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "49.8 kg",
-    "abilities": "Limber, Reckless, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+    "id": "0694",
+    "name": "Helioptile",
+    "types": "Electric, Normal",
+    "species": "Generator Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "6.0 kg",
+    "abilities": "Dry-Skin, Sand-Veil, Solar-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
   }
 }
