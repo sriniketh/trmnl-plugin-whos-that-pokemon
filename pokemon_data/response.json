@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-28T19:29:42.415894",
+  "timestamp": "2026-09-29T17:56:33.546910",
   "pokemon_data": {
-    "id": "0694",
-    "name": "Helioptile",
-    "types": "Electric, Normal",
-    "species": "Generator Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "6.0 kg",
-    "abilities": "Dry-Skin, Sand-Veil, Solar-Power",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
+    "id": "0129",
+    "name": "Magikarp",
+    "types": "Water",
+    "species": "Fish Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "10.0 kg",
+    "abilities": "Swift-Swim, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
   }
 }
