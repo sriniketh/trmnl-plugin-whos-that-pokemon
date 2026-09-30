@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T17:56:33.546910",
+  "timestamp": "2026-09-30T17:52:07.872675",
   "pokemon_data": {
-    "id": "0129",
-    "name": "Magikarp",
-    "types": "Water",
-    "species": "Fish Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "10.0 kg",
-    "abilities": "Swift-Swim, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+    "id": "0611",
+    "name": "Fraxure",
+    "types": "Dragon",
+    "species": "Axe Jaw Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "36.0 kg",
+    "abilities": "Rivalry, Mold-Breaker, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
   }
 }
