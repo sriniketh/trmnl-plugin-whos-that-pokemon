@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T17:52:07.872675",
+  "timestamp": "2026-10-01T18:17:26.100717",
   "pokemon_data": {
-    "id": "0611",
-    "name": "Fraxure",
-    "types": "Dragon",
-    "species": "Axe Jaw Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "36.0 kg",
-    "abilities": "Rivalry, Mold-Breaker, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
+    "id": "0171",
+    "name": "Lanturn",
+    "types": "Water, Electric",
+    "species": "Light Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "22.5 kg",
+    "abilities": "Volt-Absorb, Illuminate, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png"
   }
 }
