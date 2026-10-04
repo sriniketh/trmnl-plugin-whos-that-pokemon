@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T16:02:02.755908",
+  "timestamp": "2026-10-04T16:42:38.764310",
   "pokemon_data": {
-    "id": "0790",
-    "name": "Cosmoem",
-    "types": "Psychic",
-    "species": "Protostar Pok\u00e9mon",
-    "height": "0.1 m",
-    "weight": "999.9 kg",
-    "abilities": "Sturdy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png"
+    "id": "0332",
+    "name": "Cacturne",
+    "types": "Grass, Dark",
+    "species": "Scarecrow Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "77.4 kg",
+    "abilities": "Sand-Veil, Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
   }
 }
