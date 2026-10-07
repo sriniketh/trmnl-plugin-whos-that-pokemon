@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-06T18:10:30.023708",
+  "timestamp": "2026-10-07T18:44:00.249257",
   "pokemon_data": {
-    "id": "0057",
-    "name": "Primeape",
-    "types": "Fighting",
-    "species": "Pig Monkey Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "32.0 kg",
-    "abilities": "Vital-Spirit, Anger-Point, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+    "id": "0085",
+    "name": "Dodrio",
+    "types": "Normal, Flying",
+    "species": "Triple Bird Pok\u00e9mon",
+    "height": "1.8 m",
+    "weight": "85.2 kg",
+    "abilities": "Run-Away, Early-Bird, Tangled-Feet",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
   }
 }
