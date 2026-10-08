@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-07T18:44:00.249257",
+  "timestamp": "2026-10-08T18:42:20.281750",
   "pokemon_data": {
-    "id": "0085",
-    "name": "Dodrio",
-    "types": "Normal, Flying",
-    "species": "Triple Bird Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "85.2 kg",
-    "abilities": "Run-Away, Early-Bird, Tangled-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+    "id": "0677",
+    "name": "Espurr",
+    "types": "Psychic",
+    "species": "Restraint Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.5 kg",
+    "abilities": "Keen-Eye, Infiltrator, Own-Tempo",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png"
   }
 }
