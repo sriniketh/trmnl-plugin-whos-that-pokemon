@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-08T18:42:20.281750",
+  "timestamp": "2026-10-09T18:12:54.868236",
   "pokemon_data": {
-    "id": "0677",
-    "name": "Espurr",
-    "types": "Psychic",
-    "species": "Restraint Pok\u00e9mon",
-    "height": "0.3 m",
+    "id": "0686",
+    "name": "Inkay",
+    "types": "Dark, Psychic",
+    "species": "Revolving Pok\u00e9mon",
+    "height": "0.4 m",
     "weight": "3.5 kg",
-    "abilities": "Keen-Eye, Infiltrator, Own-Tempo",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png"
+    "abilities": "Contrary, Suction-Cups, Infiltrator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png"
   }
 }
