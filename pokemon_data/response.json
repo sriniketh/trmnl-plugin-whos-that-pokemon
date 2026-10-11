@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-10T17:11:57.572532",
+  "timestamp": "2026-10-11T17:34:37.724279",
   "pokemon_data": {
-    "id": "0488",
-    "name": "Cresselia",
-    "types": "Psychic",
-    "species": "Lunar Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "85.6 kg",
-    "abilities": "Levitate",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
+    "id": "0120",
+    "name": "Staryu",
+    "types": "Water",
+    "species": "Star Shape Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "34.5 kg",
+    "abilities": "Illuminate, Natural-Cure, Analytic",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
   }
 }
