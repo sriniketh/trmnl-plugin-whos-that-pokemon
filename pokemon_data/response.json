@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-12T21:08:19.118970",
+  "timestamp": "2026-10-13T19:06:55.222823",
   "pokemon_data": {
-    "id": "0964",
-    "name": "Palafin-Zero",
+    "id": "0055",
+    "name": "Golduck",
     "types": "Water",
-    "species": "Dolphin Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "60.2 kg",
-    "abilities": "Zero-To-Hero",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
+    "species": "Duck Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "76.6 kg",
+    "abilities": "Damp, Cloud-Nine, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
   }
 }
