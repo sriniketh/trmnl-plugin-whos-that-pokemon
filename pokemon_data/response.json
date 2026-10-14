@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T19:06:55.222823",
+  "timestamp": "2026-10-14T16:55:29.675729",
   "pokemon_data": {
-    "id": "0055",
-    "name": "Golduck",
-    "types": "Water",
-    "species": "Duck Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "76.6 kg",
-    "abilities": "Damp, Cloud-Nine, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+    "id": "0484",
+    "name": "Palkia",
+    "types": "Water, Dragon",
+    "species": "Spatial Pok\u00e9mon",
+    "height": "4.2 m",
+    "weight": "336.0 kg",
+    "abilities": "Pressure, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
   }
 }
