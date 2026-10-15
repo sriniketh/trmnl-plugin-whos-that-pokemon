@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T16:55:29.675729",
+  "timestamp": "2026-10-15T16:42:10.407803",
   "pokemon_data": {
-    "id": "0484",
-    "name": "Palkia",
-    "types": "Water, Dragon",
-    "species": "Spatial Pok\u00e9mon",
-    "height": "4.2 m",
-    "weight": "336.0 kg",
-    "abilities": "Pressure, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+    "id": "0975",
+    "name": "Cetitan",
+    "types": "Ice",
+    "species": "Terra Whale Pok\u00e9mon",
+    "height": "4.5 m",
+    "weight": "700.0 kg",
+    "abilities": "Thick-Fat, Slush-Rush, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png"
   }
 }
