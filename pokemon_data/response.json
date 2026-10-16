@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T16:42:10.407803",
+  "timestamp": "2026-10-16T16:24:39.777507",
   "pokemon_data": {
-    "id": "0975",
-    "name": "Cetitan",
-    "types": "Ice",
-    "species": "Terra Whale Pok\u00e9mon",
-    "height": "4.5 m",
-    "weight": "700.0 kg",
-    "abilities": "Thick-Fat, Slush-Rush, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png"
+    "id": "0807",
+    "name": "Zeraora",
+    "types": "Electric",
+    "species": "Thunderclap Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "44.5 kg",
+    "abilities": "Volt-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png"
   }
 }
