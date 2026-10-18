@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T15:19:18.049716",
+  "timestamp": "2026-10-18T15:40:35.573630",
   "pokemon_data": {
-    "id": "0570",
-    "name": "Zorua",
-    "types": "Dark",
-    "species": "Tricky Fox Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "12.5 kg",
-    "abilities": "Illusion",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+    "id": "1001",
+    "name": "Wo-Chien",
+    "types": "Dark, Grass",
+    "species": "Ruinous Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "74.2 kg",
+    "abilities": "Tablets-Of-Ruin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png"
   }
 }
