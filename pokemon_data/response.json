@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-19T18:35:14.675281",
+  "timestamp": "2026-10-20T16:39:17.089654",
   "pokemon_data": {
-    "id": "0773",
-    "name": "Silvally",
-    "types": "Normal",
-    "species": "Synthetic Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "100.5 kg",
-    "abilities": "Rks-System",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png"
+    "id": "0979",
+    "name": "Annihilape",
+    "types": "Fighting, Ghost",
+    "species": "Rage Monkey Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "56.0 kg",
+    "abilities": "Vital-Spirit, Inner-Focus, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
   }
 }
