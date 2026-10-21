@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-20T16:39:17.089654",
+  "timestamp": "2026-10-21T16:57:58.477984",
   "pokemon_data": {
-    "id": "0979",
-    "name": "Annihilape",
-    "types": "Fighting, Ghost",
-    "species": "Rage Monkey Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "56.0 kg",
-    "abilities": "Vital-Spirit, Inner-Focus, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
+    "id": "0129",
+    "name": "Magikarp",
+    "types": "Water",
+    "species": "Fish Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "10.0 kg",
+    "abilities": "Swift-Swim, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
   }
 }
