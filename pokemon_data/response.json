@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-21T16:57:58.477984",
+  "timestamp": "2026-10-22T16:57:05.637605",
   "pokemon_data": {
-    "id": "0129",
-    "name": "Magikarp",
-    "types": "Water",
-    "species": "Fish Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "10.0 kg",
-    "abilities": "Swift-Swim, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+    "id": "0277",
+    "name": "Swellow",
+    "types": "Normal, Flying",
+    "species": "Swallow Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "19.8 kg",
+    "abilities": "Guts, Scrappy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
   }
 }
