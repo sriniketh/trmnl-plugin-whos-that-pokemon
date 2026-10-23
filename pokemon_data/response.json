@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-22T16:57:05.637605",
+  "timestamp": "2026-10-23T16:49:20.351954",
   "pokemon_data": {
-    "id": "0277",
-    "name": "Swellow",
-    "types": "Normal, Flying",
-    "species": "Swallow Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "19.8 kg",
-    "abilities": "Guts, Scrappy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
+    "id": "0734",
+    "name": "Yungoos",
+    "types": "Normal",
+    "species": "Loitering Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "6.0 kg",
+    "abilities": "Stakeout, Strong-Jaw, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
   }
 }
