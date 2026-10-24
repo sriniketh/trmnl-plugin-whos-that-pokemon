@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-23T16:49:20.351954",
+  "timestamp": "2026-10-24T15:41:46.421961",
   "pokemon_data": {
-    "id": "0734",
-    "name": "Yungoos",
-    "types": "Normal",
-    "species": "Loitering Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.0 kg",
-    "abilities": "Stakeout, Strong-Jaw, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
+    "id": "0627",
+    "name": "Rufflet",
+    "types": "Normal, Flying",
+    "species": "Eaglet Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "10.5 kg",
+    "abilities": "Keen-Eye, Sheer-Force, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
   }
 }
