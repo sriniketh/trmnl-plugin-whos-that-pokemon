@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T15:41:46.421961",
+  "timestamp": "2026-10-25T15:53:09.911031",
   "pokemon_data": {
-    "id": "0627",
-    "name": "Rufflet",
-    "types": "Normal, Flying",
-    "species": "Eaglet Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "10.5 kg",
-    "abilities": "Keen-Eye, Sheer-Force, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+    "id": "0863",
+    "name": "Perrserker",
+    "types": "Steel",
+    "species": "Viking Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "28.0 kg",
+    "abilities": "Battle-Armor, Tough-Claws, Steely-Spirit",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
   }
 }
