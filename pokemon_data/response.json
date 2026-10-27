@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T18:32:31.816287",
+  "timestamp": "2026-10-27T17:48:14.126346",
   "pokemon_data": {
-    "id": "0736",
-    "name": "Grubbin",
-    "types": "Bug",
-    "species": "Larva Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "4.4 kg",
-    "abilities": "Swarm",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png"
+    "id": "0292",
+    "name": "Shedinja",
+    "types": "Bug, Ghost",
+    "species": "Shed Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "1.2 kg",
+    "abilities": "Wonder-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
   }
 }
