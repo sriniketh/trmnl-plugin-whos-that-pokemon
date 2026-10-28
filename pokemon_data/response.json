@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T17:48:14.126346",
+  "timestamp": "2026-10-28T18:12:07.560915",
   "pokemon_data": {
-    "id": "0292",
-    "name": "Shedinja",
-    "types": "Bug, Ghost",
-    "species": "Shed Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "1.2 kg",
-    "abilities": "Wonder-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png"
+    "id": "0089",
+    "name": "Muk",
+    "types": "Poison",
+    "species": "Sludge Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "30.0 kg",
+    "abilities": "Stench, Sticky-Hold, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
   }
 }
