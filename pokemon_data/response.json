@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-30T17:53:40.227569",
+  "timestamp": "2026-10-31T17:05:08.122448",
   "pokemon_data": {
-    "id": "0898",
-    "name": "Calyrex",
-    "types": "Psychic, Grass",
-    "species": "King Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "7.7 kg",
-    "abilities": "Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+    "id": "0066",
+    "name": "Machop",
+    "types": "Fighting",
+    "species": "Superpower Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "19.5 kg",
+    "abilities": "Guts, No-Guard, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
   }
 }
