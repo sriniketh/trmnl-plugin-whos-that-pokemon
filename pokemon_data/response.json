@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-31T17:05:08.122448",
+  "timestamp": "2026-11-01T17:48:59.753138",
   "pokemon_data": {
-    "id": "0066",
-    "name": "Machop",
-    "types": "Fighting",
-    "species": "Superpower Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "19.5 kg",
-    "abilities": "Guts, No-Guard, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+    "id": "0461",
+    "name": "Weavile",
+    "types": "Dark, Ice",
+    "species": "Sharp Claw Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "34.0 kg",
+    "abilities": "Pressure, Pickpocket",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
   }
 }
