@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T19:45:38.988991",
+  "timestamp": "2026-11-06T19:08:47.097993",
   "pokemon_data": {
-    "id": "0767",
-    "name": "Wimpod",
-    "types": "Bug, Water",
-    "species": "Turn Tail Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "12.0 kg",
-    "abilities": "Wimp-Out",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png"
+    "id": "1012",
+    "name": "Poltchageist",
+    "types": "Grass, Ghost",
+    "species": "Matcha Pok\u00e9mon",
+    "height": "0.1 m",
+    "weight": "1.1 kg",
+    "abilities": "Hospitality, Heatproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
   }
 }
