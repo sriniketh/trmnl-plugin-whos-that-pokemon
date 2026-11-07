@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-06T19:08:47.097993",
+  "timestamp": "2026-11-07T17:39:20.939588",
   "pokemon_data": {
-    "id": "1012",
-    "name": "Poltchageist",
-    "types": "Grass, Ghost",
-    "species": "Matcha Pok\u00e9mon",
-    "height": "0.1 m",
+    "id": "0385",
+    "name": "Jirachi",
+    "types": "Steel, Psychic",
+    "species": "Wish Pok\u00e9mon",
+    "height": "0.3 m",
     "weight": "1.1 kg",
-    "abilities": "Hospitality, Heatproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+    "abilities": "Serene-Grace",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
   }
 }
