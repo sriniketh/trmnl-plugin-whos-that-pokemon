@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-07T17:39:20.939588",
+  "timestamp": "2026-11-08T17:48:54.496670",
   "pokemon_data": {
-    "id": "0385",
-    "name": "Jirachi",
-    "types": "Steel, Psychic",
-    "species": "Wish Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.1 kg",
-    "abilities": "Serene-Grace",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
+    "id": "0301",
+    "name": "Delcatty",
+    "types": "Normal",
+    "species": "Prim Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.6 kg",
+    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
   }
 }
