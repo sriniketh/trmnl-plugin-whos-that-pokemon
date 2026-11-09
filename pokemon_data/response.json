@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-08T17:48:54.496670",
+  "timestamp": "2026-11-09T22:09:25.677774",
   "pokemon_data": {
-    "id": "0301",
-    "name": "Delcatty",
-    "types": "Normal",
-    "species": "Prim Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.6 kg",
-    "abilities": "Cute-Charm, Normalize, Wonder-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
+    "id": "0519",
+    "name": "Pidove",
+    "types": "Normal, Flying",
+    "species": "Tiny Pigeon Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "2.1 kg",
+    "abilities": "Big-Pecks, Super-Luck, Rivalry",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png"
   }
 }
