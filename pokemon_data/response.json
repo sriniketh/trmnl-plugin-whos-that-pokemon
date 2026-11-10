@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T22:09:25.677774",
+  "timestamp": "2026-11-10T19:30:53.826423",
   "pokemon_data": {
-    "id": "0519",
-    "name": "Pidove",
-    "types": "Normal, Flying",
-    "species": "Tiny Pigeon Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.1 kg",
-    "abilities": "Big-Pecks, Super-Luck, Rivalry",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png"
+    "id": "0715",
+    "name": "Noivern",
+    "types": "Flying, Dragon",
+    "species": "Sound Wave Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "85.0 kg",
+    "abilities": "Frisk, Infiltrator, Telepathy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
   }
 }
