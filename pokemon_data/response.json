@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T19:30:53.826423",
+  "timestamp": "2026-11-11T19:27:36.178086",
   "pokemon_data": {
-    "id": "0715",
-    "name": "Noivern",
-    "types": "Flying, Dragon",
-    "species": "Sound Wave Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "85.0 kg",
-    "abilities": "Frisk, Infiltrator, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
+    "id": "0578",
+    "name": "Duosion",
+    "types": "Psychic",
+    "species": "Mitosis Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "8.0 kg",
+    "abilities": "Overcoat, Magic-Guard, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png"
   }
 }
