@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T19:44:35.852284",
+  "timestamp": "2026-11-13T19:26:41.138543",
   "pokemon_data": {
-    "id": "0892",
-    "name": "Urshifu-Single-Strike",
-    "types": "Fighting, Dark",
-    "species": "Wushu Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "105.0 kg",
-    "abilities": "Unseen-Fist",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
+    "id": "0278",
+    "name": "Wingull",
+    "types": "Water, Flying",
+    "species": "Seagull Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "9.5 kg",
+    "abilities": "Keen-Eye, Hydration, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png"
   }
 }
