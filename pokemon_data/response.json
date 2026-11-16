@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-15T18:40:48.976320",
+  "timestamp": "2026-11-16T21:50:46.198927",
   "pokemon_data": {
-    "id": "0773",
-    "name": "Silvally",
-    "types": "Normal",
-    "species": "Synthetic Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "100.5 kg",
-    "abilities": "Rks-System",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png"
+    "id": "0894",
+    "name": "Regieleki",
+    "types": "Electric",
+    "species": "Electron Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "145.0 kg",
+    "abilities": "Transistor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png"
   }
 }
