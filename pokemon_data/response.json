@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T20:15:37.761996",
+  "timestamp": "2026-11-19T20:19:29.693740",
   "pokemon_data": {
-    "id": "0149",
-    "name": "Dragonite",
-    "types": "Dragon, Flying",
-    "species": "Dragon Pok\u00e9mon",
-    "height": "2.2 m",
-    "weight": "210.0 kg",
-    "abilities": "Inner-Focus, Multiscale",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+    "id": "0290",
+    "name": "Nincada",
+    "types": "Bug, Ground",
+    "species": "Trainee Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "abilities": "Compound-Eyes, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
   }
 }
