@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-19T20:19:29.693740",
+  "timestamp": "2026-11-20T19:50:58.668499",
   "pokemon_data": {
-    "id": "0290",
-    "name": "Nincada",
-    "types": "Bug, Ground",
-    "species": "Trainee Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "5.5 kg",
-    "abilities": "Compound-Eyes, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
+    "id": "0729",
+    "name": "Brionne",
+    "types": "Water",
+    "species": "Pop Star Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "17.5 kg",
+    "abilities": "Torrent, Liquid-Voice",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png"
   }
 }
