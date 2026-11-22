@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-21T18:57:16.273394",
+  "timestamp": "2026-11-22T19:18:01.706932",
   "pokemon_data": {
-    "id": "0787",
-    "name": "Tapu-Bulu",
-    "types": "Grass, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "45.5 kg",
-    "abilities": "Grassy-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png"
+    "id": "0299",
+    "name": "Nosepass",
+    "types": "Rock",
+    "species": "Compass Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "97.0 kg",
+    "abilities": "Sturdy, Magnet-Pull, Sand-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png"
   }
 }
