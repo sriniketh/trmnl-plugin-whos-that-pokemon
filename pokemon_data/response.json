@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-23T23:40:13.669946",
+  "timestamp": "2026-11-24T22:11:09.386544",
   "pokemon_data": {
-    "id": "0235",
-    "name": "Smeargle",
-    "types": "Normal",
-    "species": "Painter Pok\u00e9mon",
-    "height": "1.2 m",
-    "weight": "58.0 kg",
-    "abilities": "Own-Tempo, Technician, Moody",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png"
+    "id": "0658",
+    "name": "Greninja",
+    "types": "Water, Dark",
+    "species": "Ninja Pok\u00e9mon",
+    "height": "1.5 m",
+    "weight": "40.0 kg",
+    "abilities": "Torrent, Protean",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
   }
 }
