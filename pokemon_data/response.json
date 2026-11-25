@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-24T22:11:09.386544",
+  "timestamp": "2026-11-25T21:27:42.792273",
   "pokemon_data": {
-    "id": "0658",
-    "name": "Greninja",
-    "types": "Water, Dark",
-    "species": "Ninja Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.0 kg",
-    "abilities": "Torrent, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+    "id": "0942",
+    "name": "Maschiff",
+    "types": "Dark",
+    "species": "Rascal Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "16.0 kg",
+    "abilities": "Intimidate, Run-Away, Stakeout",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
   }
 }
