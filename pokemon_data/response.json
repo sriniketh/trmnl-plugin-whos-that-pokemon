@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-25T21:27:42.792273",
+  "timestamp": "2026-11-26T21:14:23.279872",
   "pokemon_data": {
-    "id": "0942",
-    "name": "Maschiff",
-    "types": "Dark",
-    "species": "Rascal Pok\u00e9mon",
+    "id": "0410",
+    "name": "Shieldon",
+    "types": "Rock, Steel",
+    "species": "Shield Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "16.0 kg",
-    "abilities": "Intimidate, Run-Away, Stakeout",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
+    "weight": "57.0 kg",
+    "abilities": "Sturdy, Soundproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
   }
 }
